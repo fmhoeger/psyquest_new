@@ -9,6 +9,7 @@ DEG(
   dict = psyquest::psyquest_dict,
   subscales = c(),
   language = "en",
+  year_range = c(1930, 2013),
   ...
 )
 }
@@ -24,7 +25,9 @@ If no subscales are provided all subscales are selected.}
 
 \item{language}{Language the questionnaire is rendered in.}
 
-\item{...}{Further arguments to be passed to \code{\link{DEG}()}.}
+\item{year_range}{(length 2 int vector) The minimum and maximum year for birth date dropdown boxes.}
+
+\item{...}{Further arguments to be passed to \code{\link{DEG}()} (e.g., can be used to set choice of country of residence.)}
 }
 \description{
 This function defines a DEG module for incorporation into a

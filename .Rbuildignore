@@ -5,6 +5,7 @@
 .travis.yml
 ^Makefile
 data_raw
+output
 
 DEVELOPMENT.md
 TODO.md

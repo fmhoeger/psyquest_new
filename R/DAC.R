@@ -18,7 +18,6 @@ DAC <- function(label = "DAC",
   stopifnot(purrr::is_scalar_character(label))
 
   questionnaire_id <- "DAC"
-
   main_test(
     questionnaire_id = questionnaire_id,
     label = label,

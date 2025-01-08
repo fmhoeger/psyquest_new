@@ -1,0 +1,39 @@
+main_id;language;template;score_func;subscales;layout
+TIMI_0002;de;6-option multiple choice;function(x) x+0;Earworm Frequency;vertical
+TIMI_0002;en;6-option multiple choice;function(x) x+0;Earworm Frequency;vertical
+TIMI_0003;de;5-option multiple choice;function(x) x+0;Help;vertical
+TIMI_0003;en;5-option multiple choice;function(x) x+0;Help;vertical
+TIMI_0004;de;5-option multiple choice;function(x) x+0;Negative Valence;vertical
+TIMI_0004;en;5-option multiple choice;function(x) x+0;Negative Valence;vertical
+TIMI_0005;de;5-option multiple choice;function(x) x+0;Movement;vertical
+TIMI_0005;en;5-option multiple choice;function(x) x+0;Movement;vertical
+TIMI_0006;de;5-option multiple choice;function(x) x+0;Negative Valence;vertical
+TIMI_0006;en;5-option multiple choice;function(x) x+0;Negative Valence;vertical
+TIMI_0007;de;5-option multiple choice;function(x) x+0;Personal Reflection;vertical
+TIMI_0007;en;5-option multiple choice;function(x) x+0;Personal Reflection;vertical
+TIMI_0008;de;5-option multiple choice;function(x) x+0;Negative Valence;vertical
+TIMI_0008;en;5-option multiple choice;function(x) x+0;Negative Valence;vertical
+TIMI_0009;de;5-option multiple choice;function(x) x+0;Movement;vertical
+TIMI_0009;en;5-option multiple choice;function(x) x+0;Movement;vertical
+TIMI_0010;de;5-option multiple choice;function(x) x+0;Negative Valence;vertical
+TIMI_0010;en;5-option multiple choice;function(x) x+0;Negative Valence;vertical
+TIMI_0011;de;5-option multiple choice;function(x) x+0;Negative Valence;vertical
+TIMI_0011;en;5-option multiple choice;function(x) x+0;Negative Valence;vertical
+TIMI_0012;de;5-option multiple choice;function(x) x+0;Personal Reflection;vertical
+TIMI_0012;en;5-option multiple choice;function(x) x+0;Personal Reflection;vertical
+TIMI_0013;de;5-option multiple choice;function(x) x+0;Help;vertical
+TIMI_0013;en;5-option multiple choice;function(x) x+0;Help;vertical
+TIMI_0014;de;5-option multiple choice;function(x) x+0;Negative Valence;vertical
+TIMI_0014;en;5-option multiple choice;function(x) x+0;Negative Valence;vertical
+TIMI_0015;de;5-option multiple choice;function(x) x+0;Movement;vertical
+TIMI_0015;en;5-option multiple choice;function(x) x+0;Movement;vertical
+TIMI_0016;de;5-option multiple choice;function(x) x+0;Negative Valence;vertical
+TIMI_0016;en;5-option multiple choice;function(x) x+0;Negative Valence;vertical
+TIMI_0017;de;5-option multiple choice;function(x) x+0;Personal Reflection;vertical
+TIMI_0017;en;5-option multiple choice;function(x) x+0;Personal Reflection;vertical
+TIMI_0018;de;5-option multiple choice;function(x) x+0;Earworm Length;vertical
+TIMI_0018;en;5-option multiple choice;function(x) x+0;Earworm Length;vertical
+TIMI_0019;de;5-option multiple choice;function(x) x+0;Earworm Duration;vertical
+TIMI_0019;en;5-option multiple choice;function(x) x+0;Earworm Duration;vertical
+TIMI_0020;de;5-option multiple choice;function(x) x+0;Earworm Removal;vertical
+TIMI_0020;en;5-option multiple choice;function(x) x+0;Earworm Removal;vertical

@@ -1,40 +1,40 @@
-"key";"de";"en"
-"TCCM_0000_PROMPT";"Fragebogen zu gegenwärtigen musikalischen Aktivitäten";"Concurrent Musical Activities Questionnaire"
-"TCCM_0001_CHOICE1";"in einem Orchester gespielt";"play in an orchestra"
-"TCCM_0001_CHOICE2";"mit Freunden Musik gemacht";"sometimes play music with friends"
-"TCCM_0001_CHOICE3";"bei Events, Konzerten oder speziellen Gelegenheiten Musik gemacht";"sometimes make music at events or special occasions"
-"TCCM_0001_CHOICE4";"Einzelunterricht an einem Instrument (oder Gesang) erhalten";"receive individual lessons on an instrument (or voice)"
-"TCCM_0001_CHOICE5";"Gruppenunterricht an einem Instrument (oder Gesang) erhalten";"receive group lessons on an instrument (or voice)"
-"TCCM_0001_CHOICE6";"Musikunterricht in der Schule gehabt";"have music classes in school"
-"TCCM_0001_CHOICE7";"an (einer) Musik-AG(s) nach der Schule teilgenommen";"attend music-related after school clubs"
-"TCCM_0001_CHOICE8";"Playlists für mich oder andere zusammengestellt";"sometimes compile playlists for myself or others"
-"TCCM_0001_CHOICE9";"nichts der oben genannten Aktivitäten";"none of the above"
-"TCCM_0001_PROMPT";"Bitte lies die folgende Liste mit musikalischen Aktivitäten und wähle die aus, die du in den vergangenen **drei Monaten** gemacht hast. Bitte klicke alles Zutreffende an.";"Please read the following list of musical activities and select the ones that you have done during the last **three months**. Please tick all that apply."
-"TCCM_0002_CHOICE1";"0 Schulstunden Musikunterricht pro Woche";"0 hours of music class per week"
-"TCCM_0002_CHOICE2";"1 Schulstunde Musikunterricht pro Woche";"1 hour of music class per week"
-"TCCM_0002_CHOICE3";"2 Schulstunden Musikunterricht pro Woche";"2 hours of music class per week"
-"TCCM_0002_CHOICE4";"3 Schulstunden Musikunterricht pro Woche";"3 hours of music class per week"
-"TCCM_0002_CHOICE5";"4 oder mehr Schulstunden Musikunterricht pro Woche";"4 or more hours of music class per week"
-"TCCM_0002_PROMPT";"In den vergangenen drei Monaten hatte ich";"In the last three months I had"
-"TCCM_0003_CHOICE1";"0 Schulstunden Musik-AG pro Woche";"0 hours of music-related after school class per week"
-"TCCM_0003_CHOICE2";"1 Schulstunde Musik-AG pro Woche";"1 hour of music-related after school class per week"
-"TCCM_0003_CHOICE3";"2 Schulstunden Musik-AG pro Woche";"2 hours of music-related after school class per week"
-"TCCM_0003_CHOICE4";"3 Schulstunden Musik-AG pro Woche";"3 hours of music-related after school class per week"
-"TCCM_0003_CHOICE5";"4 oder mehr Schulstunden Musik-AG pro Woche";"4 or more hours of music-related after school class per week"
-"TCCM_0003_PROMPT";"In den vergangenen drei Monaten hatte ich";"In the last three months I had"
-"TCCM_0004_CHOICE1";"0 Minuten pro Tag";"0 minutes per day"
-"TCCM_0004_CHOICE2";"0-15 Minuten pro Tag";"0-15 minutes per day"
-"TCCM_0004_CHOICE3";"15-30 Minuten pro Tag";"15-30 minutes per day"
-"TCCM_0004_CHOICE4";"30-60 Minuten pro Tag";"30-60 minutes per day"
-"TCCM_0004_CHOICE5";"1-1,5 Stunden pro Tag";"1-1.5 hours per day"
-"TCCM_0004_CHOICE6";"1,5-2 Stunden pro Tag";"1.5-2 hours per day"
-"TCCM_0004_CHOICE7";"mehr als 2 Stunden pro Tag";"more than 2 hours per day"
-"TCCM_0004_PROMPT";"Wie oft übst du im Moment dein(e) Instrument(e)?";"How much do you currently practice your instrument(s)?"
-"TCCM_0005_CHOICE1";"0 Stunden pro Woche";"0 hours per week"
-"TCCM_0005_CHOICE2";"0-1 Stunde pro Woche";"0-1 hours per week"
-"TCCM_0005_CHOICE3";"1-2 Stunden pro Woche";"1-2 hours per week"
-"TCCM_0005_CHOICE4";"2-4 Stunden pro Woche";"2-4 hours per week"
-"TCCM_0005_CHOICE5";"4-7 Stunden pro Woche";"4-7 hours per week"
-"TCCM_0005_CHOICE6";"7-14 Stunden pro Woche";"7-14 hours per week"
-"TCCM_0005_CHOICE7";"mehr als 14 Stunden pro Woche";"more than 14 hours per week"
-"TCCM_0005_PROMPT";"Alles zusammen genommen (eigenes Üben, Proben, Instrumentalunterricht, Auftritte etc.), wie viel Zeit verbringst du im Moment pro Woche damit, Musik zu machen?";"Taken all together (own practice, rehearsals, instrument lessons, gigs, etc.) how much time do you spend making music per week at the moment?"
+key;de;en;de_f;it;es;lv
+TCCM_0000_PROMPT;Fragebogen zu gegenwärtigen musikalischen Aktivitäten;Concurrent Musical Activities Questionnaire;Fragebogen zu gegenwärtigen musikalischen Aktivitäten;Questionario sulle Attività Musicali Concorrenti;Cuestionario de Actividades Musicales Complementarias;Aptauja par pašreizējāmmūzikas aktivitātēm
+TCCM_0001_CHOICE1;in einem Orchester gespielt;play in an orchestra;in einem Orchester gespielt;Suonare in orchestra;Tocar en orquesta;spēlēju orķestrī
+TCCM_0001_CHOICE2;mit Freunden Musik gemacht;sometimes play music with friends;mit Freunden Musik gemacht;Suonare qualche volta con gli amici;Tocar alguna vez con los amigos;dažkārt muzicēju kopā ar draugiem
+TCCM_0001_CHOICE3;bei Events, Konzerten oder speziellen Gelegenheiten Musik gemacht;sometimes make music at events or special occasions;bei Events, Konzerten oder speziellen Gelegenheiten Musik gemacht;Suonare qualche volta durante eventi o occasioni speciali;Tocar alguna vez en eventos u ocasiones especiales;dažkārt muzicēju pasākumos vai citos īpašos notikumos
+TCCM_0001_CHOICE4;Einzelunterricht an einem Instrument (oder Gesang) erhalten;receive individual lessons on an instrument (or voice);Einzelunterricht an einem Instrument (oder Gesang) erhalten;Ricevere lezioni individuali di uno strumento (o di canto);Recibir clases individuales de un instrumento (o canto);apmeklēju individuālās stundas instrumenta spēlē vai dziedāšanā
+TCCM_0001_CHOICE5;Gruppenunterricht an einem Instrument (oder Gesang) erhalten;receive group lessons on an instrument (or voice);Gruppenunterricht an einem Instrument (oder Gesang) erhalten;Ricevere lezioni di gruppo di uno strumento (o di canto);Recibir clases grupales de un instrumento (o canto);apmeklēju grupu stundas instrumenta spēlē vai dziedāšanā
+TCCM_0001_CHOICE6;Musikunterricht in der Schule gehabt;have music classes in school;Musikunterricht in der Schule gehabt;Frequentare lezioni di musica a scuola;Asistir a clases de música en la escuela;apgūstu mūziku skolā
+TCCM_0001_CHOICE7;an (einer) Musik-AG(s) nach der Schule teilgenommen;attend music-related after school clubs;an (einer) Musik-AG(s) nach der Schule teilgenommen;Frequentare attività dopo scuola correlate alla musica;Asistir a actividades extracurriculares relacionadas con la música.;apmeklēju ārpusskolas mūzikas pulciņus
+TCCM_0001_CHOICE8;Playlists für mich oder andere zusammengestellt;sometimes compile playlists for myself or others;Playlists für mich oder andere zusammengestellt;Creare ogni tanto playlist per me stesso/a o per gli altri;Crear alguna vez una lista de reproducción (escuchar) para mí o para los demás;dažkārt sastādu mūzikas atskaņošanas sarakstu (pleilisti) sev vai citiem
+TCCM_0001_CHOICE9;nichts der oben genannten Aktivitäten;none of the above;nichts der oben genannten Aktivitäten;Nessuna delle precedenti;Ninguna de las anteriores;neviens no augstāk minētā
+TCCM_0001_PROMPT;Bitte lies die folgende Liste mit musikalischen Aktivitäten und wähle die aus, die du in den vergangenen **drei Monaten** gemacht hast. Bitte klicke alles Zutreffende an.;Please read the following list of musical activities and select the ones that you have done during the last **three months**. Please tick all that apply.;Bitte lies die folgende Liste mit musikalischen Aktivitäten und wähle die aus, die du in den vergangenen **drei Monaten** gemacht hast. Bitte klicke alles Zutreffende an.;Per favore, leggi il seguente elenco di attività musicali e seleziona quelle che hai svolto durante gli ultimi tre mesi. Per favore, seleziona tutte le risposte pertinenti.;Por favor, lee el siguiente listado de actividades musicales y selecciona las que has realizado en los últimos tres meses. Selecciona todas las respuestas significativas.;Lūdzu, izlasi piedāvāto muzikālo aktivitāšu sarakstu un izvēlies tās, ar kurām nodarbojies pēdējo **trīs mēnešu** laikā. Atzīmē visas atbilstošās aktivitātes.
+TCCM_0002_CHOICE1;0 Schulstunden Musikunterricht pro Woche;0 hours of music class per week;0 Schulstunden Musikunterricht pro Woche;0 ore di lezione di musica settimanali;0 horas de clases de música por semana;0 mūzikas nodarbības nedēļā
+TCCM_0002_CHOICE2;1 Schulstunde Musikunterricht pro Woche;1 hour of music class per week;1 Schulstunde Musikunterricht pro Woche;1 ora di lezione di musica settimanale;1 hora de clase de música por semana;1 mūzikas nodarbība nedēļā
+TCCM_0002_CHOICE3;2 Schulstunden Musikunterricht pro Woche;2 hours of music class per week;2 Schulstunden Musikunterricht pro Woche;2 ore di lezione di musica settimanali;2 horas de clase de música por semana;2 mūzikas nodarbības nedēļā
+TCCM_0002_CHOICE4;3 Schulstunden Musikunterricht pro Woche;3 hours of music class per week;3 Schulstunden Musikunterricht pro Woche;3 ore di lezione di musica settimanali;3 horas de clase de música por semana;3 mūzikas nodarbības nedēļā
+TCCM_0002_CHOICE5;4 oder mehr Schulstunden Musikunterricht pro Woche;4 or more hours of music class per week;4 oder mehr Schulstunden Musikunterricht pro Woche;4 ore di lezione di musica settimanali;4 horas de clase de música por semana;4 vai vairāk mūzikas nodarbības nedēļā
+TCCM_0002_PROMPT;In den vergangenen drei Monaten hatte ich;In the last three months I had;In den vergangenen drei Monaten hatte ich;Negli ultimi 3 mesi ho fatto;En los últimos tres meses he tenido;Pedējo trīs mēnešu laikā man skolā (tostarp mūzikas skolā) bija.
+TCCM_0003_CHOICE1;0 Schulstunden Musik-AG pro Woche;0 hours of music-related after school class per week;0 Schulstunden Musik-AG pro Woche;0 ore a settimana di lezioni correlate alla musica dopo la scuola;0 hora de clases de música extracurriculares por semana;0 ārpusskolas mūzikas pulciņa nodarbības nedēļā
+TCCM_0003_CHOICE2;1 Schulstunde Musik-AG pro Woche;1 hour of music-related after school class per week;1 Schulstunde Musik-AG pro Woche;1 ora a settimana di lezione correlata alla musica dopo la scuola;1 hora de clases de música extracurricular por semana;1 ārpusskolas mūzikas pulciņa nodarbība nedēļā
+TCCM_0003_CHOICE3;2 Schulstunden Musik-AG pro Woche;2 hours of music-related after school class per week;2 Schulstunden Musik-AG pro Woche;2 ore a settimana di lezioni correlate alla musica dopo la scuola;2 horas de clases de música extracurriculares por semana;2 ārpusskolas mūzikas pulciņa nodarbības nedēļā
+TCCM_0003_CHOICE4;3 Schulstunden Musik-AG pro Woche;3 hours of music-related after school class per week;3 Schulstunden Musik-AG pro Woche;3 ore a settimana di lezioni correlate alla musica dopo la scuola;3 horas de clases de música extracurriculares por semana;3 ārpusskolas mūzikas pulciņu nodarbības nedēļā
+TCCM_0003_CHOICE5;4 oder mehr Schulstunden Musik-AG pro Woche;4 or more hours of music-related after school class per week;4 oder mehr Schulstunden Musik-AG pro Woche;4 ore a settimana di lezioni correlate alla musica dopo la scuola;4 horas de clases de música extracurriculares por semana;4 vai vairāk ārpusskolas mūzikas pulciņu nodarbības nedēļā
+TCCM_0003_PROMPT;In den vergangenen drei Monaten hatte ich;In the last three months I had;In den vergangenen drei Monaten hatte ich;Negli ultimi 3 mesi ho fatto;En los últimos tres meses he tenido;Pedējo trīs mēnešu laikā man bija
+TCCM_0004_CHOICE1;0 Minuten pro Tag;0 minutes per day;0 Minuten pro Tag;0 minuti al giorno;0 minutos diarios;0 minūtes dienā
+TCCM_0004_CHOICE2;0-15 Minuten pro Tag;0-15 minutes per day;0-15 Minuten pro Tag;0-15 minuti al giorno;0-15 minutos diarios;0-15 minūtes dienā
+TCCM_0004_CHOICE3;15-30 Minuten pro Tag;15-30 minutes per day;15-30 Minuten pro Tag;15-30 minuti al giorno;15-30 minutos diarios;15-30 minūtes dienā
+TCCM_0004_CHOICE4;30-60 Minuten pro Tag;30-60 minutes per day;30-60 Minuten pro Tag;30-60 minuti al giorno;30-60 minutos diarios;30-60 minūtes dienā
+TCCM_0004_CHOICE5;1-1,5 Stunden pro Tag;1-1.5 hours per day;1-1,5 Stunden pro Tag;1-1,5 ore al giorno;1-1,5 hora diaria;1-1,5 stundas dienā
+TCCM_0004_CHOICE6;1,5-2 Stunden pro Tag;1.5-2 hours per day;1,5-2 Stunden pro Tag;1,5-2 ore al giorno;1,5-2 horas diarias;1,5-2 stundas dienā
+TCCM_0004_CHOICE7;mehr als 2 Stunden pro Tag;more than 2 hours per day;mehr als 2 Stunden pro Tag;Più di due ore al giorno;Más de 2 horas diarias;vairāk nekā 2 stundas dienā
+TCCM_0004_PROMPT;Wie oft übst du im Moment dein(e) Instrument(e)?;How much do you currently practice your instrument(s)?;Wie oft übst du im Moment dein(e) Instrument(e)?;Quanto frequentemente fai pratica con il tuo/i tuoi strumento/i?;¿Con qué frequencia practicas tu/s instrumento/s?;Cik daudz tu vingrinies sava instrumenta spēlē vai dziedāšanā?
+TCCM_0005_CHOICE1;0 Stunden pro Woche;0 hours per week;0 Stunden pro Woche;0 ore a settimana;0 horas a la semana;0 stundas nedēļā
+TCCM_0005_CHOICE2;0-1 Stunde pro Woche;0-1 hours per week;0-1 Stunde pro Woche;0-1 ore a settimana;0-1 hora a la semana;0-1 stundu nedēļā
+TCCM_0005_CHOICE3;1-2 Stunden pro Woche;1-2 hours per week;1-2 Stunden pro Woche;1-2 ore a settimana;1-2 horas a la semana;1-2 stundas nedēļā
+TCCM_0005_CHOICE4;2-4 Stunden pro Woche;2-4 hours per week;2-4 Stunden pro Woche;2-4 ore a settimana;2-4 horas a la semana;2-4 stundas nedēļā
+TCCM_0005_CHOICE5;4-7 Stunden pro Woche;4-7 hours per week;4-7 Stunden pro Woche;4-7 ore a settimana;4-7 horas a la semana;4-7 stundas nedēļā
+TCCM_0005_CHOICE6;7-14 Stunden pro Woche;7-14 hours per week;7-14 Stunden pro Woche;7-14 ore a settimana;7-14 horas a la semana;7-14 stundas nedēļā
+TCCM_0005_CHOICE7;mehr als 14 Stunden pro Woche;more than 14 hours per week;mehr als 14 Stunden pro Woche;Più di 14 ore a settimana;Más de 14 horas a la semana;vairāk nekā 14 stundas nedēļā
+TCCM_0005_PROMPT;Alles zusammen genommen (eigenes Üben, Proben, Instrumentalunterricht, Auftritte etc.), wie viel Zeit verbringst du im Moment pro Woche damit, Musik zu machen?;Taken all together (own practice, rehearsals, instrument lessons, gigs, etc.) how much time do you spend making music per week at the moment?;Alles zusammen genommen (eigenes Üben, Proben, Instrumentalunterricht, Auftritte etc.), wie viel Zeit verbringst du im Moment pro Woche damit, Musik zu machen?;Nel complesso (esercitazioni personali, prove, lezioni di strumento, concerti, ecc.) quanto tempo dedichi al fare musica a settimana al momento?;En total (prácticas individuales, ensayos, clases de instrumento, conciertos etc.) ¿cuánto tiempo dedicas a la música en este periodo?;Kopumā, cik daudz laika nedēļā tu velti muzicēšanai? (vingrināšanās, mēģinājumi, instrumentu spēles vai dziedāšanas stundas, koncerti u.c.)

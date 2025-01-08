@@ -1,0 +1,335 @@
+key;de;en
+TIBQ_0000_PROMPT;Temperamentsfragebogen für Babys - revidierte sehr kurze Form;Infant Behavior Questionnaire - Revised Very Short Form
+TIBQ_0001_CHOICE1;Nie;Never
+TIBQ_0001_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0001_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0001_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0001_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0001_CHOICE6;Fast immer;Almost Always
+TIBQ_0001_CHOICE7;Immer;Always
+TIBQ_0001_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0001_PROMPT;Wenn Ihr Baby an- oder ausgezogen wurde, wie oft hat es sich gewunden und/oder versucht wegzurollen?;When being dressed or undressed during the last week, how often did the baby squirm and/or try to roll away?
+TIBQ_0002_CHOICE1;Nie;Never
+TIBQ_0002_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0002_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0002_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0002_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0002_CHOICE6;Fast immer;Almost Always
+TIBQ_0002_CHOICE7;Immer;Always
+TIBQ_0002_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0002_PROMPT;Wenn Ihr Baby spielerisch herumgewirbelt wurde, wie oft hat es gelacht?;When tossed around playfully, how often did the baby laugh?
+TIBQ_0003_CHOICE1;Nie;Never
+TIBQ_0003_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0003_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0003_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0003_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0003_CHOICE6;Fast immer;Almost Always
+TIBQ_0003_CHOICE7;Immer;Always
+TIBQ_0003_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0003_PROMPT;Wenn Ihr Baby müde war, wie oft hat es Anzeichen von Stress und Unbehagen gezeigt?;When tired, how often did your baby show distress?
+TIBQ_0004_CHOICE1;Nie;Never
+TIBQ_0004_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0004_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0004_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0004_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0004_CHOICE6;Fast immer;Almost Always
+TIBQ_0004_CHOICE7;Immer;Always
+TIBQ_0004_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0004_PROMPT;Wenn es einem fremden Erwachsenen vorgestellt wurde, wie oft hat sich Ihr Baby an einen Erwachsenen geklammert?;When introduced to an unfamiliar adult, how often did the baby cling to a parent?
+TIBQ_0005_CHOICE1;Nie;Never
+TIBQ_0005_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0005_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0005_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0005_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0005_CHOICE6;Fast immer;Almost Always
+TIBQ_0005_CHOICE7;Immer;Always
+TIBQ_0005_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0005_PROMPT;Wie oft hat Ihr Baby es genossen wenn ihm vorgelesen wurde?;How often during the last week did the baby enjoy being read to?
+TIBQ_0006_CHOICE1;Nie;Never
+TIBQ_0006_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0006_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0006_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0006_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0006_CHOICE6;Fast immer;Almost Always
+TIBQ_0006_CHOICE7;Immer;Always
+TIBQ_0006_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0006_PROMPT;Wie oft hat Ihr Baby für 5 bis 10 Minuten mit demselben Spielzeug oder Objekt gespielt?;How often during the last week did the baby play with one toy or object for 5-10 minutes?
+TIBQ_0007_CHOICE1;Nie;Never
+TIBQ_0007_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0007_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0007_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0007_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0007_CHOICE6;Fast immer;Almost Always
+TIBQ_0007_CHOICE7;Immer;Always
+TIBQ_0007_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0007_PROMPT;Wie oft hat Ihr Baby sich neuen Objekten schnell angenähert?;How often during the week did your baby move quickly toward new objects?
+TIBQ_0008_CHOICE1;Nie;Never
+TIBQ_0008_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0008_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0008_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0008_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0008_CHOICE6;Fast immer;Almost Always
+TIBQ_0008_CHOICE7;Immer;Always
+TIBQ_0008_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0008_PROMPT;Wenn Ihr Baby ins Badewasser gesetzt wurde, wie oft hat es gelacht?;When put into water, how often did the baby laugh?
+TIBQ_0009_CHOICE1;Nie;Never
+TIBQ_0009_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0009_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0009_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0009_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0009_CHOICE6;Fast immer;Almost Always
+TIBQ_0009_CHOICE7;Immer;Always
+TIBQ_0009_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0009_PROMPT;Wenn es Zeit fürs Bett war, und Ihr Baby nicht schlafen wollte, wie oft hat es gejammert?;When it was time for bed or a nap and your baby did not want to go, how often did s/he whimper or sob?
+TIBQ_0010_CHOICE1;Nie;Never
+TIBQ_0010_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0010_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0010_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0010_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0010_CHOICE6;Fast immer;Almost Always
+TIBQ_0010_CHOICE7;Immer;Always
+TIBQ_0010_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0010_PROMPT;Wie oft hat Ihr Baby beim Aufwachen geweint, wenn nicht binnen weniger Minuten jemand gekommen ist?;After sleeping, how often did the baby cry if someone doesn't come within a few minutes?
+TIBQ_0011_CHOICE1;Nie;Never
+TIBQ_0011_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0011_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0011_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0011_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0011_CHOICE6;Fast immer;Almost Always
+TIBQ_0011_CHOICE7;Immer;Always
+TIBQ_0011_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0011_PROMPT;Während Ihr Baby beim Füttern auf dem Schoß saß, wie oft hat es sich nach Beendigung des Fütterns bemüht vom Schoß wegzukommen?;In the last week, while being fed in your lap, how often did the baby seem eager to get away as soon as the feeding was over?
+TIBQ_0012_CHOICE1;Nie;Never
+TIBQ_0012_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0012_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0012_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0012_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0012_CHOICE6;Fast immer;Almost Always
+TIBQ_0012_CHOICE7;Immer;Always
+TIBQ_0012_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0012_PROMPT;Wenn Sie Ihrem Baby vorgesungen oder mit ihm gesprochen haben, wie oft hat es sich sofort beruhigt?;When singing or talking to your baby, how often did s/he soothe immediately?
+TIBQ_0013_CHOICE1;Nie;Never
+TIBQ_0013_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0013_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0013_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0013_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0013_CHOICE6;Fast immer;Almost Always
+TIBQ_0013_CHOICE7;Immer;Always
+TIBQ_0013_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0013_PROMPT;Wenn Ihr Baby auf den Rücken gelegt wurde, wie oft hat es sich gewunden und/oder den Körper gedreht?;When placed on his/her back, how often did the baby squirm and/or turn body?
+TIBQ_0014_CHOICE1;Nie;Never
+TIBQ_0014_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0014_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0014_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0014_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0014_CHOICE6;Fast immer;Almost Always
+TIBQ_0014_CHOICE7;Immer;Always
+TIBQ_0014_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0014_PROMPT;Während des "Kuckuck" Spielens, wie oft hat Ihr Baby gelacht?;During a peekaboo game, how often did the baby laugh?
+TIBQ_0015_CHOICE1;Nie;Never
+TIBQ_0015_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0015_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0015_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0015_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0015_CHOICE6;Fast immer;Almost Always
+TIBQ_0015_CHOICE7;Immer;Always
+TIBQ_0015_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0015_PROMPT;Wie oft hat Ihr Baby vom Spiel aufgeblickt wenn das Telefon klingelte?;How often does the infant look up from playing when the telephone rings?
+TIBQ_0016_CHOICE1;Nie;Never
+TIBQ_0016_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0016_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0016_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0016_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0016_CHOICE6;Fast immer;Almost Always
+TIBQ_0016_CHOICE7;Immer;Always
+TIBQ_0016_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0016_PROMPT;Wie oft erschien Ihr Baby wütend (Weinen und Quengeln), wenn Sie es im Bettchen gelassen haben?;How often did the baby seem angry (crying and fussing) when you left her/him in the crib?
+TIBQ_0017_CHOICE1;Nie;Never
+TIBQ_0017_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0017_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0017_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0017_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0017_CHOICE6;Fast immer;Almost Always
+TIBQ_0017_CHOICE7;Immer;Always
+TIBQ_0017_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0017_PROMPT;Wie oft hat Ihr Baby sich bei einem plötzlichen Wechsel der Körperposition erschrocken (z.B. wenn es plötzlich bewegt wurde)?;How often during the last week did the baby startle at a sudden change in body position (e.g., when moved suddenly)?
+TIBQ_0018_CHOICE1;Nie;Never
+TIBQ_0018_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0018_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0018_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0018_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0018_CHOICE6;Fast immer;Almost Always
+TIBQ_0018_CHOICE7;Immer;Always
+TIBQ_0018_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0018_PROMPT;Wie oft hat Ihr Baby es genossen wenn es Wortmelodien, wie sie in Kinderreimen vorkommen, gehört hat?;How often during the last week did the baby enjoy hearing the sound of words, as in nursery rhymes?
+TIBQ_0019_CHOICE1;Nie;Never
+TIBQ_0019_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0019_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0019_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0019_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0019_CHOICE6;Fast immer;Almost Always
+TIBQ_0019_CHOICE7;Immer;Always
+TIBQ_0019_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0019_PROMPT;Wie oft hat Ihr Baby 5 Minuten oder länger durchgehend Bilder in Büchern oder Magazinen angeschaut?;How often during the last week did the baby look at pictures in books and/or magazines for 5 minutes or longer at a time?
+TIBQ_0020_CHOICE1;Nie;Never
+TIBQ_0020_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0020_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0020_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0020_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0020_CHOICE6;Fast immer;Almost Always
+TIBQ_0020_CHOICE7;Immer;Always
+TIBQ_0020_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0020_PROMPT;Wenn Ihr Baby in einer neuen Umgebung war, wie oft hat es das Entdecken der neuen Umgebung freudig erregt?;When visiting a new place, how often did your baby get excited about exploring new surroundings?
+TIBQ_0021_CHOICE1;Nie;Never
+TIBQ_0021_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0021_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0021_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0021_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0021_CHOICE6;Fast immer;Almost Always
+TIBQ_0021_CHOICE7;Immer;Always
+TIBQ_0021_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0021_PROMPT;Wie oft hat Ihr Baby gelächelt oder gelacht, wenn ihr/ihm ein Spielzeug gegeben wurde?;How often during the last week did the baby smile or laugh when given a toy?
+TIBQ_0022_CHOICE1;Nie;Never
+TIBQ_0022_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0022_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0022_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0022_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0022_CHOICE6;Fast immer;Almost Always
+TIBQ_0022_CHOICE7;Immer;Always
+TIBQ_0022_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0022_PROMPT;Am Ende eines aufregenden Tages, wie oft ist Ihr Baby weinerlich geworden?;At the end of an exciting day, how often did your baby become tearful?
+TIBQ_0023_CHOICE1;Nie;Never
+TIBQ_0023_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0023_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0023_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0023_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0023_CHOICE6;Fast immer;Almost Always
+TIBQ_0023_CHOICE7;Immer;Always
+TIBQ_0023_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0023_PROMPT;Wie oft hat Ihr Baby protestiert, wenn seine Bewegungsfreiheit eingeschränkt wurde (z.B. Hineinsetzen in einen Hochstuhl, Laufstall, Autositz)?;How often during the last week did the baby protest being placed in a confining place (infant seat, play pen, car seat, etc.)?
+TIBQ_0024_CHOICE1;Nie;Never
+TIBQ_0024_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0024_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0024_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0024_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0024_CHOICE6;Fast immer;Almost Always
+TIBQ_0024_CHOICE7;Immer;Always
+TIBQ_0024_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0024_PROMPT;Wenn Ihr Baby gehalten wurde, wie oft hat es sich scheinbar amüsiert?;When being held, in the last week, did your baby seem to enjoy him/herself?
+TIBQ_0025_CHOICE1;Nie;Never
+TIBQ_0025_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0025_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0025_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0025_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0025_CHOICE6;Fast immer;Almost Always
+TIBQ_0025_CHOICE7;Immer;Always
+TIBQ_0025_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0025_PROMPT;Wenn Sie Ihrem Baby etwas zum Anschauen gegeben haben, wie oft hat es sich sofort beruhigt?;When showing the baby something to look at, how often did s/he soothe immediately?
+TIBQ_0026_CHOICE1;Nie;Never
+TIBQ_0026_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0026_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0026_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0026_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0026_CHOICE6;Fast immer;Almost Always
+TIBQ_0026_CHOICE7;Immer;Always
+TIBQ_0026_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0026_PROMPT;Wenn das Haar gewaschen wurde, wie oft hat Ihr Baby gegurrt oder lautiert?;When hair was washed, how often did the baby vocalize?
+TIBQ_0027_CHOICE1;Nie;Never
+TIBQ_0027_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0027_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0027_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0027_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0027_CHOICE6;Fast immer;Almost Always
+TIBQ_0027_CHOICE7;Immer;Always
+TIBQ_0027_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0027_PROMPT;Wie oft hat Ihr Baby die folgenden Dinge bemerkt: den Lärm eines Flugzeuges, das über dem Kopf, oben am Himmel, weggeflogen ist?;How often did your baby notice the sound of an airplane passing overhead?
+TIBQ_0028_CHOICE1;Nie;Never
+TIBQ_0028_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0028_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0028_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0028_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0028_CHOICE6;Fast immer;Almost Always
+TIBQ_0028_CHOICE7;Immer;Always
+TIBQ_0028_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0028_PROMPT;Wenn es einem fremden Erwachsenen vorgestellt wurde, wie oft hat sich Ihr Baby geweigert zu der fremden Person zu gehen?;When introduced to an unfamiliar adult, how often did the baby refuse to go to the unfamiliar person?
+TIBQ_0029_CHOICE1;Nie;Never
+TIBQ_0029_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0029_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0029_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0029_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0029_CHOICE6;Fast immer;Almost Always
+TIBQ_0029_CHOICE7;Immer;Always
+TIBQ_0029_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0029_PROMPT;Wenn Sie mit etwas Anderem beschäftigt waren und Ihr Baby nicht in der Lage war, Ihre Aufmerksamkeit zu erlangen, wie oft hat es geweint?;When you were busy with another activity, and your baby was not able to get your attention, how often did s/he cry?
+TIBQ_0030_CHOICE1;Nie;Never
+TIBQ_0030_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0030_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0030_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0030_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0030_CHOICE6;Fast immer;Almost Always
+TIBQ_0030_CHOICE7;Immer;Always
+TIBQ_0030_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0030_PROMPT;Wie oft hat Ihr Baby es genossen wenn es, wie beim Wiegen und Schaukeln, sanft und rhythmisch bewegt wurde?;How often during the last week did the baby enjoy gentle rhythmic activities, such as rocking or swaying?
+TIBQ_0031_CHOICE1;Nie;Never
+TIBQ_0031_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0031_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0031_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0031_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0031_CHOICE6;Fast immer;Almost Always
+TIBQ_0031_CHOICE7;Immer;Always
+TIBQ_0031_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0031_PROMPT;Wie oft hat Ihr Baby 5 Minuten oder länger durchgehend auf ein Mobile, den Bettrahmen oder ein Bild geschaut?;How often during the last week did the baby stare at a mobile, crib bumper or picture for 5 minutes or longer?
+TIBQ_0032_CHOICE1;Nie;Never
+TIBQ_0032_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0032_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0032_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0032_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0032_CHOICE6;Fast immer;Almost Always
+TIBQ_0032_CHOICE7;Immer;Always
+TIBQ_0032_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0032_PROMPT;Wenn Ihr Baby etwas haben wollte, wie oft war es aufgebracht, wenn es nicht das haben konnte, was es wollte?;When the baby wanted something, how often did s/he become upset when s/he could not get what s/he wanted?
+TIBQ_0033_CHOICE1;Nie;Never
+TIBQ_0033_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0033_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0033_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0033_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0033_CHOICE6;Fast immer;Almost Always
+TIBQ_0033_CHOICE7;Immer;Always
+TIBQ_0033_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0033_PROMPT;In Anwesenheit mehrerer, fremder Erwachsener, wie oft hat Ihr Baby sich an einen Erwachsenen geklammert?;When in the presence of several unfamiliar adults, how often did the baby cling to a parent?
+TIBQ_0034_CHOICE1;Nie;Never
+TIBQ_0034_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0034_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0034_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0034_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0034_CHOICE6;Fast immer;Almost Always
+TIBQ_0034_CHOICE7;Immer;Always
+TIBQ_0034_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0034_PROMPT;Wenn Ihr Baby gewiegt oder umarmt wurde, wie oft hat es dies anscheinend genossen?;When rocked or hugged, in the last week, did your baby seem to enjoy him/herself?
+TIBQ_0035_CHOICE1;Nie;Never
+TIBQ_0035_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0035_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0035_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0035_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0035_CHOICE6;Fast immer;Almost Always
+TIBQ_0035_CHOICE7;Immer;Always
+TIBQ_0035_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0035_PROMPT;Wenn Sie Ihr Baby sanft am Körper geklopft oder darüber gestrichen haben, wie oft hat es sich sofort beruhigt?;When patting or gently rubbing some part of the baby's body, how often did s/he soothe immediately?
+TIBQ_0036_CHOICE1;Nie;Never
+TIBQ_0036_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0036_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0036_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0036_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0036_CHOICE6;Fast immer;Almost Always
+TIBQ_0036_CHOICE7;Immer;Always
+TIBQ_0036_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0036_PROMPT;Wie oft hat Ihr Baby Sprachlaute geäußert während es im Auto gefahren ist?;How often did your baby make talking sounds when riding in a car?
+TIBQ_0037_CHOICE1;Nie;Never
+TIBQ_0037_CHOICE2;Sehr selten;Very Rarely
+TIBQ_0037_CHOICE3;Weniger als die Hälfte der Zeit;Less Than Half the Time
+TIBQ_0037_CHOICE4;Ungefähr die Hälfte der Zeit;About Half the Time
+TIBQ_0037_CHOICE5;Mehr als die Hälfte der Zeit;More Than Half the Time
+TIBQ_0037_CHOICE6;Fast immer;Almost Always
+TIBQ_0037_CHOICE7;Immer;Always
+TIBQ_0037_CHOICE8;Trifft nicht zu;Does Not Apply
+TIBQ_0037_PROMPT;Wenn Ihr Baby in einen Kinderstuhl oder in einen Autositz gesetzt wurde, wie oft hat es sich gewunden und den Körper gedreht?;When placed in an infant seat or car seat, how often did the baby squirm and turn body?

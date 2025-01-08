@@ -15,7 +15,7 @@ The first language is selected by default.}
 \item{short_version}{(Scalar boolean) For the short version of the questionnaire set this to TRUE.
 Defaults to FALSE.}
 
-\item{...}{Further arguments to be passed to \code{\link{SCS_standalone}()}.}
+\item{...}{Further arguments to be passed to \code{\link{standalone}()}.}
 }
 \description{
 This function launches a standalone testing session for the SCS questionnaire.

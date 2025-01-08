@@ -1,0 +1,25 @@
+main_id;language;template;score_func;subscales;layout
+TJIW_0002;de;5-option multiple choice;function(x) x+0;"General;Talent";vertical
+TJIW_0002;en;5-option multiple choice;function(x) x+0;"General;Talent";vertical
+TJIW_0003;de;5-option multiple choice;function(x) x+0;"General;Talent";vertical
+TJIW_0003;en;5-option multiple choice;function(x) x+0;"General;Talent";vertical
+TJIW_0004;de;5-option multiple choice;function(x) x+0;"General;Growth";vertical
+TJIW_0004;en;5-option multiple choice;function(x) x+0;"General;Growth";vertical
+TJIW_0005;de;5-option multiple choice;function(x) x+0;"General;Growth";vertical
+TJIW_0005;en;5-option multiple choice;function(x) x+0;"General;Growth";vertical
+TJIW_0006;de;5-option multiple choice;function(x) (6 -( x+ 0)) + 0 ;"General;Competition";vertical
+TJIW_0006;en;5-option multiple choice;function(x) (6 -( x+ 0)) + 0 ;"General;Competition";vertical
+TJIW_0007;de;5-option multiple choice;function(x) x+0;"General;Enjoyment";vertical
+TJIW_0007;en;5-option multiple choice;function(x) x+0;"General;Enjoyment";vertical
+TJIW_0008;de;5-option multiple choice;function(x) x+0;"General;Enjoyment";vertical
+TJIW_0008;en;5-option multiple choice;function(x) x+0;"General;Enjoyment";vertical
+TJIW_0009;de;5-option multiple choice;function(x) (6 -( x+ 0)) + 0 ;"General;Competition";vertical
+TJIW_0009;en;5-option multiple choice;function(x) (6 -( x+ 0)) + 0 ;"General;Competition";vertical
+TJIW_0010;de;5-option multiple choice;function(x) x+0;"General;Growth";vertical
+TJIW_0010;en;5-option multiple choice;function(x) x+0;"General;Growth";vertical
+TJIW_0011;de;5-option multiple choice;function(x) x+0;"General;Growth";vertical
+TJIW_0011;en;5-option multiple choice;function(x) x+0;"General;Growth";vertical
+TJIW_0012;de;5-option multiple choice;function(x) x+0;"General;Confidence";vertical
+TJIW_0012;en;5-option multiple choice;function(x) x+0;"General;Confidence";vertical
+TJIW_0013;de;5-option multiple choice;function(x) x+0;"General;Confidence";vertical
+TJIW_0013;en;5-option multiple choice;function(x) x+0;"General;Confidence";vertical

@@ -8,12 +8,16 @@ month_and_year_select_page(
   label,
   prompt,
   save_answer = TRUE,
-  validate = month_and_year_select_page.validate(),
+  min_year = 1930,
+  max_year = 2013,
+  show_month = TRUE,
+  validate = month_and_year_select_page.validate(show_month),
   hide_response_ui = FALSE,
   response_ui_id = "response_ui",
   on_complete = NULL,
   admin_ui = NULL,
-  failed_validation_message = psychTestR::i18n("SELECT_MONTH_AND_YEAR")
+  failed_validation_message = psychTestR::i18n(ifelse(show_month,
+    "SELECT_MONTH_AND_YEAR", "SELECT_YEAR"))
 )
 }
 \arguments{

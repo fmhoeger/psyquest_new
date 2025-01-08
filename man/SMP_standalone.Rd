@@ -28,7 +28,7 @@ If no subscales are provided all subscales for the questionnaire are selected.}
 \item{short_version}{(Scalar boolean) For the short version (original STOMP)
 of the questionnaire set this to TRUE. Defaults to FALSE.}
 
-\item{...}{Further arguments to be passed to \code{\link{SMP_standalone}()}.}
+\item{...}{Further arguments to be passed to \code{\link{standalone}()}.}
 }
 \description{
 This function launches a standalone testing session for the STOMP questionnaire.

@@ -1,75 +1,75 @@
-"key";"de";"en"
-"TTOM_0000_PROMPT";"Fragebogen zur Selbsttheorie der Musikalität";"Theory of Musicality Questionnaire"
-"TTOM_0001_PROMPT";"Wir interessieren uns für deine Meinung zu musikalischen Fähigkeiten. Lies die folgenden Sätze und wähle aus, wie sehr du mit der Aussage übereinstimmst. Es gibt keine richtigen oder falschen Antworten.";"We are interested in your opinion on musical ability. Read each sentence and select the one option that shows how much you agree with it. There are no right or wrong answers."
-"TTOM_0002_CHOICE1";"Stimme überhaupt nicht zu";"Strongly disagree"
-"TTOM_0002_CHOICE2";"Stimme nicht zu";"Disagree"
-"TTOM_0002_CHOICE3";"Weder noch";"Neutral"
-"TTOM_0002_CHOICE4";"Stimme zu";"Agree"
-"TTOM_0002_CHOICE5";"Stimme sehr zu";"Strongly agree"
-"TTOM_0002_PROMPT";"Man hat ein gewisses Level an musikalischen Fähigkeiten und kann nicht viel tun, um das zu ändern.";"You have a certain level of musical ability and you cannot really do much to change it."
-"TTOM_0003_CHOICE1";"Stimme überhaupt nicht zu";"Strongly disagree"
-"TTOM_0003_CHOICE2";"Stimme nicht zu";"Disagree"
-"TTOM_0003_CHOICE3";"Weder noch";"Neutral"
-"TTOM_0003_CHOICE4";"Stimme zu";"Agree"
-"TTOM_0003_CHOICE5";"Stimme sehr zu";"Strongly agree"
-"TTOM_0003_PROMPT";"Um erfolgreich Musik zu machen, muss man regelmäßig Techniken und Fertigkeiten an seinem Instrument lernen und üben.";"To be successful in music you need to learn and regularly practice techniques and skills on your instrument."
-"TTOM_0004_CHOICE1";"Stimme überhaupt nicht zu";"Strongly disagree"
-"TTOM_0004_CHOICE2";"Stimme nicht zu";"Disagree"
-"TTOM_0004_CHOICE3";"Weder noch";"Neutral"
-"TTOM_0004_CHOICE4";"Stimme zu";"Agree"
-"TTOM_0004_CHOICE5";"Stimme sehr zu";"Strongly agree"
-"TTOM_0004_PROMPT";"Das erreichbare Level an musikalischen Fähigkeiten verändert sich nur wenig, selbst wenn man es versucht.";"Even if you try, the level of musical ability you can reach will change very little."
-"TTOM_0005_CHOICE1";"Stimme überhaupt nicht zu";"Strongly disagree"
-"TTOM_0005_CHOICE2";"Stimme nicht zu";"Disagree"
-"TTOM_0005_CHOICE3";"Weder noch";"Neutral"
-"TTOM_0005_CHOICE4";"Stimme zu";"Agree"
-"TTOM_0005_CHOICE5";"Stimme sehr zu";"Strongly agree"
-"TTOM_0005_PROMPT";"Man braucht eine bestimmte „Begabung“, um gut in Musik zu sein.";"You need to have certain 'gifts' to be good at music."
-"TTOM_0006_CHOICE1";"Stimme überhaupt nicht zu";"Strongly disagree"
-"TTOM_0006_CHOICE2";"Stimme nicht zu";"Disagree"
-"TTOM_0006_CHOICE3";"Weder noch";"Neutral"
-"TTOM_0006_CHOICE4";"Stimme zu";"Agree"
-"TTOM_0006_CHOICE5";"Stimme sehr zu";"Strongly agree"
-"TTOM_0006_PROMPT";"Man muss lernen und fleißig sein, um gut in Musik zu sein.";"You need to learn and work hard to be good at music."
-"TTOM_0007_CHOICE1";"Stimme überhaupt nicht zu";"Strongly disagree"
-"TTOM_0007_CHOICE2";"Stimme nicht zu";"Disagree"
-"TTOM_0007_CHOICE3";"Weder noch";"Neutral"
-"TTOM_0007_CHOICE4";"Stimme zu";"Agree"
-"TTOM_0007_CHOICE5";"Stimme sehr zu";"Strongly agree"
-"TTOM_0007_PROMPT";"Man entwickelt seine musikalischen Fähigkeiten, wenn man fleißig daran arbeitet.";"You will always get better at music if you work hard at it."
-"TTOM_0008_CHOICE1";"Stimme überhaupt nicht zu";"Strongly disagree"
-"TTOM_0008_CHOICE2";"Stimme nicht zu";"Disagree"
-"TTOM_0008_CHOICE3";"Weder noch";"Neutral"
-"TTOM_0008_CHOICE4";"Stimme zu";"Agree"
-"TTOM_0008_CHOICE5";"Stimme sehr zu";"Strongly agree"
-"TTOM_0008_PROMPT";"Wenn man in Musik gut sein möchte, muss man mit den Fähigkeiten geboren werden, die einen erfolgreich machen.";"To be good at music you need to be born with the qualities which allow you success."
-"TTOM_0009_CHOICE1";"Stimme überhaupt nicht zu";"Strongly disagree"
-"TTOM_0009_CHOICE2";"Stimme nicht zu";"Disagree"
-"TTOM_0009_CHOICE3";"Weder noch";"Neutral"
-"TTOM_0009_CHOICE4";"Stimme zu";"Agree"
-"TTOM_0009_CHOICE5";"Stimme sehr zu";"Strongly agree"
-"TTOM_0009_PROMPT";"Um ein hohes Level an musikalischer Leistung zu erreichen, muss man durch Phasen des Lernens und Übens.";"You have to go through periods of learning and training to reach a high level of performance in music."
-"TTOM_0010_CHOICE1";"Stimme überhaupt nicht zu";"Strongly disagree"
-"TTOM_0010_CHOICE2";"Stimme nicht zu";"Disagree"
-"TTOM_0010_CHOICE3";"Weder noch";"Neutral"
-"TTOM_0010_CHOICE4";"Stimme zu";"Agree"
-"TTOM_0010_CHOICE5";"Stimme sehr zu";"Strongly agree"
-"TTOM_0010_PROMPT";"Wie gut die eigenen musikalischen Fähigkeiten sind, hängt immer davon ab, ob man daran arbeitet.";"How good you are at music will always improve if you work at it."
-"TTOM_0011_CHOICE1";"Stimme überhaupt nicht zu";"Strongly disagree"
-"TTOM_0011_CHOICE2";"Stimme nicht zu";"Disagree"
-"TTOM_0011_CHOICE3";"Weder noch";"Neutral"
-"TTOM_0011_CHOICE4";"Stimme zu";"Agree"
-"TTOM_0011_CHOICE5";"Stimme sehr zu";"Strongly agree"
-"TTOM_0011_PROMPT";"Es lässt sich schwer ändern, ob man gut mit Musik umgehen kann.";"It is difficult to change how good you are at music."
-"TTOM_0012_CHOICE1";"Stimme überhaupt nicht zu";"Strongly disagree"
-"TTOM_0012_CHOICE2";"Stimme nicht zu";"Disagree"
-"TTOM_0012_CHOICE3";"Weder noch";"Neutral"
-"TTOM_0012_CHOICE4";"Stimme zu";"Agree"
-"TTOM_0012_CHOICE5";"Stimme sehr zu";"Strongly agree"
-"TTOM_0012_PROMPT";"Man muss eine natürliche Begabung haben, um gut in Musik zu sein.";"You need to be naturally gifted to be good at music."
-"TTOM_0013_CHOICE1";"Stimme überhaupt nicht zu";"Strongly disagree"
-"TTOM_0013_CHOICE2";"Stimme nicht zu";"Disagree"
-"TTOM_0013_CHOICE3";"Weder noch";"Neutral"
-"TTOM_0013_CHOICE4";"Stimme zu";"Agree"
-"TTOM_0013_CHOICE5";"Stimme sehr zu";"Strongly agree"
-"TTOM_0013_PROMPT";"Man kann immer bessere musikalische Fähigkeiten entwickeln, wenn man sich genug anstrengt.";"You will always get better at music if you put enough effort into it."
+key;de;en;de_f;es;it;lv
+TTOM_0000_PROMPT;Fragebogen zur Selbsttheorie der Musikalität;Theory of Musicality Questionnaire;Fragebogen zur Selbsttheorie der Musikalität;Theory of Musicality Questionnaire;Questionario sulla Teoria della Musicalità;Muzikalitātes teorijas aptauja
+TTOM_0001_PROMPT;Wir interessieren uns für deine Meinung zu musikalischen Fähigkeiten. Lies die folgenden Sätze und wähle aus, wie sehr du mit der Aussage übereinstimmst. Es gibt keine richtigen oder falschen Antworten.;We are interested in your opinion on musical ability. Read each sentence and select the one option that shows how much you agree with it. There are no right or wrong answers.;Wir interessieren uns für deine Meinung zu musikalischen Fähigkeiten. Lies die folgenden Sätze und wähle aus, wie sehr du mit der Aussage übereinstimmst. Es gibt keine richtigen oder falschen Antworten.;We are interested in your opinion on musical ability. Read each sentence and select the one option that shows how much you agree with it. There are no right or wrong answers.;Siamo interessati alla tua opinione sull’abilità musicale. Leggi ogni frase e seleziona la sola opzione che mostra quanto sei d’accordo con essa. Non ci sono risposte giuste o sbagliate.;Mūs interesē tavs viedoklis par muzikālajām spējām. Izlasi apgalvojumus un izvēlies vienu variantu, kas norāda, cik lielā mērā tu tam piekrīti. Nav pareizu vai nepareizu atbilžu.
+TTOM_0002_CHOICE1;Stimme überhaupt nicht zu;Strongly disagree;Stimme überhaupt nicht zu;Strongly disagree;Fortemente in disaccordo;lielā mērā nepiekrītu
+TTOM_0002_CHOICE2;Stimme nicht zu;Disagree;Stimme nicht zu;Disagree;In disaccordo;nepiekrītu
+TTOM_0002_CHOICE3;Weder noch;Neutral;Weder noch;Neutral;Neutrale;ne piekrītu, ne nepiekrītu
+TTOM_0002_CHOICE4;Stimme zu;Agree;Stimme zu;Agree;D’accordo;piekrītu
+TTOM_0002_CHOICE5;Stimme sehr zu;Strongly agree;Stimme sehr zu;Strongly agree;Fortemente d’accordo;lielā mērā piekrītu
+TTOM_0002_PROMPT;Man hat ein gewisses Level an musikalischen Fähigkeiten und kann nicht viel tun, um das zu ändern.;You have a certain level of musical ability and you cannot really do much to change it.;Man hat ein gewisses Level an musikalischen Fähigkeiten und kann nicht viel tun, um das zu ändern.;You have a certain level of musical ability and you cannot really do much to change it.;Hai un certo livello di abilità musicale e non puoi fare molto per cambiarlo.;Tev ir noteikts muzikālo spēju līmenis, un tu neko daudz nevari mainīt.
+TTOM_0003_CHOICE1;Stimme überhaupt nicht zu;Strongly disagree;Stimme überhaupt nicht zu;Strongly disagree;Fortemente in disaccordo;lielā mērā nepiekrītu
+TTOM_0003_CHOICE2;Stimme nicht zu;Disagree;Stimme nicht zu;Disagree;In disaccordo;nepiekrītu
+TTOM_0003_CHOICE3;Weder noch;Neutral;Weder noch;Neutral;Neutrale;ne piekrītu, ne nepiekrītu
+TTOM_0003_CHOICE4;Stimme zu;Agree;Stimme zu;Agree;D’accordo;piekrītu
+TTOM_0003_CHOICE5;Stimme sehr zu;Strongly agree;Stimme sehr zu;Strongly agree;Fortemente d’accordo;lielā mērā piekrītu
+TTOM_0003_PROMPT;Um erfolgreich Musik zu machen, muss man regelmäßig Techniken und Fertigkeiten an seinem Instrument lernen und üben.;To be successful in music you need to learn and regularly practice techniques and skills on your instrument.;Um erfolgreich Musik zu machen, muss man regelmäßig Techniken und Fertigkeiten an seinem Instrument lernen und üben.;To be successful in music you need to learn and regularly practice techniques and skills on your instrument.;Per avere successo nella musica hai bisogno di imparare e praticare regolarmente tecniche e abilità sul tuo strumento.;Lai būtu veiksmīgs mūzikā, tev jāmācās un regulāri jāattīsta sava instrumenta spēles tehnika un prasmes.
+TTOM_0004_CHOICE1;Stimme überhaupt nicht zu;Strongly disagree;Stimme überhaupt nicht zu;Strongly disagree;Fortemente in disaccordo;lielā mērā nepiekrītu
+TTOM_0004_CHOICE2;Stimme nicht zu;Disagree;Stimme nicht zu;Disagree;In disaccordo;nepiekrītu
+TTOM_0004_CHOICE3;Weder noch;Neutral;Weder noch;Neutral;Neutrale;ne piekrītu, ne nepiekrītu
+TTOM_0004_CHOICE4;Stimme zu;Agree;Stimme zu;Agree;D’accordo;piekrītu
+TTOM_0004_CHOICE5;Stimme sehr zu;Strongly agree;Stimme sehr zu;Strongly agree;Fortemente d’accordo;lielā mērā piekrītu
+TTOM_0004_PROMPT;Das erreichbare Level an musikalischen Fähigkeiten verändert sich nur wenig, selbst wenn man es versucht.;Even if you try, the level of musical ability you can reach will change very little.;Das erreichbare Level an musikalischen Fähigkeiten verändert sich nur wenig, selbst wenn man es versucht.;Even if you try, the level of musical ability you can reach will change very little.;Anche se ci provi, il livello di abilità musicale che puoi raggiungere cambierà molto poco.;Arī tad, ja tu centies, sasniedzamais muzikālo spēju līmenis mainīsies pavisam mazliet.
+TTOM_0005_CHOICE1;Stimme überhaupt nicht zu;Strongly disagree;Stimme überhaupt nicht zu;Strongly disagree;Fortemente in disaccordo;lielā mērā nepiekrītu
+TTOM_0005_CHOICE2;Stimme nicht zu;Disagree;Stimme nicht zu;Disagree;In disaccordo;nepiekrītu
+TTOM_0005_CHOICE3;Weder noch;Neutral;Weder noch;Neutral;Neutrale;ne piekrītu, ne nepiekrītu
+TTOM_0005_CHOICE4;Stimme zu;Agree;Stimme zu;Agree;D’accordo;piekrītu
+TTOM_0005_CHOICE5;Stimme sehr zu;Strongly agree;Stimme sehr zu;Strongly agree;Fortemente d’accordo;lielā mērā piekrītu
+TTOM_0005_PROMPT;Man braucht eine bestimmte „Begabung“, um gut in Musik zu sein.;You need to have certain 'gifts' to be good at music.;Man braucht eine bestimmte „Begabung“, um gut in Musik zu sein.;You need to have certain 'gifts' to be good at music.;Hai bisogno di avere certi ‘doni’ per essere bravo/a nella musica.;Lai būtu veiksmīgs mūzikā, ir jābūt talantīgam.
+TTOM_0006_CHOICE1;Stimme überhaupt nicht zu;Strongly disagree;Stimme überhaupt nicht zu;Strongly disagree;Fortemente in disaccordo;lielā mērā nepiekrītu
+TTOM_0006_CHOICE2;Stimme nicht zu;Disagree;Stimme nicht zu;Disagree;In disaccordo;nepiekrītu
+TTOM_0006_CHOICE3;Weder noch;Neutral;Weder noch;Neutral;Neutrale;ne piekrītu, ne nepiekrītu
+TTOM_0006_CHOICE4;Stimme zu;Agree;Stimme zu;Agree;D’accordo;piekrītu
+TTOM_0006_CHOICE5;Stimme sehr zu;Strongly agree;Stimme sehr zu;Strongly agree;Fortemente d’accordo;lielā mērā piekrītu
+TTOM_0006_PROMPT;Man muss lernen und fleißig sein, um gut in Musik zu sein.;You need to learn and work hard to be good at music.;Man muss lernen und fleißig sein, um gut in Musik zu sein.;You need to learn and work hard to be good at music.;Hai bisogno di imparare e lavorare sodo per essere bravo/a nella musica.;Lai būtu veiksmīgs mūzikā, ir jāmācās un pie tā jāstrādā.
+TTOM_0007_CHOICE1;Stimme überhaupt nicht zu;Strongly disagree;Stimme überhaupt nicht zu;Strongly disagree;Fortemente in disaccordo;lielā mērā nepiekrītu
+TTOM_0007_CHOICE2;Stimme nicht zu;Disagree;Stimme nicht zu;Disagree;In disaccordo;nepiekrītu
+TTOM_0007_CHOICE3;Weder noch;Neutral;Weder noch;Neutral;Neutrale;ne piekrītu, ne nepiekrītu
+TTOM_0007_CHOICE4;Stimme zu;Agree;Stimme zu;Agree;D’accordo;piekrītu
+TTOM_0007_CHOICE5;Stimme sehr zu;Strongly agree;Stimme sehr zu;Strongly agree;Fortemente d’accordo;lielā mērā piekrītu
+TTOM_0007_PROMPT;Man entwickelt seine musikalischen Fähigkeiten, wenn man fleißig daran arbeitet.;You will always get better at music if you work hard at it.;Man entwickelt seine musikalischen Fähigkeiten, wenn man fleißig daran arbeitet.;You will always get better at music if you work hard at it.;Migliorerai sempre nella musica se ci lavori sodo.;Tu vienmēr kļūsi labāks mūzikā, ja mācīsies un cītīgi pie tā strādāsi.
+TTOM_0008_CHOICE1;Stimme überhaupt nicht zu;Strongly disagree;Stimme überhaupt nicht zu;Strongly disagree;Fortemente in disaccordo;lielā mērā nepiekrītu
+TTOM_0008_CHOICE2;Stimme nicht zu;Disagree;Stimme nicht zu;Disagree;In disaccordo;nepiekrītu
+TTOM_0008_CHOICE3;Weder noch;Neutral;Weder noch;Neutral;Neutrale;ne piekrītu, ne nepiekrītu
+TTOM_0008_CHOICE4;Stimme zu;Agree;Stimme zu;Agree;D’accordo;piekrītu
+TTOM_0008_CHOICE5;Stimme sehr zu;Strongly agree;Stimme sehr zu;Strongly agree;Fortemente d’accordo;lielā mērā piekrītu
+TTOM_0008_PROMPT;Wenn man in Musik gut sein möchte, muss man mit den Fähigkeiten geboren werden, die einen erfolgreich machen.;To be good at music you need to be born with the qualities which allow you success.;Wenn man in Musik gut sein möchte, muss man mit den Fähigkeiten geboren werden, die einen erfolgreich machen.;To be good at music you need to be born with the qualities which allow you success.;Per essere bravo/a nella musica hai bisogno di nascere con le qualità che ti permettono di avere successo.;Lai būtu veiksmīgs mūzikā, ir jāpiedzimst ar īpašībām, kuras ļauj gūt panākumus.
+TTOM_0009_CHOICE1;Stimme überhaupt nicht zu;Strongly disagree;Stimme überhaupt nicht zu;Strongly disagree;Fortemente in disaccordo;lielā mērā nepiekrītu
+TTOM_0009_CHOICE2;Stimme nicht zu;Disagree;Stimme nicht zu;Disagree;In disaccordo;nepiekrītu
+TTOM_0009_CHOICE3;Weder noch;Neutral;Weder noch;Neutral;Neutrale;ne piekrītu, ne nepiekrītu
+TTOM_0009_CHOICE4;Stimme zu;Agree;Stimme zu;Agree;D’accordo;piekrītu
+TTOM_0009_CHOICE5;Stimme sehr zu;Strongly agree;Stimme sehr zu;Strongly agree;Fortemente d’accordo;lielā mērā piekrītu
+TTOM_0009_PROMPT;Um ein hohes Level an musikalischer Leistung zu erreichen, muss man durch Phasen des Lernens und Übens.;You have to go through periods of learning and training to reach a high level of performance in music.;Um ein hohes Level an musikalischer Leistung zu erreichen, muss man durch Phasen des Lernens und Übens.;You have to go through periods of learning and training to reach a high level of performance in music.;Devi passare attraverso periodi di apprendimento e formazione per raggiungere un alto livello di esecuzione musicale.;Lai sasniegtu labu rezultātu mūzikā, ir daudz jāmācās un jāvingrinās.
+TTOM_0010_CHOICE1;Stimme überhaupt nicht zu;Strongly disagree;Stimme überhaupt nicht zu;Strongly disagree;Fortemente in disaccordo;lielā mērā nepiekrītu
+TTOM_0010_CHOICE2;Stimme nicht zu;Disagree;Stimme nicht zu;Disagree;In disaccordo;nepiekrītu
+TTOM_0010_CHOICE3;Weder noch;Neutral;Weder noch;Neutral;Neutrale;ne piekrītu, ne nepiekrītu
+TTOM_0010_CHOICE4;Stimme zu;Agree;Stimme zu;Agree;D’accordo;piekrītu
+TTOM_0010_CHOICE5;Stimme sehr zu;Strongly agree;Stimme sehr zu;Strongly agree;Fortemente d’accordo;lielā mērā piekrītu
+TTOM_0010_PROMPT;Wie gut die eigenen musikalischen Fähigkeiten sind, hängt immer davon ab, ob man daran arbeitet.;How good you are at music will always improve if you work at it.;Wie gut die eigenen musikalischen Fähigkeiten sind, hängt immer davon ab, ob man daran arbeitet.;How good you are at music will always improve if you work at it.;La tua bravura nella musica migliorerà sempre se ci lavori.;Tavs līmenis mūzikā vienmēr var tikt uzlabots, ja tu pie tā strādāsi.
+TTOM_0011_CHOICE1;Stimme überhaupt nicht zu;Strongly disagree;Stimme überhaupt nicht zu;Strongly disagree;Fortemente in disaccordo;lielā mērā nepiekrītu
+TTOM_0011_CHOICE2;Stimme nicht zu;Disagree;Stimme nicht zu;Disagree;In disaccordo;nepiekrītu
+TTOM_0011_CHOICE3;Weder noch;Neutral;Weder noch;Neutral;Neutrale;ne piekrītu, ne nepiekrītu
+TTOM_0011_CHOICE4;Stimme zu;Agree;Stimme zu;Agree;D’accordo;piekrītu
+TTOM_0011_CHOICE5;Stimme sehr zu;Strongly agree;Stimme sehr zu;Strongly agree;Fortemente d’accordo;lielā mērā piekrītu
+TTOM_0011_PROMPT;Es lässt sich schwer ändern, ob man gut mit Musik umgehen kann.;It is difficult to change how good you are at music.;Es lässt sich schwer ändern, ob man gut mit Musik umgehen kann.;It is difficult to change how good you are at music.;È difficile cambiare la tua bravura nella musica.;Ir sarežģīti izmainīt to, cik veiksmīgs tu esi mūzikā.
+TTOM_0012_CHOICE1;Stimme überhaupt nicht zu;Strongly disagree;Stimme überhaupt nicht zu;Strongly disagree;Fortemente in disaccordo;lielā mērā nepiekrītu
+TTOM_0012_CHOICE2;Stimme nicht zu;Disagree;Stimme nicht zu;Disagree;In disaccordo;nepiekrītu
+TTOM_0012_CHOICE3;Weder noch;Neutral;Weder noch;Neutral;Neutrale;ne piekrītu, ne nepiekrītu
+TTOM_0012_CHOICE4;Stimme zu;Agree;Stimme zu;Agree;D’accordo;piekrītu
+TTOM_0012_CHOICE5;Stimme sehr zu;Strongly agree;Stimme sehr zu;Strongly agree;Fortemente d’accordo;lielā mērā piekrītu
+TTOM_0012_PROMPT;Man muss eine natürliche Begabung haben, um gut in Musik zu sein.;You need to be naturally gifted to be good at music.;Man muss eine natürliche Begabung haben, um gut in Musik zu sein.;You need to be naturally gifted to be good at music.;Hai bisogno di essere naturalmente dotato/a per essere bravo/a nella musica.;Lai būtu veiksmīgs mūzikā, ir jābūt dabas dotam talantam.
+TTOM_0013_CHOICE1;Stimme überhaupt nicht zu;Strongly disagree;Stimme überhaupt nicht zu;Strongly disagree;Fortemente in disaccordo;lielā mērā nepiekrītu
+TTOM_0013_CHOICE2;Stimme nicht zu;Disagree;Stimme nicht zu;Disagree;In disaccordo;nepiekrītu
+TTOM_0013_CHOICE3;Weder noch;Neutral;Weder noch;Neutral;Neutrale;ne piekrītu, ne nepiekrītu
+TTOM_0013_CHOICE4;Stimme zu;Agree;Stimme zu;Agree;D’accordo;piekrītu
+TTOM_0013_CHOICE5;Stimme sehr zu;Strongly agree;Stimme sehr zu;Strongly agree;Fortemente d’accordo;lielā mērā piekrītu
+TTOM_0013_PROMPT;Man kann immer bessere musikalische Fähigkeiten entwickeln, wenn man sich genug anstrengt.;You will always get better at music if you put enough effort into it.;Man kann immer bessere musikalische Fähigkeiten entwickeln, wenn man sich genug anstrengt.;You will always get better at music if you put enough effort into it.;Migliorerai sempre nella musica se ci metti abbastanza impegno.;Tu vienmēr kļūsi labāks mūzikā, ja pieliksi pūles.

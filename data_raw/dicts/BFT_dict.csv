@@ -1,0 +1,63 @@
+key;de;en
+TBFT_0000_PROMPT;Big-Five-Inventory (BFI-10);Big-Five-Inventory BFI-10)
+TBFT_0001_PROMPT;"<h4>Inwieweit treffen die folgenden Aussagen auf Sie zu?</h4>";"<h4>To what extent do the following statements apply to you?</h4>"
+TBFT_0002_CHOICE1;Trifft überhaupt nicht zu ;Disagree strongly 
+TBFT_0002_CHOICE2;Trifft eher nicht zu ;Disagree a little 
+TBFT_0002_CHOICE3;Weder noch ;Neither agree nor disagree 
+TBFT_0002_CHOICE4;Eher zutreffend ;Agree a little 
+TBFT_0002_CHOICE5;Trifft voll und ganz zu ;Agree strongly
+TBFT_0002_PROMPT;Ich bin eher zurückhaltend, reserviert. ;I see myself as someone who is reserved. 
+TBFT_0003_CHOICE1;Trifft überhaupt nicht zu ;Disagree strongly 
+TBFT_0003_CHOICE2;Trifft eher nicht zu ;Disagree a little 
+TBFT_0003_CHOICE3;Weder noch ;Neither agree nor disagree 
+TBFT_0003_CHOICE4;Eher zutreffend ;Agree a little 
+TBFT_0003_CHOICE5;Trifft voll und ganz zu ;Agree strongly
+TBFT_0003_PROMPT;Ich schenke anderen leicht Vertrauen, glaube an das Gute im Menschen.;I see myself as someone who is generally trusting. 
+TBFT_0004_CHOICE1;Trifft überhaupt nicht zu ;Disagree strongly 
+TBFT_0004_CHOICE2;Trifft eher nicht zu ;Disagree a little 
+TBFT_0004_CHOICE3;Weder noch ;Neither agree nor disagree 
+TBFT_0004_CHOICE4;Eher zutreffend ;Agree a little 
+TBFT_0004_CHOICE5;Trifft voll und ganz zu ;Agree strongly
+TBFT_0004_PROMPT;Ich bin bequem, neige zur Faulheit.;I see myself as someone who tends to be lazy. 
+TBFT_0005_CHOICE1;Trifft überhaupt nicht zu ;Disagree strongly 
+TBFT_0005_CHOICE2;Trifft eher nicht zu ;Disagree a little 
+TBFT_0005_CHOICE3;Weder noch ;Neither agree nor disagree 
+TBFT_0005_CHOICE4;Eher zutreffend ;Agree a little 
+TBFT_0005_CHOICE5;Trifft voll und ganz zu ;Agree strongly
+TBFT_0005_PROMPT;Ich bin entspannt, lasse mich durch Stress nicht aus der Ruhe bringen.;I see myself as someone who is relaxed, handles stress well.
+TBFT_0006_CHOICE1;Trifft überhaupt nicht zu ;Disagree strongly 
+TBFT_0006_CHOICE2;Trifft eher nicht zu ;Disagree a little 
+TBFT_0006_CHOICE3;Weder noch ;Neither agree nor disagree 
+TBFT_0006_CHOICE4;Eher zutreffend ;Agree a little 
+TBFT_0006_CHOICE5;Trifft voll und ganz zu ;Agree strongly
+TBFT_0006_PROMPT;Ich habe nur wenig künstlerisches Interesse. ;I see myself as someone who has few artistic interests. 
+TBFT_0007_CHOICE1;Trifft überhaupt nicht zu ;Disagree strongly 
+TBFT_0007_CHOICE2;Trifft eher nicht zu ;Disagree a little 
+TBFT_0007_CHOICE3;Weder noch ;Neither agree nor disagree 
+TBFT_0007_CHOICE4;Eher zutreffend ;Agree a little 
+TBFT_0007_CHOICE5;Trifft voll und ganz zu ;Agree strongly
+TBFT_0007_PROMPT;Ich gehe aus mir heraus, bin gesellig. ;I see myself as someone who is outgoing, sociable. 
+TBFT_0008_CHOICE1;Trifft überhaupt nicht zu ;Disagree strongly 
+TBFT_0008_CHOICE2;Trifft eher nicht zu ;Disagree a little 
+TBFT_0008_CHOICE3;Weder noch ;Neither agree nor disagree 
+TBFT_0008_CHOICE4;Eher zutreffend ;Agree a little 
+TBFT_0008_CHOICE5;Trifft voll und ganz zu ;Agree strongly
+TBFT_0008_PROMPT;Ich neige dazu, andere zu kritisieren.;I see myself as someone who tends to find fault with others. 
+TBFT_0009_CHOICE1;Trifft überhaupt nicht zu ;Disagree strongly 
+TBFT_0009_CHOICE2;Trifft eher nicht zu ;Disagree a little 
+TBFT_0009_CHOICE3;Weder noch ;Neither agree nor disagree 
+TBFT_0009_CHOICE4;Eher zutreffend ;Agree a little 
+TBFT_0009_CHOICE5;Trifft voll und ganz zu ;Agree strongly
+TBFT_0009_PROMPT;Ich erledige Aufgaben gründlich.;I see myself as someone who does a thorough job.
+TBFT_0010_CHOICE1;Trifft überhaupt nicht zu ;Disagree strongly 
+TBFT_0010_CHOICE2;Trifft eher nicht zu ;Disagree a little 
+TBFT_0010_CHOICE3;Weder noch ;Neither agree nor disagree 
+TBFT_0010_CHOICE4;Eher zutreffend ;Agree a little 
+TBFT_0010_CHOICE5;Trifft voll und ganz zu ;Agree strongly
+TBFT_0010_PROMPT;Ich werde leicht nervös und unsicher.;I see myself as someone who gets nervous easily.
+TBFT_0011_CHOICE1;Trifft überhaupt nicht zu ;Disagree strongly 
+TBFT_0011_CHOICE2;Trifft eher nicht zu ;Disagree a little 
+TBFT_0011_CHOICE3;Weder noch ;Neither agree nor disagree 
+TBFT_0011_CHOICE4;Eher zutreffend ;Agree a little 
+TBFT_0011_CHOICE5;Trifft voll und ganz zu ;Agree strongly
+TBFT_0011_PROMPT;Ich habe eine aktive Vorstellungskraft, bin fantasievoll. ;I see myself as somone who has an active imagination. 

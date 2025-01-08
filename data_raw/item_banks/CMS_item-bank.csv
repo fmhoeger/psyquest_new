@@ -1,0 +1,19 @@
+main_id;language;template;score_func;subscales;layout
+TCMS_0002;de;5-option multiple choice;function(x) x;Perception;
+TCMS_0002;en;5-option multiple choice;function(x) x;Perception;
+TCMS_0003;de;5-option multiple choice;function(x) x;Enthusiasm & Motivation;
+TCMS_0003;en;5-option multiple choice;function(x) x;Enthusiasm & Motivation;
+TCMS_0004;de;5-option multiple choice;function(x) x;Perception;
+TCMS_0004;en;5-option multiple choice;function(x) x;Perception;
+TCMS_0005;de;5-option multiple choice;function(x) x;Perception;
+TCMS_0005;en;5-option multiple choice;function(x) x;Perception;
+TCMS_0006;de;5-option multiple choice;function(x) 6-x;Production;
+TCMS_0006;en;5-option multiple choice;function(x) 6-x;Production;
+TCMS_0007;de;5-option multiple choice;function(x) x;Enthusiasm & Motivation;
+TCMS_0007;en;5-option multiple choice;function(x) x;Enthusiasm & Motivation;
+TCMS_0008;de;5-option multiple choice;function(x) 6-x;Production;
+TCMS_0008;en;5-option multiple choice;function(x) 6-x;Production;
+TCMS_0009;de;5-option multiple choice;function(x) x;Enthusiasm & Motivation;
+TCMS_0009;en;5-option multiple choice;function(x) x;Enthusiasm & Motivation;
+TCMS_0010;de;5-option multiple choice;function(x) 6-x;Production;
+TCMS_0010;en;5-option multiple choice;function(x) 6-x;Production;

@@ -130,11 +130,15 @@ main_test_mhe <- function(questionnaire_id, label, items, offset = 1, arrange_ve
 }
 
 postprocess_mhe <- function(questionnaire_id, values) {
-  mother_count <- if (values[1] == 0) { 0 } else { nchar(toString(values[1])) }
-  father_count <- if (values[2] == 0) { 0 } else { nchar(toString(values[2])) }
+  #browser()
+
+  # mother_count <- if (is.na(values[1]) || values[1] == 0) { 0 } else { nchar(toString(values[1])) }
+  # father_count <- if (is.na(values[2]) || values[2] == 0) { 0 } else { nchar(toString(values[2])) }
+  mother_count <- if (is.na(values[1]) || values[1] == 0) { 0 } else { values[1] }
+  father_count <- if (is.na(values[2]) || values[2] == 0) { 0 } else { values[2] }
+
   sum_parents <- mother_count + father_count
   scoring_map <- psyquest::scoring_maps[[questionnaire_id]]
-
   raws <- list()
   raws[["ability"]] <- scoring_map[scoring_map$score == sum_parents, ]$raw
   raws[["encourage"]] <- values[6]

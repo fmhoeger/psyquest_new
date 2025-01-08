@@ -1,0 +1,15 @@
+main_id;language;template;score_func;subscales;layout
+TJIC_0002;de;5-option multiple choice;function(x) (6 - (x+0)) +0;General;vertical
+TJIC_0002;en;5-option multiple choice;function(x) (6 - (x+0)) +0;General;vertical
+TJIC_0003;de;5-option multiple choice;function(x) (6 - (x+0)) +0;General;vertical
+TJIC_0003;en;5-option multiple choice;function(x) (6 - (x+0)) +0;General;vertical
+TJIC_0004;de;5-option multiple choice;function(x) (6 - (x+0)) +0;General;vertical
+TJIC_0004;en;5-option multiple choice;function(x) (6 - (x+0)) +0;General;vertical
+TJIC_0005;de;5-option multiple choice;function(x) (6 - (x+0)) +0;General;vertical
+TJIC_0005;en;5-option multiple choice;function(x) (6 - (x+0)) +0;General;vertical
+TJIC_0006;de;5-option multiple choice;function(x) (6 - (x+0)) +0;General;vertical
+TJIC_0006;en;5-option multiple choice;function(x) (6 - (x+0)) +0;General;vertical
+TJIC_0007;de;5-option multiple choice;function(x) (6 - (x+0)) +0;General;vertical
+TJIC_0007;en;5-option multiple choice;function(x) (6 - (x+0)) +0;General;vertical
+TJIC_0008;de;5-option multiple choice;function(x) (6 - (x+0)) +0;General;vertical
+TJIC_0008;en;5-option multiple choice;function(x) (6 - (x+0)) +0;General;vertical

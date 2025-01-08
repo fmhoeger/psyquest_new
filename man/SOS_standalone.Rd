@@ -16,7 +16,7 @@ The first language is selected by default.}
 Possible subscales are \code{"Effort"}, and \code{"Importance"}.
 If no subscales are provided all subscales for the questionnaire are selected.}
 
-\item{...}{Further arguments to be passed to \code{\link{SOS_standalone}()}.}
+\item{...}{Further arguments to be passed to \code{\link{standalone}()}.}
 }
 \description{
 This function launches a standalone testing session for the SOS questionnaire.

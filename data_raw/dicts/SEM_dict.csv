@@ -1,141 +1,141 @@
-"key";"de";"en"
-"TSEM_0000_PROMPT";"Fragebogen zur schulischen Verbundenheit";"School Engagement Measure"
-"TSEM_0001_PROMPT";"Bitte gib an, inwieweit die folgenden Aussagen auf dich zutreffen. Es gibt keine richtigen oder falschen Antworten, es ist aber wichtig, dass du so ehrlich wie möglich antwortest.";"Please rate the following statements according to how well the statement applies to you. There are no right or wrong answers, but it is important to answer each question as honestly as possible."
-"TSEM_0002_CHOICE1";"1 (Fast) nie";"1 (Almost) never"
-"TSEM_0002_CHOICE2";"2";"2"
-"TSEM_0002_CHOICE3";"3";"3"
-"TSEM_0002_CHOICE4";"4";"4"
-"TSEM_0002_CHOICE5";"5 Fast immer";"5 Almost always"
-"TSEM_0002_PROMPT";"Wie oft hast du Schwierigkeiten, dich im Unterricht zu konzentrieren?";"How often do you have trouble paying attention in classes?"
-"TSEM_0003_CHOICE1";"1 (Fast) nie";"1 (Almost) never"
-"TSEM_0003_CHOICE2";"2";"2"
-"TSEM_0003_CHOICE3";"3";"3"
-"TSEM_0003_CHOICE4";"4";"4"
-"TSEM_0003_CHOICE5";"5 Fast immer";"5 Almost always"
-"TSEM_0003_PROMPT";"Wie oft machst du deine Hausaufgaben rechtzeitig?";"How often do you get schoolwork done on time?"
-"TSEM_0004_CHOICE1";"1 (Fast) nie";"1 (Almost) never"
-"TSEM_0004_CHOICE2";"2";"2"
-"TSEM_0004_CHOICE3";"3";"3"
-"TSEM_0004_CHOICE4";"4";"4"
-"TSEM_0004_CHOICE5";"5 Fast immer";"5 Almost always"
-"TSEM_0004_PROMPT";"Wie oft fällt es dir schwer, dich auf die Arbeit in der Schule zu konzentrieren?";"How often do you find that it is hard for you to keep your mind on your work in school?"
-"TSEM_0005_CHOICE1";"1 (Fast) nie";"1 (Almost) never"
-"TSEM_0005_CHOICE2";"2";"2"
-"TSEM_0005_CHOICE3";"3";"3"
-"TSEM_0005_CHOICE4";"4";"4"
-"TSEM_0005_CHOICE5";"5 Fast immer";"5 Almost always"
-"TSEM_0005_PROMPT";"Wie oft hast du schon jemanden dafür geschlagen, was er/sie gesagt oder getan hat?";"How often have you hit someone for what they said/did?"
-"TSEM_0006_CHOICE1";"1 (Fast) nie";"1 (Almost) never"
-"TSEM_0006_CHOICE2";"2";"2"
-"TSEM_0006_CHOICE3";"3";"3"
-"TSEM_0006_CHOICE4";"4";"4"
-"TSEM_0006_CHOICE5";"5 Fast immer";"5 Almost always"
-"TSEM_0006_PROMPT";"Wie oft warst du schon in eine Schlägerei verwickelt?";"How often have you been involved in a physical fight?"
-"TSEM_0007_CHOICE1";"1 (Fast) nie";"1 (Almost) never"
-"TSEM_0007_CHOICE2";"2";"2"
-"TSEM_0007_CHOICE3";"3";"3"
-"TSEM_0007_CHOICE4";"4";"4"
-"TSEM_0007_CHOICE5";"5 Fast immer";"5 Almost always"
-"TSEM_0007_PROMPT";"Wie oft wurdest du ins Schulbüro geschickt?";"How often have you been sent to office?"
-"TSEM_0008_CHOICE1";"1 (Fast) nie";"1 (Almost) never"
-"TSEM_0008_CHOICE2";"2";"2"
-"TSEM_0008_CHOICE3";"3";"3"
-"TSEM_0008_CHOICE4";"4";"4"
-"TSEM_0008_CHOICE5";"5 Fast immer";"5 Almost always"
-"TSEM_0008_PROMPT";"Wie oft hast du Unterricht geschwänzt?";"How often have you skipped class?"
-"TSEM_0009_CHOICE1";"1 Stimme überhaupt nicht zu";"1 Strongly disagree"
-"TSEM_0009_CHOICE2";"2";"2"
-"TSEM_0009_CHOICE3";"3";"3"
-"TSEM_0009_CHOICE4";"4";"4"
-"TSEM_0009_CHOICE5";"5 Stimme zu";"5 Strongly agree"
-"TSEM_0009_PROMPT";"Ich fühle mich wohl und sicher in dieser Schule.";"I feel happy and safe in this school."
-"TSEM_0010_CHOICE1";"1 Stimme überhaupt nicht zu";"1 Strongly disagree"
-"TSEM_0010_CHOICE2";"2";"2"
-"TSEM_0010_CHOICE3";"3";"3"
-"TSEM_0010_CHOICE4";"4";"4"
-"TSEM_0010_CHOICE5";"5 Stimme zu";"5 Strongly agree"
-"TSEM_0010_PROMPT";"Ich fühle mich generell als Teil dieser Schule.";"In general, I feel like a real part in this school."
-"TSEM_0011_CHOICE1";"1 Stimme überhaupt nicht zu";"1 Strongly disagree"
-"TSEM_0011_CHOICE2";"2";"2"
-"TSEM_0011_CHOICE3";"3";"3"
-"TSEM_0011_CHOICE4";"4";"4"
-"TSEM_0011_CHOICE5";"5 Stimme zu";"5 Strongly agree"
-"TSEM_0011_PROMPT";"Ich würde anderen Kindern empfehlen, auf diese Schule zu gehen.";"I would recommend to other kids that they go to my school."
-"TSEM_0012_CHOICE1";"1 Stimme überhaupt nicht zu";"1 Strongly disagree"
-"TSEM_0012_CHOICE2";"2";"2"
-"TSEM_0012_CHOICE3";"3";"3"
-"TSEM_0012_CHOICE4";"4";"4"
-"TSEM_0012_CHOICE5";"5 Stimme zu";"5 Strongly agree"
-"TSEM_0012_PROMPT";"Ich muss gut in der Schule sein, um Erfolg im Leben zu haben.";"I have to do well in school if I want to be a success in life."
-"TSEM_0013_CHOICE1";"1 Stimme überhaupt nicht zu";"1 Strongly disagree"
-"TSEM_0013_CHOICE2";"2";"2"
-"TSEM_0013_CHOICE3";"3";"3"
-"TSEM_0013_CHOICE4";"4";"4"
-"TSEM_0013_CHOICE5";"5 Stimme zu";"5 Strongly agree"
-"TSEM_0013_PROMPT";"Schule ist nicht so wichtig für Kinder wie mich.";"Schooling is not so important for kids like me."
-"TSEM_0014_CHOICE1";"1 Stimme überhaupt nicht zu";"1 Strongly disagree"
-"TSEM_0014_CHOICE2";"2";"2"
-"TSEM_0014_CHOICE3";"3";"3"
-"TSEM_0014_CHOICE4";"4";"4"
-"TSEM_0014_CHOICE5";"5 Stimme zu";"5 Strongly agree"
-"TSEM_0014_PROMPT";"Ich lerne mehr wichtige Dinge von meinen Freunden und Verwandten als in der Schule.";"I learn more useful things from my friends and relatives than I learn in school."
-"TSEM_0015_CHOICE1";"1 Stimme überhaupt nicht zu";"1 Strongly disagree"
-"TSEM_0015_CHOICE2";"2";"2"
-"TSEM_0015_CHOICE3";"3";"3"
-"TSEM_0015_CHOICE4";"4";"4"
-"TSEM_0015_CHOICE5";"5 Stimme zu";"5 Strongly agree"
-"TSEM_0015_PROMPT";"Eine gute Ausbildung ist der beste Weg für die Kinder in meiner Nachbarschaft, um im Leben weit zu kommen.";"Getting good education is the best way to get ahead in life for the kids in my neighborhood."
-"TSEM_0016_CHOICE1";"1 Stimme überhaupt nicht zu";"1 Strongly disagree"
-"TSEM_0016_CHOICE2";"2";"2"
-"TSEM_0016_CHOICE3";"3";"3"
-"TSEM_0016_CHOICE4";"4";"4"
-"TSEM_0016_CHOICE5";"5 Stimme zu";"5 Strongly agree"
-"TSEM_0016_PROMPT";"Ich lerne viel davon, was wir in der Schule machen.";"I often learn a lot from my school work."
-"TSEM_0017_CHOICE1";"1 (Fast) nie";"1 (Almost) never"
-"TSEM_0017_CHOICE2";"2";"2"
-"TSEM_0017_CHOICE3";"3";"3"
-"TSEM_0017_CHOICE4";"4";"4"
-"TSEM_0017_CHOICE5";"5 Fast immer";"5 Almost always"
-"TSEM_0017_PROMPT";"Wie oft erkennst du Probleme und planst, wie man sie lösen kann?";"How often do you try to figure out problems and planning how to solve them?"
-"TSEM_0018_CHOICE1";"1 (Fast) nie";"1 (Almost) never"
-"TSEM_0018_CHOICE2";"2";"2"
-"TSEM_0018_CHOICE3";"3";"3"
-"TSEM_0018_CHOICE4";"4";"4"
-"TSEM_0018_CHOICE5";"5 Fast immer";"5 Almost always"
-"TSEM_0018_PROMPT";"Wie oft führst du die Pläne aus, die du entwickelst, um Probleme zu lösen?";"How often do you try to carry out the plans you make for solving problems?"
-"TSEM_0019_CHOICE1";"1 (Fast) nie";"1 (Almost) never"
-"TSEM_0019_CHOICE2";"2";"2"
-"TSEM_0019_CHOICE3";"3";"3"
-"TSEM_0019_CHOICE4";"4";"4"
-"TSEM_0019_CHOICE5";"5 Fast immer";"5 Almost always"
-"TSEM_0019_PROMPT";"Wie oft versuchst du, dich von schlechten Erlebnissen nicht unterkriegen zu lassen?";"How often do you try to bounce back quickly from bad experiences?"
-"TSEM_0020_CHOICE1";"1 (Fast) nie";"1 (Almost) never"
-"TSEM_0020_CHOICE2";"2";"2"
-"TSEM_0020_CHOICE3";"3";"3"
-"TSEM_0020_CHOICE4";"4";"4"
-"TSEM_0020_CHOICE5";"5 Fast immer";"5 Almost always"
-"TSEM_0020_PROMPT";"Wie oft versuchst du, aus deinen Fehlern zu lernen?";"How often do you try to learn from your mistakes?"
-"TSEM_0021_CHOICE1";"1 (Fast) nie";"1 (Almost) never"
-"TSEM_0021_CHOICE2";"2";"2"
-"TSEM_0021_CHOICE3";"3";"3"
-"TSEM_0021_CHOICE4";"4";"4"
-"TSEM_0021_CHOICE5";"5 Fast immer";"5 Almost always"
-"TSEM_0021_PROMPT";"Wie oft versuchst du, wenn du deine Hausaufgaben machst, herauszufinden, was du wirklich lernen sollst, statt einfach nur das Material zu lesen?";"When you are doing homework or school work, how often do you try to decide what you are supposed to learn, rather than just read the material?"
-"TSEM_0022_CHOICE1";"1 (Fast) nie";"1 (Almost) never"
-"TSEM_0022_CHOICE2";"2";"2"
-"TSEM_0022_CHOICE3";"3";"3"
-"TSEM_0022_CHOICE4";"4";"4"
-"TSEM_0022_CHOICE5";"5 Fast immer";"5 Almost always"
-"TSEM_0022_PROMPT";"Wie oft versuchst du, was du gelernt hast, mit anderen Dingen, die du kennst, zu verknüpfen?";"How often do you try to relate what you are studying to other things you know about?"
-"TSEM_0023_CHOICE1";"1 (Fast) nie";"1 (Almost) never"
-"TSEM_0023_CHOICE2";"2";"2"
-"TSEM_0023_CHOICE3";"3";"3"
-"TSEM_0023_CHOICE4";"4";"4"
-"TSEM_0023_CHOICE5";"5 Fast immer";"5 Almost always"
-"TSEM_0023_PROMPT";"Wie oft versuchst du zu planen, was du zu tun hast, bevor du mit den Hausaufgaben anfängst?";"How often do you try to plan what you have to do for homework before you get started?"
-"TSEM_0024_CHOICE1";"1 (Fast) nie";"1 (Almost) never"
-"TSEM_0024_CHOICE2";"2";"2"
-"TSEM_0024_CHOICE3";"3";"3"
-"TSEM_0024_CHOICE4";"4";"4"
-"TSEM_0024_CHOICE5";"5 Fast immer";"5 Almost always"
-"TSEM_0024_PROMPT";"Wie oft stellst du sicher, dass du rechtzeitig anfängst?";"How often do you make sure you get started on it early?"
+key;de;en;de_f;it;es;lv
+TSEM_0000_PROMPT;Fragebogen zur schulischen Verbundenheit;School Engagement Measure;Fragebogen zur schulischen Verbundenheit;School Engagement Measure;School Engagement Measure;Iesaistīšanās skolas dzīvē
+TSEM_0001_PROMPT;Bitte gib an, inwieweit die folgenden Aussagen auf dich zutreffen. Es gibt keine richtigen oder falschen Antworten, es ist aber wichtig, dass du so ehrlich wie möglich antwortest.;Please rate the following statements according to how well the statement applies to you. There are no right or wrong answers, but it is important to answer each question as honestly as possible.;Bitte gib an, inwieweit die folgenden Aussagen auf dich zutreffen. Es gibt keine richtigen oder falschen Antworten, es ist aber wichtig, dass du so ehrlich wie möglich antwortest.;Please rate the following statements according to how well the statement applies to you. There are no right or wrong answers, but it is important to answer each question as honestly as possible.;Please rate the following statements according to how well the statement applies to you. There are no right or wrong answers, but it is important to answer each question as honestly as possible.;Lūdzu, novērtē šos apgalvojumus atbilstoši tam, kā tie attiecas uz Tevi.  Nav pareizu vai nepareizu atbilžu, taču ir svarīgi atbildēt godīgi.
+TSEM_0002_CHOICE1;1 (Fast) nie;1 (Almost) never;1 (Fast) nie;1 (Almost) never;1 (Almost) never;1 (gandrīz) nekad
+TSEM_0002_CHOICE2;2;2;2;2;2;2
+TSEM_0002_CHOICE3;3;3;3;3;3;3
+TSEM_0002_CHOICE4;4;4;4;4;4;4
+TSEM_0002_CHOICE5;5 Fast immer;5 Almost always;5 Fast immer;5 Almost always;5 Almost always;5 (gandrīz) vienmēr
+TSEM_0002_PROMPT;Wie oft hast du Schwierigkeiten, dich im Unterricht zu konzentrieren?;How often do you have trouble paying attention in classes?;Wie oft hast du Schwierigkeiten, dich im Unterricht zu konzentrieren?;How often do you have trouble paying attention in classes?;How often do you have trouble paying attention in classes?;Cik bieži stundu laikā tev ir grūti pievērst uzmanību mācībām?
+TSEM_0003_CHOICE1;1 (Fast) nie;1 (Almost) never;1 (Fast) nie;1 (Almost) never;1 (Almost) never;1 (gandrīz) nekad
+TSEM_0003_CHOICE2;2;2;2;2;2;2
+TSEM_0003_CHOICE3;3;3;3;3;3;3
+TSEM_0003_CHOICE4;4;4;4;4;4;4
+TSEM_0003_CHOICE5;5 Fast immer;5 Almost always;5 Fast immer;5 Almost always;5 Almost always;5 (gandrīz) vienmēr
+TSEM_0003_PROMPT;Wie oft machst du deine Hausaufgaben rechtzeitig?;How often do you get schoolwork done on time?;Wie oft machst du deine Hausaufgaben rechtzeitig?;How often do you get schoolwork done on time?;How often do you get schoolwork done on time?;Cik bieži tu izpildi skolas darbus laicīgi?
+TSEM_0004_CHOICE1;1 (Fast) nie;1 (Almost) never;1 (Fast) nie;1 (Almost) never;1 (Almost) never;1 (gandrīz) nekad
+TSEM_0004_CHOICE2;2;2;2;2;2;2
+TSEM_0004_CHOICE3;3;3;3;3;3;3
+TSEM_0004_CHOICE4;4;4;4;4;4;4
+TSEM_0004_CHOICE5;5 Fast immer;5 Almost always;5 Fast immer;5 Almost always;5 Almost always;5 (gandrīz) vienmēr
+TSEM_0004_PROMPT;Wie oft fällt es dir schwer, dich auf die Arbeit in der Schule zu konzentrieren?;How often do you find that it is hard for you to keep your mind on your work in school?;Wie oft fällt es dir schwer, dich auf die Arbeit in der Schule zu konzentrieren?;How often do you find that it is hard for you to keep your mind on your work in school?;How often do you find that it is hard for you to keep your mind on your work in school?;Cik bieži tu saproti, ka tev ir grūti koncentrēties mācību laikā?
+TSEM_0005_CHOICE1;1 (Fast) nie;1 (Almost) never;1 (Fast) nie;1 (Almost) never;1 (Almost) never;1 (gandrīz) nekad
+TSEM_0005_CHOICE2;2;2;2;2;2;2
+TSEM_0005_CHOICE3;3;3;3;3;3;3
+TSEM_0005_CHOICE4;4;4;4;4;4;4
+TSEM_0005_CHOICE5;5 Fast immer;5 Almost always;5 Fast immer;5 Almost always;5 Almost always;5 (gandrīz) vienmēr
+TSEM_0005_PROMPT;Wie oft hast du schon jemanden dafür geschlagen, was er/sie gesagt oder getan hat?;How often have you hit someone for what they said/did?;Wie oft hast du schon jemanden dafür geschlagen, was er/sie gesagt oder getan hat?;How often have you hit someone for what they said/did?;How often have you hit someone for what they said/did?;Cik bieži tu kādam esi nodarījis fiziski pāri par to, ko viņš tev ir pateicis vai nodarījis?
+TSEM_0006_CHOICE1;1 (Fast) nie;1 (Almost) never;1 (Fast) nie;1 (Almost) never;1 (Almost) never;1 (gandrīz) nekad
+TSEM_0006_CHOICE2;2;2;2;2;2;2
+TSEM_0006_CHOICE3;3;3;3;3;3;3
+TSEM_0006_CHOICE4;4;4;4;4;4;4
+TSEM_0006_CHOICE5;5 Fast immer;5 Almost always;5 Fast immer;5 Almost always;5 Almost always;5 (gandrīz) vienmēr
+TSEM_0006_PROMPT;Wie oft warst du schon in eine Schlägerei verwickelt?;How often have you been involved in a physical fight?;Wie oft warst du schon in eine Schlägerei verwickelt?;How often have you been involved in a physical fight?;How often have you been involved in a physical fight?;Cik bieži tu esi ticis iesaistīts kautiņā?
+TSEM_0007_CHOICE1;1 (Fast) nie;1 (Almost) never;1 (Fast) nie;1 (Almost) never;1 (Almost) never;1 (gandrīz) nekad
+TSEM_0007_CHOICE2;2;2;2;2;2;2
+TSEM_0007_CHOICE3;3;3;3;3;3;3
+TSEM_0007_CHOICE4;4;4;4;4;4;4
+TSEM_0007_CHOICE5;5 Fast immer;5 Almost always;5 Fast immer;5 Almost always;5 Almost always;5 (gandrīz) vienmēr
+TSEM_0007_PROMPT;Wie oft wurdest du ins Schulbüro geschickt?;How often have you been sent to office?;Wie oft wurdest du ins Schulbüro geschickt?;How often have you been sent to office?;How often have you been sent to office?;Cik bieži tevi ir izsaukuši pie direktora?
+TSEM_0008_CHOICE1;1 (Fast) nie;1 (Almost) never;1 (Fast) nie;1 (Almost) never;1 (Almost) never;1 (gandrīz) nekad
+TSEM_0008_CHOICE2;2;2;2;2;2;2
+TSEM_0008_CHOICE3;3;3;3;3;3;3
+TSEM_0008_CHOICE4;4;4;4;4;4;4
+TSEM_0008_CHOICE5;5 Fast immer;5 Almost always;5 Fast immer;5 Almost always;5 Almost always;5 (gandrīz) vienmēr
+TSEM_0008_PROMPT;Wie oft hast du Unterricht geschwänzt?;How often have you skipped class?;Wie oft hast du Unterricht geschwänzt?;How often have you skipped class?;How often have you skipped class?;Cik bieži tu esi bastojis stundas?
+TSEM_0009_CHOICE1;1 Stimme überhaupt nicht zu;1 Strongly disagree;1 Stimme überhaupt nicht zu;1 Strongly disagree;1 Strongly disagree;1 ļoti nepiekrītu
+TSEM_0009_CHOICE2;2;2;2;2;2;2
+TSEM_0009_CHOICE3;3;3;3;3;3;3
+TSEM_0009_CHOICE4;4;4;4;4;4;4
+TSEM_0009_CHOICE5;5 Stimme zu;5 Strongly agree;5 Stimme zu;5 Strongly agree;5 Strongly agree;5 ļoti piekrītu
+TSEM_0009_PROMPT;Ich fühle mich wohl und sicher in dieser Schule.;I feel happy and safe in this school.;Ich fühle mich wohl und sicher in dieser Schule.;I feel happy and safe in this school.;I feel happy and safe in this school.;Es jūtos labi un droši savā skolā.
+TSEM_0010_CHOICE1;1 Stimme überhaupt nicht zu;1 Strongly disagree;1 Stimme überhaupt nicht zu;1 Strongly disagree;1 Strongly disagree;1 ļoti nepiekrītu
+TSEM_0010_CHOICE2;2;2;2;2;2;2
+TSEM_0010_CHOICE3;3;3;3;3;3;3
+TSEM_0010_CHOICE4;4;4;4;4;4;4
+TSEM_0010_CHOICE5;5 Stimme zu;5 Strongly agree;5 Stimme zu;5 Strongly agree;5 Strongly agree;5 ļoti piekrītu
+TSEM_0010_PROMPT;Ich fühle mich generell als Teil dieser Schule.;In general, I feel like a real part in this school.;Ich fühle mich generell als Teil dieser Schule.;In general, I feel like a real part in this school.;In general, I feel like a real part in this school.;Es jūtos savai skolai piederīgs.
+TSEM_0011_CHOICE1;1 Stimme überhaupt nicht zu;1 Strongly disagree;1 Stimme überhaupt nicht zu;1 Strongly disagree;1 Strongly disagree;1 ļoti nepiekrītu
+TSEM_0011_CHOICE2;2;2;2;2;2;2
+TSEM_0011_CHOICE3;3;3;3;3;3;3
+TSEM_0011_CHOICE4;4;4;4;4;4;4
+TSEM_0011_CHOICE5;5 Stimme zu;5 Strongly agree;5 Stimme zu;5 Strongly agree;5 Strongly agree;5 ļoti piekrītu
+TSEM_0011_PROMPT;Ich würde anderen Kindern empfehlen, auf diese Schule zu gehen.;I would recommend to other kids that they go to my school.;Ich würde anderen Kindern empfehlen, auf diese Schule zu gehen.;I would recommend to other kids that they go to my school.;I would recommend to other kids that they go to my school.;Es ieteiktu arī citiem bērniem apmeklēt manu skolu
+TSEM_0012_CHOICE1;1 Stimme überhaupt nicht zu;1 Strongly disagree;1 Stimme überhaupt nicht zu;1 Strongly disagree;1 Strongly disagree;1 ļoti nepiekrītu
+TSEM_0012_CHOICE2;2;2;2;2;2;2
+TSEM_0012_CHOICE3;3;3;3;3;3;3
+TSEM_0012_CHOICE4;4;4;4;4;4;4
+TSEM_0012_CHOICE5;5 Stimme zu;5 Strongly agree;5 Stimme zu;5 Strongly agree;5 Strongly agree;5 ļoti piekrītu
+TSEM_0012_PROMPT;Ich muss gut in der Schule sein, um Erfolg im Leben zu haben.;I have to do well in school if I want to be a success in life.;Ich muss gut in der Schule sein, um Erfolg im Leben zu haben.;I have to do well in school if I want to be a success in life.;I have to do well in school if I want to be a success in life.;Man ir labi jādarbojas skolā, ja es vēlos būt veiksmīgs dzīvē.
+TSEM_0013_CHOICE1;1 Stimme überhaupt nicht zu;1 Strongly disagree;1 Stimme überhaupt nicht zu;1 Strongly disagree;1 Strongly disagree;1 ļoti nepiekrītu
+TSEM_0013_CHOICE2;2;2;2;2;2;2
+TSEM_0013_CHOICE3;3;3;3;3;3;3
+TSEM_0013_CHOICE4;4;4;4;4;4;4
+TSEM_0013_CHOICE5;5 Stimme zu;5 Strongly agree;5 Stimme zu;5 Strongly agree;5 Strongly agree;5 ļoti piekrītu
+TSEM_0013_PROMPT;Schule ist nicht so wichtig für Kinder wie mich.;Schooling is not so important for kids like me.;Schule ist nicht so wichtig für Kinder wie mich.;Schooling is not so important for kids like me.;Schooling is not so important for kids like me.;Mācības skolā nav tik ļoti svarīgas tādiem bērniem kā es
+TSEM_0014_CHOICE1;1 Stimme überhaupt nicht zu;1 Strongly disagree;1 Stimme überhaupt nicht zu;1 Strongly disagree;1 Strongly disagree;1 ļoti nepiekrītu
+TSEM_0014_CHOICE2;2;2;2;2;2;2
+TSEM_0014_CHOICE3;3;3;3;3;3;3
+TSEM_0014_CHOICE4;4;4;4;4;4;4
+TSEM_0014_CHOICE5;5 Stimme zu;5 Strongly agree;5 Stimme zu;5 Strongly agree;5 Strongly agree;5 ļoti piekrītu
+TSEM_0014_PROMPT;Ich lerne mehr wichtige Dinge von meinen Freunden und Verwandten als in der Schule.;I learn more useful things from my friends and relatives than I learn in school.;Ich lerne mehr wichtige Dinge von meinen Freunden und Verwandten als in der Schule.;I learn more useful things from my friends and relatives than I learn in school.;I learn more useful things from my friends and relatives than I learn in school.;No saviem draugiem un radiniekiem es iemācos daudz vairāk noderīgu lietu nekā skolā
+TSEM_0015_CHOICE1;1 Stimme überhaupt nicht zu;1 Strongly disagree;1 Stimme überhaupt nicht zu;1 Strongly disagree;1 Strongly disagree;1 ļoti nepiekrītu
+TSEM_0015_CHOICE2;2;2;2;2;2;2
+TSEM_0015_CHOICE3;3;3;3;3;3;3
+TSEM_0015_CHOICE4;4;4;4;4;4;4
+TSEM_0015_CHOICE5;5 Stimme zu;5 Strongly agree;5 Stimme zu;5 Strongly agree;5 Strongly agree;5 ļoti piekrītu
+TSEM_0015_PROMPT;Eine gute Ausbildung ist der beste Weg für die Kinder in meiner Nachbarschaft, um im Leben weit zu kommen.;Getting good education is the best way to get ahead in life for the kids in my neighborhood.;Eine gute Ausbildung ist der beste Weg für die Kinder in meiner Nachbarschaft, um im Leben weit zu kommen.;Getting good education is the best way to get ahead in life for the kids in my neighborhood.;Getting good education is the best way to get ahead in life for the kids in my neighborhood.;Labas izglītības iegūšana ir labākais veids, kā manas apkaimes bērniem būt veiksmīgiem dzīvē un karjerā
+TSEM_0016_CHOICE1;1 Stimme überhaupt nicht zu;1 Strongly disagree;1 Stimme überhaupt nicht zu;1 Strongly disagree;1 Strongly disagree;1 ļoti nepiekrītu
+TSEM_0016_CHOICE2;2;2;2;2;2;2
+TSEM_0016_CHOICE3;3;3;3;3;3;3
+TSEM_0016_CHOICE4;4;4;4;4;4;4
+TSEM_0016_CHOICE5;5 Stimme zu;5 Strongly agree;5 Stimme zu;5 Strongly agree;5 Strongly agree;5 ļoti piekrītu
+TSEM_0016_PROMPT;Ich lerne viel davon, was wir in der Schule machen.;I often learn a lot from my school work.;Ich lerne viel davon, was wir in der Schule machen.;I often learn a lot from my school work.;I often learn a lot from my school work.;Es bieži vien daudz ko iemācos no mācībām skolā
+TSEM_0017_CHOICE1;1 (Fast) nie;1 (Almost) never;1 (Fast) nie;1 (Almost) never;1 (Almost) never;1 (gandrīz) nekad
+TSEM_0017_CHOICE2;2;2;2;2;2;2
+TSEM_0017_CHOICE3;3;3;3;3;3;3
+TSEM_0017_CHOICE4;4;4;4;4;4;4
+TSEM_0017_CHOICE5;5 Fast immer;5 Almost always;5 Fast immer;5 Almost always;5 Almost always;5 (gandrīz) vienmēr
+TSEM_0017_PROMPT;Wie oft erkennst du Probleme und planst, wie man sie lösen kann?;How often do you try to figure out problems and planning how to solve them?;Wie oft erkennst du Probleme und planst, wie man sie lösen kann?;How often do you try to figure out problems and planning how to solve them?;How often do you try to figure out problems and planning how to solve them?;Cik bieži tu centies tikt galā ar problēmām un saplānot to risināšanu?
+TSEM_0018_CHOICE1;1 (Fast) nie;1 (Almost) never;1 (Fast) nie;1 (Almost) never;1 (Almost) never;1 (gandrīz) nekad
+TSEM_0018_CHOICE2;2;2;2;2;2;2
+TSEM_0018_CHOICE3;3;3;3;3;3;3
+TSEM_0018_CHOICE4;4;4;4;4;4;4
+TSEM_0018_CHOICE5;5 Fast immer;5 Almost always;5 Fast immer;5 Almost always;5 Almost always;5 (gandrīz) vienmēr
+TSEM_0018_PROMPT;Wie oft führst du die Pläne aus, die du entwickelst, um Probleme zu lösen?;How often do you try to carry out the plans you make for solving problems?;Wie oft führst du die Pläne aus, die du entwickelst, um Probleme zu lösen?;How often do you try to carry out the plans you make for solving problems?;How often do you try to carry out the plans you make for solving problems?;Cik bieži tu centies izpildīt plānu, kuru esi paredzējis probēmu risināšanai?
+TSEM_0019_CHOICE1;1 (Fast) nie;1 (Almost) never;1 (Fast) nie;1 (Almost) never;1 (Almost) never;1 (gandrīz) nekad
+TSEM_0019_CHOICE2;2;2;2;2;2;2
+TSEM_0019_CHOICE3;3;3;3;3;3;3
+TSEM_0019_CHOICE4;4;4;4;4;4;4
+TSEM_0019_CHOICE5;5 Fast immer;5 Almost always;5 Fast immer;5 Almost always;5 Almost always;5 (gandrīz) vienmēr
+TSEM_0019_PROMPT;Wie oft versuchst du, dich von schlechten Erlebnissen nicht unterkriegen zu lassen?;How often do you try to bounce back quickly from bad experiences?;Wie oft versuchst du, dich von schlechten Erlebnissen nicht unterkriegen zu lassen?;How often do you try to bounce back quickly from bad experiences?;How often do you try to bounce back quickly from bad experiences?;Cik bieži tu centies ātri atgūties no nepatīkamas pieredzes?
+TSEM_0020_CHOICE1;1 (Fast) nie;1 (Almost) never;1 (Fast) nie;1 (Almost) never;1 (Almost) never;1 (gandrīz) nekad
+TSEM_0020_CHOICE2;2;2;2;2;2;2
+TSEM_0020_CHOICE3;3;3;3;3;3;3
+TSEM_0020_CHOICE4;4;4;4;4;4;4
+TSEM_0020_CHOICE5;5 Fast immer;5 Almost always;5 Fast immer;5 Almost always;5 Almost always;5 (gandrīz) vienmēr
+TSEM_0020_PROMPT;Wie oft versuchst du, aus deinen Fehlern zu lernen?;How often do you try to learn from your mistakes?;Wie oft versuchst du, aus deinen Fehlern zu lernen?;How often do you try to learn from your mistakes?;How often do you try to learn from your mistakes?;Cik bieži tu centies mācīties no savām kļūdām?
+TSEM_0021_CHOICE1;1 (Fast) nie;1 (Almost) never;1 (Fast) nie;1 (Almost) never;1 (Almost) never;1 (gandrīz) nekad
+TSEM_0021_CHOICE2;2;2;2;2;2;2
+TSEM_0021_CHOICE3;3;3;3;3;3;3
+TSEM_0021_CHOICE4;4;4;4;4;4;4
+TSEM_0021_CHOICE5;5 Fast immer;5 Almost always;5 Fast immer;5 Almost always;5 Almost always;5 (gandrīz) vienmēr
+TSEM_0021_PROMPT;Wie oft versuchst du, wenn du deine Hausaufgaben machst, herauszufinden, was du wirklich lernen sollst, statt einfach nur das Material zu lesen?;When you are doing homework or school work, how often do you try to decide what you are supposed to learn, rather than just read the material?;Wie oft versuchst du, wenn du deine Hausaufgaben machst, herauszufinden, was du wirklich lernen sollst, statt einfach nur das Material zu lesen?;When you are doing homework or school work, how often do you try to decide what you are supposed to learn, rather than just read the material?;When you are doing homework or school work, how often do you try to decide what you are supposed to learn, rather than just read the material?;Kad tu pildi mājas vai skolas darbus, cik bieži tu centies mācīties ar izpratni, nevis pavirši?
+TSEM_0022_CHOICE1;1 (Fast) nie;1 (Almost) never;1 (Fast) nie;1 (Almost) never;1 (Almost) never;1 (gandrīz) nekad
+TSEM_0022_CHOICE2;2;2;2;2;2;2
+TSEM_0022_CHOICE3;3;3;3;3;3;3
+TSEM_0022_CHOICE4;4;4;4;4;4;4
+TSEM_0022_CHOICE5;5 Fast immer;5 Almost always;5 Fast immer;5 Almost always;5 Almost always;5 (gandrīz) vienmēr
+TSEM_0022_PROMPT;Wie oft versuchst du, was du gelernt hast, mit anderen Dingen, die du kennst, zu verknüpfen?;How often do you try to relate what you are studying to other things you know about?;Wie oft versuchst du, was du gelernt hast, mit anderen Dingen, die du kennst, zu verknüpfen?;How often do you try to relate what you are studying to other things you know about?;How often do you try to relate what you are studying to other things you know about?;Cik bieži tu centies sasaistīt to, ko tu mācies ar citām lietām, kuras tu zini?
+TSEM_0023_CHOICE1;1 (Fast) nie;1 (Almost) never;1 (Fast) nie;1 (Almost) never;1 (Almost) never;1 (gandrīz) nekad
+TSEM_0023_CHOICE2;2;2;2;2;2;2
+TSEM_0023_CHOICE3;3;3;3;3;3;3
+TSEM_0023_CHOICE4;4;4;4;4;4;4
+TSEM_0023_CHOICE5;5 Fast immer;5 Almost always;5 Fast immer;5 Almost always;5 Almost always;5 (gandrīz) vienmēr
+TSEM_0023_PROMPT;Wie oft versuchst du zu planen, was du zu tun hast, bevor du mit den Hausaufgaben anfängst?;How often do you try to plan what you have to do for homework before you get started?;Wie oft versuchst du zu planen, was du zu tun hast, bevor du mit den Hausaufgaben anfängst?;How often do you try to plan what you have to do for homework before you get started?;How often do you try to plan what you have to do for homework before you get started?;Cik bieži tu centies sastādīt plānu pirms mājasdarba veikšanas?
+TSEM_0024_CHOICE1;1 (Fast) nie;1 (Almost) never;1 (Fast) nie;1 (Almost) never;1 (Almost) never;1 (gandrīz) nekad
+TSEM_0024_CHOICE2;2;2;2;2;2;2
+TSEM_0024_CHOICE3;3;3;3;3;3;3
+TSEM_0024_CHOICE4;4;4;4;4;4;4
+TSEM_0024_CHOICE5;5 Fast immer;5 Almost always;5 Fast immer;5 Almost always;5 Almost always;5 (gandrīz) vienmēr
+TSEM_0024_PROMPT;Wie oft stellst du sicher, dass du rechtzeitig anfängst?;How often do you make sure you get started on it early?;Wie oft stellst du sicher, dass du rechtzeitig anfängst?;How often do you make sure you get started on it early?;How often do you make sure you get started on it early?;Cik bieži tu pārliecinies, ka esi iesācis pildīt mājasdarbu laicīgi?

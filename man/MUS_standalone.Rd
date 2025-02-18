@@ -18,7 +18,7 @@ There is a set of posible subscales (MUSIC): \code{"Mellow"}, \code{"Unpretentio
 
 If no subscales are provided all subscales for the questionnaire are selected.}
 
-\item{...}{Further arguments to be passed to \code{\link{MUS_standalone}()}.}
+\item{...}{Further arguments to be passed to \code{\link{standalone}()}.}
 }
 \description{
 This function launches a standalone testing session for the MUSIC questionnaire.

@@ -1,0 +1,41 @@
+main_id;language;template;score_func;subscales;layout
+TBMR_0002;en;5-option multiple choice;function(x) x;"Social Reward; General";vertical
+TBMR_0002;it;5-option multiple choice;function(x) x;"Social Reward; General";vertical
+TBMR_0003;en;5-option multiple choice;function(x) 6-x;"Musical Seeking; General";vertical
+TBMR_0003;it;5-option multiple choice;function(x) 6-x;"Musical Seeking; General";vertical
+TBMR_0004;en;5-option multiple choice;function(x) x;"Emotional Evocation; General";vertical
+TBMR_0004;it;5-option multiple choice;function(x) x;"Emotional Evocation; General";vertical
+TBMR_0005;en;5-option multiple choice;function(x) x;"Mood Regulation; General";vertical
+TBMR_0005;it;5-option multiple choice;function(x) x;"Mood Regulation; General";vertical
+TBMR_0006;en;5-option multiple choice;function(x) 6-x;"Sensory-Motor; General";vertical
+TBMR_0006;it;5-option multiple choice;function(x) 6-x;"Sensory-Motor; General";vertical
+TBMR_0007;en;5-option multiple choice;function(x) x;"Social Reward; General";vertical
+TBMR_0007;it;5-option multiple choice;function(x) x;"Social Reward; General";vertical
+TBMR_0008;en;5-option multiple choice;function(x) x;"Musical Seeking; General";vertical
+TBMR_0008;it;5-option multiple choice;function(x) x;"Musical Seeking; General";vertical
+TBMR_0009;en;5-option multiple choice;function(x) x;"Emotional Evocation; General";vertical
+TBMR_0009;it;5-option multiple choice;function(x) x;"Emotional Evocation; General";vertical
+TBMR_0010;en;5-option multiple choice;function(x) x;"Mood Regulation; General";vertical
+TBMR_0010;it;5-option multiple choice;function(x) x;"Mood Regulation; General";vertical
+TBMR_0011;en;5-option multiple choice;function(x) x;"Sensory-Motor; General";vertical
+TBMR_0011;it;5-option multiple choice;function(x) x;"Sensory-Motor; General";vertical
+TBMR_0012;en;5-option multiple choice;function(x) x;"Musical Seeking; General";vertical
+TBMR_0012;it;5-option multiple choice;function(x) x;"Musical Seeking; General";vertical
+TBMR_0013;en;5-option multiple choice;function(x) x;"Emotional Evocation; General";vertical
+TBMR_0013;it;5-option multiple choice;function(x) x;"Emotional Evocation; General";vertical
+TBMR_0014;en;5-option multiple choice;function(x) x;"Social Reward; General";vertical
+TBMR_0014;it;5-option multiple choice;function(x) x;"Social Reward; General";vertical
+TBMR_0015;en;5-option multiple choice;function(x) x;"Mood Regulation; General";vertical
+TBMR_0015;it;5-option multiple choice;function(x) x;"Mood Regulation; General";vertical
+TBMR_0016;en;5-option multiple choice;function(x) x;"Sensory-Motor; General";vertical
+TBMR_0016;it;5-option multiple choice;function(x) x;"Sensory-Motor; General";vertical
+TBMR_0017;en;5-option multiple choice;function(x) x;"Social Reward; General";vertical
+TBMR_0017;it;5-option multiple choice;function(x) x;"Social Reward; General";vertical
+TBMR_0018;en;5-option multiple choice;function(x) x;"Musical Seeking; General";vertical
+TBMR_0018;it;5-option multiple choice;function(x) x;"Musical Seeking; General";vertical
+TBMR_0019;en;5-option multiple choice;function(x) x;"Emotional Evocation; General";vertical
+TBMR_0019;it;5-option multiple choice;function(x) x;"Emotional Evocation; General";vertical
+TBMR_0020;en;5-option multiple choice;function(x) x;"Mood Regulation; General";vertical
+TBMR_0020;it;5-option multiple choice;function(x) x;"Mood Regulation; General";vertical
+TBMR_0021;en;5-option multiple choice;function(x) x;"Sensory-Motor; General";vertical
+TBMR_0021;it;5-option multiple choice;function(x) x;"Sensory-Motor; General";vertical

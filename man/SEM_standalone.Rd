@@ -16,7 +16,7 @@ The first language is selected by default.}
 Possible subscales are \code{"Attentiveness"}, \code{"Behavioral Engagement"}, \code{"Cognitive Strategy Use"}, \code{"Education"}, \code{"Emotional Engagement"}, \code{"School belonging"}, \code{"School Compliance"}, \code{"Self-regulated Learning"}, and \code{"Valuing of School Education"}.
 If no subscales are provided all subscales for the questionnaire are selected.}
 
-\item{...}{Further arguments to be passed to \code{\link{SEM_standalone}()}.}
+\item{...}{Further arguments to be passed to \code{\link{standalone}()}.}
 }
 \description{
 This function launches a standalone testing session for the SEM questionnaire.

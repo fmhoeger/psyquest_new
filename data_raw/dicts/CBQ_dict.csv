@@ -1,0 +1,326 @@
+key;de;en;ar
+TCBQ_0000_PROMPT;CBQ-36;Children's Behavior Questionnaire - Very Short Form ;استبيان سلوك الأطفال
+TCBQ_0001_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0001_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0001_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0001_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0001_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0001_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0001_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0001_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0001_PROMPT;Mein Kind wirkt so, als würde es immer hektisch von einem Ort zum anderen wechseln.;My child seems always in a big hurry to get from one place to another.;يبدو يف ًامةادعج.ة كبيرة للا تقال من مكان إلى آفرج 
+TCBQ_0002_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0002_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0002_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0002_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0002_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0002_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0002_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0002_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0002_PROMPT ;Mein Kind ist sehr frustriert, wenn es nicht machen kann, was es will. ;My child gets quite frustrated when prevented from doing something s/he wants to do. ;يصبح محبطا ل.غاية ع دما يم ه من فعل شيء يريد فع.ه. 
+TCBQ_0003_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0003_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0003_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0003_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0003_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0003_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0003_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0003_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0003_PROMPT;Mein Kind ist sehr konzentriert, wenn es malt oder zeichnet. ;When drawing or coloring in a book, my child shows strong concentration.;عندما يرسم أو يلون في كتاب, يظهر تركيز ًا قوي.ًا
+TCBQ_0004_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0004_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0004_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0004_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0004_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0004_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0004_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0004_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0004_PROMPT;Mein Kind springt gerne von hohen Stufen oder Mauern oder mag andere abenteuerliche Aktivitäten. ;My child likes going down high slides or other adventurous activities. ; يحب لعبة التزلج أو نشاطات أخرى فيها مغامرة.
+TCBQ_0005_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0005_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0005_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0005_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0005_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0005_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0005_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0005_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0005_PROMPT;Mein Kind regt sich sehr über kleine Verletzungen (Schnitte oder Prellungen) auf. ;My child is quite upset by a little cut or bruise. ;ينزعج ًادج من جرح أو كدمة صغيرين. 
+TCBQ_0006_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0006_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0006_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0006_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0006_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0006_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0006_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0006_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0006_PROMPT;Mein Kind bereitet sich auf Ausflüge oder Aktivitäten im Freien vor, indem es plant, was es dabei benötigt.;My child prepares for trips and outings by planning things s/he will need. ;يستعد للرحلات والنزهات بالتخطيط للأمور التي سيحتاجها.
+TCBQ_0007_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0007_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0007_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0007_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0007_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0007_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0007_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0007_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0007_PROMPT;Mein Kind stürmt oft in neue Situationen hinein. ;My child often rushes into new situations.;ًابلاغ ما يندفع إلى مواقف جديدة. 
+TCBQ_0008_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0008_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0008_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0008_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0008_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0008_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0008_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0008_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0008_PROMPT;Mein Kind neigt dazu traurig zu sein, wenn geplante Familienaktivitäten nicht stattfinden. ;My child tends to become sad if the family's plans don't work out.;يميل لان يصبح حزينا إذا لم تنجح خطط العائلة. 
+TCBQ_0009_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0009_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0009_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0009_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0009_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0009_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0009_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0009_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0009_PROMPT;Mein Kind mag es, wenn man ihm etwas vorsingt.;My child likes being sung to. ;يحب أن يغنى له . 
+TCBQ_0010_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0010_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0010_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0010_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0010_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0010_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0010_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0010_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0010_PROMPT;Mein Kind kommt mit fast allen Personen gut zurecht. ;My child seems to be at ease with almost any person. ;يبدو ًاحاترم مع أي شخص ًابيرقت.
+TCBQ_0011_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0011_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0011_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0011_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0011_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0011_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0011_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0011_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0011_PROMPT;Mein Kind hat Angst vor Einbrechern, Monstern oder Gespenstern.;"My child is afraid of burglars or the ""boogie man"".";يخاف من اللصوص أو من الجن (أو الأشباح).
+TCBQ_0012_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0012_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0012_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0012_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0012_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0012_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0012_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0012_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0012_PROMPT;Mein Kind bemerkt, wenn die Eltern neue Kleidung tragen.;My child notices it when parents are wearing new clothing. ;يلاحظ عندما يلبس الوالدين ملابس جديدة .
+TCBQ_0013_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0013_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0013_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0013_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0013_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0013_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0013_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0013_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0013_PROMPT;Mein Kind mag ruhige Aktivitäten lieber als Spiele mit Bewegung. ;My child prefers quiet activities to active games. ;يفضل النشاطات الهادئة على الألعاب الفعالة.
+TCBQ_0014_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0014_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0014_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0014_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0014_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0014_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0014_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0014_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0014_PROMPT;Wenn mein Kind wütend ist, dann hält dies zehn Minuten oder länger an. ;When angry about something, my child tends to stay upset. ;عندما يكون غاضبا من شيء ما ,يميل لأن يبقى ًاجعزنم لمدة عشر دقائق أو أكثر.
+TCBQ_0015_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0015_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0015_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0015_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0015_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0015_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0015_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0015_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0015_PROMPT;Wenn mein Kind etwas baut oder puzzelt, geht es darin auf und spielt lange damit.;When building or putting something together, my child becomes very involved in what s/he is doing, and works for long periods. ;عندما يبني أو يركب الأشياء، يصبح مندمجا ،هب موقي امب ًادج ويعمل لفترات طويلة.
+TCBQ_0016_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0016_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0016_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0016_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0016_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0016_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0016_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0016_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0016_PROMPT;Mein Kind möchte hoch und schnell schaukeln, wenn es dabei angeschubst wird. ;My child likes to go high and fast when pushed on a swing. ;عندما يركب الارجوحة يحب أن يدفع بسرعة وعاليا.
+TCBQ_0017_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0017_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0017_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0017_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0017_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0017_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0017_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0017_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0017_PROMPT;Mein Kind ist niedergeschlagen, wenn es eine Aufgabe nicht schafft.;My child seems to feel depressed when unable to accomplish some task. ;يبدو أنه يشعر بالاكتئاب عندما يكون غير قادر على إتمام بعض المهام.
+TCBQ_0018_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0018_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0018_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0018_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0018_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0018_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0018_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0018_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0018_PROMPT;Mein Kind ist gut darin, Anleitungen zu befolgen. ;My child is good at following instructions. ;جيد في اتباع التعليمات.
+TCBQ_0019_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0019_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0019_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0019_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0019_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0019_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0019_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0019_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0019_PROMPT;Mein Kind benötigt lange, um sich auf eine neue Situation einzustellen. ;My child takes a long time in approaching new situations. ;يستغرق وقتا طويلا للاقتراب من مواقف جديدة. 
+TCBQ_0020_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0020_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0020_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0020_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0020_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0020_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0020_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0020_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0020_PROMPT;Mein Kind beschwert sich nur selten, wenn es eine Erkältung hat. ;My child hardly ever complains when ill with a cold. ;ًاردان ما يشكو عندما يصاب بالزكام.
+TCBQ_0021_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0021_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0021_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0021_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0021_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0021_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0021_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0021_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0021_PROMPT;Mein Kind hört gerne Wortspiele und Reime.;My child likes the sound of words, such as nursery rhymes. ;يحب صوت الكلمات ,مثل أغاني الأطفال.
+TCBQ_0022_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0022_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0022_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0022_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0022_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0022_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0022_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0022_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0022_PROMPT;Mein Kind ist manchmal auch gegenüber Personen schüchtern, die es schon länger kennt. ;My child is sometimes shy even around people s/he has known a long time. ;يكون, ًانايحأ , ًلاوجخ حتى مع ناس يعرفهم منذ وقت طويل. 
+TCBQ_0023_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0023_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0023_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0023_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0023_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0023_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0023_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0023_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0023_PROMPT;Mein Kind ist sehr schwer zu beruhigen, wenn es aufgeregt ist. ;My child is very difficult to soothe when s/he has become upset. ;من الصعب ًادج أن يهدأ ,بعد ان اصبح منزعجا.
+TCBQ_0024_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0024_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0024_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0024_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0024_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0024_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0024_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0024_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0024_PROMPT;Meinem Kind fällt sofort auf, wenn im Wohnzimmer etwas Neues steht. ;My child is quickly aware of some new item in the living room. ;يدرك بسرعة وجود بعض العناصر الجديدة في غرفة المعيشة. 
+TCBQ_0025_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0025_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0025_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0025_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0025_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0025_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0025_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0025_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0025_PROMPT;Mein Kind ist voller Energie, auch am Abend. ;My child is full of energy, even in the evening. ;مفعم بالطاقة ,حتى في المساء. 
+TCBQ_0026_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0026_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0026_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0026_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0026_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0026_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0026_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0026_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0026_PROMPT;Mein Kind hat keine Angst vor der Dunkelheit. ;My child is not afraid of the dark. ;لا يخاف من الظلام.
+TCBQ_0027_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0027_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0027_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0027_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0027_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0027_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0027_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0027_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0027_PROMPT;Mein Kind kann sich in der Betrachtung eines Bilderbuches verlieren und es lange betrachten. ;My child sometimes becomes absorbed in a picture book and looks at it for a long time. ;يصبح ًانايحأ غارق ًا في الكتاب المصور وينظر إليه لوقت طويل.
+TCBQ_0028_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0028_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0028_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0028_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0028_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0028_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0028_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0028_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0028_PROMPT;Mein Kind mag sehr gerne Tobespiele. ;My child likes rough and rowdy games.;لا يحب الألعاب الفظة والصاخبة.
+TCBQ_0029_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0029_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0029_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0029_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0029_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0029_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0029_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0029_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0029_PROMPT;Über kleinere Verletzungen regt mein Kind sich nicht sehr auf. ;My child is not very upset at minor cuts or bruises. ;لا ينزعج جدا من الجروح أو الكدمات الصغيرة. 
+TCBQ_0030_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0030_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0030_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0030_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0030_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0030_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0030_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0030_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0030_PROMPT;Nachdem man ihm erklärt hat, dass ein Ort gefährlich ist, nähert mein Kind sich langsam und vorsichtig an.;My child approaches places s/he has been told are dangerous slowly and cautiously.;يقترب ببطء وبحذر من الأماكن التي قيل له أنها خطيرة
+TCBQ_0031_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0031_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0031_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0031_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0031_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0031_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0031_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0031_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0031_PROMPT;Mein Kind entscheidet langsam und ohne Eile, was es als nächstes tut. ;My child is slow and unhurried in deciding what to do next. ;بطيء ورزين في تحديد خطواته القادمة. 
+TCBQ_0032_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0032_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0032_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0032_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0032_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0032_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0032_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0032_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0032_PROMPT;Mein Kind wird wütend, wenn es etwas nicht finden kann, womit es spielen möchte. ;My child gets angry when s/he can't find something s/he wants to play with.;يغضب عندما لا يمكنه العثور على شيء يريد اللعب به. 
+TCBQ_0033_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0033_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0033_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0033_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0033_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0033_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0033_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0033_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0033_PROMPT;Mein Kind mag gerne beruhigende rhythmische Aktivitäten wie Schaukeln oder Schwingen. ;My child enjoys gentle rhythmic activities such as rocking or swaying. ;يستمتع بالأنشطة ذات الحركة اللطيفه مثل الهز أو التمايل. 
+TCBQ_0034_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0034_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0034_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0034_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0034_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0034_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0034_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0034_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0034_PROMPT;Mein Kind wendet sich manchmal schüchtern von neuen Bekannten ab. ;My child sometimes turns away shyly from new aquaintances. ;يبتعد ًانايحأ بخجل من المعارف الجدد.
+TCBQ_0035_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0035_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0035_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0035_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0035_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0035_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0035_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0035_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0035_PROMPT;Mein Kind regt sich auf, wenn geliebte Verwandte oder Feunde nach dem Besuch aufbrechen.;My child becomes upset when loved relatives or friends are getting ready to leave following a visit. ;يصبح منزعجا عندما يستعد أقارب أو أصدقاء محبوبين للمغادرة بعد زيارة.
+TCBQ_0036_CHOICE1;Trifft überhaupt nicht zu;Extremely untrue ;ير صحيح إلى بعد حد
+TCBQ_0036_CHOICE2;Trifft überwiegend nicht zu ;Quite untrue ;ير صحيح إلى حد بعيد
+TCBQ_0036_CHOICE3;Etwas unzutreffend ;Slightly untrue ;ير صحيح ام ًاعو 
+TCBQ_0036_CHOICE4;Weder noch ;Neither true nor untrue ;م هو صحيح وم هو ير صحيح 
+TCBQ_0036_CHOICE5;Etwas zutreffend;Slightly true ; ام ًاعو  حيحص
+TCBQ_0036_CHOICE6;Trifft überwiegend zu ;Quite true ;صحيح إلى حد بعيد
+TCBQ_0036_CHOICE7;Trifft sehr zu ;Extremely true ;صحيح إلى بعد حد
+TCBQ_0036_CHOICE8;Nicht beurteilbar;Not applicable ;م ي طبق
+TCBQ_0036_PROMPT;Mein Kind sagt etwas, wenn die Eltern ihr Äußeres verändert haben (z.B. neue Frisur). ;My child comments when a parent has changed his/her appearance. ;يعلق عندما يغير أحد الوالدين مظهره الخارجي.

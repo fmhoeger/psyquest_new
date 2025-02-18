@@ -1,0 +1,187 @@
+key;en;de
+TMET_0000_PROMPT;Music Engagement Test (MET);Music Engagement Test (MET)
+TMET_0001_PROMPT;Following is a list of statements that may or may not describe your music listening experience. Please read each item very carefully, and indicate how characteristic each statement is of your musical engagement. ;Nachfolgend finden Sie eine Liste von Aussagen, die Ihr Musikhören beschreiben können oder auch nicht. Bitte lesen Sie jeden Punkt sehr sorgfältig durch und geben Sie an, wie zutreffend die jeweilige Aussage für Ihr musikalisches Verhalten ist. 
+TMET_0002_CHOICE1;Not at all characteristic;Trifft gar nicht zu
+TMET_0002_CHOICE2;Not characteristic;Trifft nicht zu
+TMET_0002_CHOICE3;Hardly characteristic;Trifft eher nicht zu
+TMET_0002_CHOICE4;Neither / nor;Weder /  noch 
+TMET_0002_CHOICE5;Somewhat characteristic;Trifft eher zu
+TMET_0002_CHOICE6;Characteristic;Trifft zu
+TMET_0002_CHOICE7;Extremely characteristic;Trifft voll zu
+TMET_0002_PROMPT;Music makes me want to dance.;Musik regt mich zum Tanzen an.
+TMET_0003_CHOICE1;Not at all characteristic;Trifft gar nicht zu
+TMET_0003_CHOICE2;Not characteristic;Trifft nicht zu
+TMET_0003_CHOICE3;Hardly characteristic;Trifft eher nicht zu
+TMET_0003_CHOICE4;Neither / nor;Weder /  noch 
+TMET_0003_CHOICE5;Somewhat characteristic;Trifft eher zu
+TMET_0003_CHOICE6;Characteristic;Trifft zu
+TMET_0003_CHOICE7;Extremely characteristic;Trifft voll zu
+TMET_0003_PROMPT;Music magnifies my emotions.;Musik verstärkt meine Emotionen
+TMET_0004_CHOICE1;Not at all characteristic;Trifft gar nicht zu
+TMET_0004_CHOICE2;Not characteristic;Trifft nicht zu
+TMET_0004_CHOICE3;Hardly characteristic;Trifft eher nicht zu
+TMET_0004_CHOICE4;Neither / nor;Weder /  noch 
+TMET_0004_CHOICE5;Somewhat characteristic;Trifft eher zu
+TMET_0004_CHOICE6;Characteristic;Trifft zu
+TMET_0004_CHOICE7;Extremely characteristic;Trifft voll zu
+TMET_0004_PROMPT;I feel a deep connection with my favorite musicians.;Ich fühle eine tiefe Verbundenheit mit meinen Lieblingsmusikern.
+TMET_0005_CHOICE1;Not at all characteristic;Trifft gar nicht zu
+TMET_0005_CHOICE2;Not characteristic;Trifft nicht zu
+TMET_0005_CHOICE3;Hardly characteristic;Trifft eher nicht zu
+TMET_0005_CHOICE4;Neither / nor;Weder /  noch 
+TMET_0005_CHOICE5;Somewhat characteristic;Trifft eher zu
+TMET_0005_CHOICE6;Characteristic;Trifft zu
+TMET_0005_CHOICE7;Extremely characteristic;Trifft voll zu
+TMET_0005_PROMPT;When listening to live music, I feel in-tune with the  musicians.;Wenn ich Live-Musik höre, fühle ich mich im Einklang mit den Musikern.
+TMET_0006_CHOICE1;Not at all characteristic;Trifft gar nicht zu
+TMET_0006_CHOICE2;Not characteristic;Trifft nicht zu
+TMET_0006_CHOICE3;Hardly characteristic;Trifft eher nicht zu
+TMET_0006_CHOICE4;Neither / nor;Weder /  noch 
+TMET_0006_CHOICE5;Somewhat characteristic;Trifft eher zu
+TMET_0006_CHOICE6;Characteristic;Trifft zu
+TMET_0006_CHOICE7;Extremely characteristic;Trifft voll zu
+TMET_0006_PROMPT;When listening to music, my attention is often drawn to just a single instrument or section in the band or orchestra.;Wenn ich Musik höre, richtet sich meine Aufmerksamkeit oft auf ein einzelnes Instrument oder eine Gruppe in der Band oder im Orchester.
+TMET_0007_CHOICE1;Not at all characteristic;Trifft gar nicht zu
+TMET_0007_CHOICE2;Not characteristic;Trifft nicht zu
+TMET_0007_CHOICE3;Hardly characteristic;Trifft eher nicht zu
+TMET_0007_CHOICE4;Neither / nor;Weder /  noch 
+TMET_0007_CHOICE5;Somewhat characteristic;Trifft eher zu
+TMET_0007_CHOICE6;Characteristic;Trifft zu
+TMET_0007_CHOICE7;Extremely characteristic;Trifft voll zu
+TMET_0007_PROMPT;Music pumps me up.;Musik bringt mich in Schwung.
+TMET_0008_CHOICE1;Not at all characteristic;Trifft gar nicht zu
+TMET_0008_CHOICE2;Not characteristic;Trifft nicht zu
+TMET_0008_CHOICE3;Hardly characteristic;Trifft eher nicht zu
+TMET_0008_CHOICE4;Neither / nor;Weder /  noch 
+TMET_0008_CHOICE5;Somewhat characteristic;Trifft eher zu
+TMET_0008_CHOICE6;Characteristic;Trifft zu
+TMET_0008_CHOICE7;Extremely characteristic;Trifft voll zu
+TMET_0008_PROMPT;When listening to music, I try to understand the underlying meaning of the lyrics or sounds.;Wenn ich Musik höre, versuche ich, die Bedeutung des Textes oder der Klänge zu verstehen.
+TMET_0009_CHOICE1;Not at all characteristic;Trifft gar nicht zu
+TMET_0009_CHOICE2;Not characteristic;Trifft nicht zu
+TMET_0009_CHOICE3;Hardly characteristic;Trifft eher nicht zu
+TMET_0009_CHOICE4;Neither / nor;Weder /  noch 
+TMET_0009_CHOICE5;Somewhat characteristic;Trifft eher zu
+TMET_0009_CHOICE6;Characteristic;Trifft zu
+TMET_0009_CHOICE7;Extremely characteristic;Trifft voll zu
+TMET_0009_PROMPT;I am able to vent my frustrations through music.;Ich kann meinen Frust durch Musik ausdrücken
+TMET_0010_CHOICE1;Not at all characteristic;Trifft gar nicht zu
+TMET_0010_CHOICE2;Not characteristic;Trifft nicht zu
+TMET_0010_CHOICE3;Hardly characteristic;Trifft eher nicht zu
+TMET_0010_CHOICE4;Neither / nor;Weder /  noch 
+TMET_0010_CHOICE5;Somewhat characteristic;Trifft eher zu
+TMET_0010_CHOICE6;Characteristic;Trifft zu
+TMET_0010_CHOICE7;Extremely characteristic;Trifft voll zu
+TMET_0010_PROMPT;I focus on the instrument or musical techniques that the musician or band is using. ;Ich konzentriere mich auf das Instrument oder die Techniken, die der Musiker oder die Band einsetzt. 
+TMET_0011_CHOICE1;Not at all characteristic;Trifft gar nicht zu
+TMET_0011_CHOICE2;Not characteristic;Trifft nicht zu
+TMET_0011_CHOICE3;Hardly characteristic;Trifft eher nicht zu
+TMET_0011_CHOICE4;Neither / nor;Weder /  noch 
+TMET_0011_CHOICE5;Somewhat characteristic;Trifft eher zu
+TMET_0011_CHOICE6;Characteristic;Trifft zu
+TMET_0011_CHOICE7;Extremely characteristic;Trifft voll zu
+TMET_0011_PROMPT;Music creates a story or narrative in my mind. ;Musik erzeugt in meinem Kopf eine Geschichte oder Erzählung. 
+TMET_0012_CHOICE1;Not at all characteristic;Trifft gar nicht zu
+TMET_0012_CHOICE2;Not characteristic;Trifft nicht zu
+TMET_0012_CHOICE3;Hardly characteristic;Trifft eher nicht zu
+TMET_0012_CHOICE4;Neither / nor;Weder /  noch 
+TMET_0012_CHOICE5;Somewhat characteristic;Trifft eher zu
+TMET_0012_CHOICE6;Characteristic;Trifft zu
+TMET_0012_CHOICE7;Extremely characteristic;Trifft voll zu
+TMET_0012_PROMPT;My attention is drawn to the story or messages that are unfolding in the music.;Meine Aufmerksamkeit wird von der Geschichte oder den Bedeutungen angezogen, die sich in der Musik entfalten.
+TMET_0013_CHOICE1;Not at all characteristic;Trifft gar nicht zu
+TMET_0013_CHOICE2;Not characteristic;Trifft nicht zu
+TMET_0013_CHOICE3;Hardly characteristic;Trifft eher nicht zu
+TMET_0013_CHOICE4;Neither / nor;Weder /  noch 
+TMET_0013_CHOICE5;Somewhat characteristic;Trifft eher zu
+TMET_0013_CHOICE6;Characteristic;Trifft zu
+TMET_0013_CHOICE7;Extremely characteristic;Trifft voll zu
+TMET_0013_PROMPT;When listening to music, I try to deconstruct the different elements of the song or composition.;Wenn ich Musik höre, versuche ich, die verschiedenen Elemente des Songs oder der Komposition voneinander zu trennen.
+TMET_0014_CHOICE1;Not at all characteristic;Trifft gar nicht zu
+TMET_0014_CHOICE2;Not characteristic;Trifft nicht zu
+TMET_0014_CHOICE3;Hardly characteristic;Trifft eher nicht zu
+TMET_0014_CHOICE4;Neither / nor;Weder /  noch 
+TMET_0014_CHOICE5;Somewhat characteristic;Trifft eher zu
+TMET_0014_CHOICE6;Characteristic;Trifft zu
+TMET_0014_CHOICE7;Extremely characteristic;Trifft voll zu
+TMET_0014_PROMPT;When listening to music, I focus on the lyrics or sounds to understand the emotional content.;Wenn ich Musik höre, konzentriere ich mich auf die Texte oder Klänge, um den emotionalen Gehalt zu verstehen.
+TMET_0015_CHOICE1;Not at all characteristic;Trifft gar nicht zu
+TMET_0015_CHOICE2;Not characteristic;Trifft nicht zu
+TMET_0015_CHOICE3;Hardly characteristic;Trifft eher nicht zu
+TMET_0015_CHOICE4;Neither / nor;Weder /  noch 
+TMET_0015_CHOICE5;Somewhat characteristic;Trifft eher zu
+TMET_0015_CHOICE6;Characteristic;Trifft zu
+TMET_0015_CHOICE7;Extremely characteristic;Trifft voll zu
+TMET_0015_PROMPT;Music makes me want to jump up and down. ;Bei Musik möchte ich auf und ab springen.
+TMET_0016_CHOICE1;Not at all characteristic;Trifft gar nicht zu
+TMET_0016_CHOICE2;Not characteristic;Trifft nicht zu
+TMET_0016_CHOICE3;Hardly characteristic;Trifft eher nicht zu
+TMET_0016_CHOICE4;Neither / nor;Weder /  noch 
+TMET_0016_CHOICE5;Somewhat characteristic;Trifft eher zu
+TMET_0016_CHOICE6;Characteristic;Trifft zu
+TMET_0016_CHOICE7;Extremely characteristic;Trifft voll zu
+TMET_0016_PROMPT;Music helps me to emotionally heal.;Musik hilft mir, mich emotional zu heilen.
+TMET_0017_CHOICE1;Not at all characteristic;Trifft gar nicht zu
+TMET_0017_CHOICE2;Not characteristic;Trifft nicht zu
+TMET_0017_CHOICE3;Hardly characteristic;Trifft eher nicht zu
+TMET_0017_CHOICE4;Neither / nor;Weder /  noch 
+TMET_0017_CHOICE5;Somewhat characteristic;Trifft eher zu
+TMET_0017_CHOICE6;Characteristic;Trifft zu
+TMET_0017_CHOICE7;Extremely characteristic;Trifft voll zu
+TMET_0017_PROMPT;I am drawn to the symbolism expressed in music.;Ich fühle mich von der Symbolik der Musik angezogen.
+TMET_0018_CHOICE1;Not at all characteristic;Trifft gar nicht zu
+TMET_0018_CHOICE2;Not characteristic;Trifft nicht zu
+TMET_0018_CHOICE3;Hardly characteristic;Trifft eher nicht zu
+TMET_0018_CHOICE4;Neither / nor;Weder /  noch 
+TMET_0018_CHOICE5;Somewhat characteristic;Trifft eher zu
+TMET_0018_CHOICE6;Characteristic;Trifft zu
+TMET_0018_CHOICE7;Extremely characteristic;Trifft voll zu
+TMET_0018_PROMPT;I can overcome painful emotions when I listen to music. ;Ich kann schmerzhafte Gefühle überwinden, wenn ich Musik höre. 
+TMET_0019_CHOICE1;Not at all characteristic;Trifft gar nicht zu
+TMET_0019_CHOICE2;Not characteristic;Trifft nicht zu
+TMET_0019_CHOICE3;Hardly characteristic;Trifft eher nicht zu
+TMET_0019_CHOICE4;Neither / nor;Weder /  noch 
+TMET_0019_CHOICE5;Somewhat characteristic;Trifft eher zu
+TMET_0019_CHOICE6;Characteristic;Trifft zu
+TMET_0019_CHOICE7;Extremely characteristic;Trifft voll zu
+TMET_0019_PROMPT;I identify with the musicians that I listen to. ;Ich identifiziere mich mit den Musikern, denen ich zuhöre. 
+TMET_0020_CHOICE1;Not at all characteristic;Trifft gar nicht zu
+TMET_0020_CHOICE2;Not characteristic;Trifft nicht zu
+TMET_0020_CHOICE3;Hardly characteristic;Trifft eher nicht zu
+TMET_0020_CHOICE4;Neither / nor;Weder /  noch 
+TMET_0020_CHOICE5;Somewhat characteristic;Trifft eher zu
+TMET_0020_CHOICE6;Characteristic;Trifft zu
+TMET_0020_CHOICE7;Extremely characteristic;Trifft voll zu
+TMET_0020_PROMPT;When listening to music, I tend to concentrate on the melodies and counter-melodies. ;Wenn ich Musik höre, konzentriere ich mich eher auf die Melodien und Gegenmelodien.
+TMET_0021_CHOICE1;Not at all characteristic;Trifft gar nicht zu
+TMET_0021_CHOICE2;Not characteristic;Trifft nicht zu
+TMET_0021_CHOICE3;Hardly characteristic;Trifft eher nicht zu
+TMET_0021_CHOICE4;Neither / nor;Weder /  noch 
+TMET_0021_CHOICE5;Somewhat characteristic;Trifft eher zu
+TMET_0021_CHOICE6;Characteristic;Trifft zu
+TMET_0021_CHOICE7;Extremely characteristic;Trifft voll zu
+TMET_0021_PROMPT;The rhythm in music gets my body moving. ;Der Rhythmus der Musik bringt meinen Körper in Bewegung.
+TMET_0022_CHOICE1;Not at all characteristic;Trifft gar nicht zu
+TMET_0022_CHOICE2;Not characteristic;Trifft nicht zu
+TMET_0022_CHOICE3;Hardly characteristic;Trifft eher nicht zu
+TMET_0022_CHOICE4;Neither / nor;Weder /  noch 
+TMET_0022_CHOICE5;Somewhat characteristic;Trifft eher zu
+TMET_0022_CHOICE6;Characteristic;Trifft zu
+TMET_0022_CHOICE7;Extremely characteristic;Trifft voll zu
+TMET_0022_PROMPT;When listening to music, I pay attention to the blends of musical instruments mixing together. ;Wenn ich Musik höre, achte ich darauf, wie sich die Musikinstrumente vermischen. 
+TMET_0023_CHOICE1;Not at all characteristic;Trifft gar nicht zu
+TMET_0023_CHOICE2;Not characteristic;Trifft nicht zu
+TMET_0023_CHOICE3;Hardly characteristic;Trifft eher nicht zu
+TMET_0023_CHOICE4;Neither / nor;Weder /  noch 
+TMET_0023_CHOICE5;Somewhat characteristic;Trifft eher zu
+TMET_0023_CHOICE6;Characteristic;Trifft zu
+TMET_0023_CHOICE7;Extremely characteristic;Trifft voll zu
+TMET_0023_PROMPT;At a live concert I feel as if the entire audience and I are one. ;Bei einem Live-Konzert habe ich das Gefühl, dass das gesamte Publikum und ich eins sind. 
+TMET_0024_CHOICE1;Not at all characteristic;Trifft gar nicht zu
+TMET_0024_CHOICE2;Not characteristic;Trifft nicht zu
+TMET_0024_CHOICE3;Hardly characteristic;Trifft eher nicht zu
+TMET_0024_CHOICE4;Neither / nor;Weder /  noch 
+TMET_0024_CHOICE5;Somewhat characteristic;Trifft eher zu
+TMET_0024_CHOICE6;Characteristic;Trifft zu
+TMET_0024_CHOICE7;Extremely characteristic;Trifft voll zu
+TMET_0024_PROMPT;Music evokes a deep surge of emotion in me. ;Musik löst in mir eine starke emotionale Welle aus. 

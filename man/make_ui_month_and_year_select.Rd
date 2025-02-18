@@ -4,7 +4,14 @@
 \alias{make_ui_month_and_year_select}
 \title{Make month and year selectboxes}
 \usage{
-make_ui_month_and_year_select(label, hide = FALSE, id = "response_ui")
+make_ui_month_and_year_select(
+  label,
+  hide = FALSE,
+  id = "response_ui",
+  min_year = 1930,
+  max_year = 2013,
+  show_month = TRUE
+)
 }
 \arguments{
 \item{label}{Label for the current page (character scalar).}

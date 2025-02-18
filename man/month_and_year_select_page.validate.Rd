@@ -4,7 +4,7 @@
 \alias{month_and_year_select_page.validate}
 \title{Validate month and year from the month and year select page}
 \usage{
-month_and_year_select_page.validate()
+month_and_year_select_page.validate(show_month = T)
 }
 \description{
 Validate month and year from the month and year select page

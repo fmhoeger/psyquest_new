@@ -1,0 +1,243 @@
+key;en;it
+TPMS_0000_PROMPT;Profile of Mood States;Profile of Mood States
+TPMS_0001_PROMPT;Below is a list of words that describe feelings people have. Please circle the number that best describes how you feel right now.;"Qui sotto trova una lista di parole che descrivono alcuni stati d'animo. La legga attentamente. Poi indichi la risposta che meglio descrive come lei si sente in questo preciso momento."
+TPMS_0002_CHOICE1;Not at all;Per niente
+TPMS_0002_CHOICE2;A little;"Un po'"
+TPMS_0002_CHOICE3;Moderately;Moderatamente
+TPMS_0002_CHOICE4;Quite a lot;Abbastanza
+TPMS_0002_CHOICE5;Extremely;Estremamente
+TPMS_0002_PROMPT;Tense;Teso/a
+TPMS_0003_CHOICE1;Not at all;Per niente
+TPMS_0003_CHOICE2;A little;"Un po'"
+TPMS_0003_CHOICE3;Moderately;Moderatamente
+TPMS_0003_CHOICE4;Quite a lot;Abbastanza
+TPMS_0003_CHOICE5;Extremely;Estremamente
+TPMS_0003_PROMPT;Angry;Arrabbiato/a
+TPMS_0004_CHOICE1;Not at all;Per niente
+TPMS_0004_CHOICE2;A little;"Un po'"
+TPMS_0004_CHOICE3;Moderately;Moderatamente
+TPMS_0004_CHOICE4;Quite a lot;Abbastanza
+TPMS_0004_CHOICE5;Extremely;Estremamente
+TPMS_0004_PROMPT;Worn out;Sfinito/a
+TPMS_0005_CHOICE1;Not at all;Per niente
+TPMS_0005_CHOICE2;A little;"Un po'"
+TPMS_0005_CHOICE3;Moderately;Moderatamente
+TPMS_0005_CHOICE4;Quite a lot;Abbastanza
+TPMS_0005_CHOICE5;Extremely;Estremamente
+TPMS_0005_PROMPT;Unhappy;Infelice
+TPMS_0006_CHOICE1;Not at all;Per niente
+TPMS_0006_CHOICE2;A little;"Un po'"
+TPMS_0006_CHOICE3;Moderately;Moderatamente
+TPMS_0006_CHOICE4;Quite a lot;Abbastanza
+TPMS_0006_CHOICE5;Extremely;Estremamente
+TPMS_0006_PROMPT;Proud;Fiero/a
+TPMS_0007_CHOICE1;Not at all;Per niente
+TPMS_0007_CHOICE2;A little;"Un po'"
+TPMS_0007_CHOICE3;Moderately;Moderatamente
+TPMS_0007_CHOICE4;Quite a lot;Abbastanza
+TPMS_0007_CHOICE5;Extremely;Estremamente
+TPMS_0007_PROMPT;Lively;Vitale
+TPMS_0008_CHOICE1;Not at all;Per niente
+TPMS_0008_CHOICE2;A little;"Un po'"
+TPMS_0008_CHOICE3;Moderately;Moderatamente
+TPMS_0008_CHOICE4;Quite a lot;Abbastanza
+TPMS_0008_CHOICE5;Extremely;Estremamente
+TPMS_0008_PROMPT;Confused;Confuso/a
+TPMS_0009_CHOICE1;Not at all;Per niente
+TPMS_0009_CHOICE2;A little;"Un po'"
+TPMS_0009_CHOICE3;Moderately;Moderatamente
+TPMS_0009_CHOICE4;Quite a lot;Abbastanza
+TPMS_0009_CHOICE5;Extremely;Estremamente
+TPMS_0009_PROMPT;Sad;Triste
+TPMS_0010_CHOICE1;Not at all;Per niente
+TPMS_0010_CHOICE2;A little;"Un po'"
+TPMS_0010_CHOICE3;Moderately;Moderatamente
+TPMS_0010_CHOICE4;Quite a lot;Abbastanza
+TPMS_0010_CHOICE5;Extremely;Estremamente
+TPMS_0010_PROMPT;Active;Attivo/a
+TPMS_0011_CHOICE1;Not at all;Per niente
+TPMS_0011_CHOICE2;A little;"Un po'"
+TPMS_0011_CHOICE3;Moderately;"Un po'"
+TPMS_0011_CHOICE4;Quite a lot;Abbastanza
+TPMS_0011_CHOICE5;Extremely;Estremamente
+TPMS_0011_PROMPT;On-edge;Agitato/a
+TPMS_0012_CHOICE1;Not at all;Per niente
+TPMS_0012_CHOICE2;A little;"Un po'"
+TPMS_0012_CHOICE3;Moderately;Moderatamente
+TPMS_0012_CHOICE4;Quite a lot;Abbastanza
+TPMS_0012_CHOICE5;Extremely;Estremamente
+TPMS_0012_PROMPT;Grouchy;Irritabile
+TPMS_0013_CHOICE1;Not at all;Per niente
+TPMS_0013_CHOICE2;A little;"Un po'"
+TPMS_0013_CHOICE3;Moderately;Moderatamente
+TPMS_0013_CHOICE4;Quite a lot;Abbastanza
+TPMS_0013_CHOICE5;Extremely;Estremamente
+TPMS_0013_PROMPT;Ashamed;Vergognoso/a
+TPMS_0014_CHOICE1;Not at all;Per niente
+TPMS_0014_CHOICE2;A little;"Un po'"
+TPMS_0014_CHOICE3;Moderately;Moderatamente
+TPMS_0014_CHOICE4;Quite a lot;Abbastanza
+TPMS_0014_CHOICE5;Extremely;Estremamente
+TPMS_0014_PROMPT;Energetic;Energico/a
+TPMS_0015_CHOICE1;Not at all;Per niente
+TPMS_0015_CHOICE2;A little;"Un po'"
+TPMS_0015_CHOICE3;Moderately;Moderatamente
+TPMS_0015_CHOICE4;Quite a lot;Abbastanza
+TPMS_0015_CHOICE5;Extremely;Estremamente
+TPMS_0015_PROMPT;Hopeless;Disperato/a
+TPMS_0016_CHOICE1;Not at all;Per niente
+TPMS_0016_CHOICE2;A little;"Un po'"
+TPMS_0016_CHOICE3;Moderately;Moderatamente
+TPMS_0016_CHOICE4;Quite a lot;Abbastanza
+TPMS_0016_CHOICE5;Extremely;Estremamente
+TPMS_0016_PROMPT;Uneasy;Turbato/a
+TPMS_0017_CHOICE1;Not at all;Per niente
+TPMS_0017_CHOICE2;A little;"Un po'"
+TPMS_0017_CHOICE3;Moderately;Moderatamente
+TPMS_0017_CHOICE4;Quite a lot;Abbastanza
+TPMS_0017_CHOICE5;Extremely;Estremamente
+TPMS_0017_PROMPT;Restless;Irrequieto/a
+TPMS_0018_CHOICE1;Not at all;Per niente
+TPMS_0018_CHOICE2;A little;"Un po'"
+TPMS_0018_CHOICE3;Moderately;Moderatamente
+TPMS_0018_CHOICE4;Quite a lot;Abbastanza
+TPMS_0018_CHOICE5;Extremely;Estremamente
+TPMS_0018_PROMPT;Unable to concentrate;Incapace di concentrarsi
+TPMS_0019_CHOICE1;Not at all;Per niente
+TPMS_0019_CHOICE2;A little;"Un po'"
+TPMS_0019_CHOICE3;Moderately;Moderatamente
+TPMS_0019_CHOICE4;Quite a lot;Abbastanza
+TPMS_0019_CHOICE5;Extremely;Estremamente
+TPMS_0019_PROMPT;Fatigued;Affaticato/a
+TPMS_0020_CHOICE1;Not at all;Per niente
+TPMS_0020_CHOICE2;A little;"Un po'"
+TPMS_0020_CHOICE3;Moderately;Moderatamente
+TPMS_0020_CHOICE4;Quite a lot;Abbastanza
+TPMS_0020_CHOICE5;Extremely;Estremamente
+TPMS_0020_PROMPT;Competent;Competente
+TPMS_0021_CHOICE1;Not at all;Per niente
+TPMS_0021_CHOICE2;A little;"Un po'"
+TPMS_0021_CHOICE3;Moderately;Moderatamente
+TPMS_0021_CHOICE4;Quite a lot;Abbastanza
+TPMS_0021_CHOICE5;Extremely;Estremamente
+TPMS_0021_PROMPT;Annoyed;Infastidito/a
+TPMS_0022_CHOICE1;Not at all;Per niente
+TPMS_0022_CHOICE2;A little;"Un po'"
+TPMS_0022_CHOICE3;Moderately;Moderatamente
+TPMS_0022_CHOICE4;Quite a lot;Abbastanza
+TPMS_0022_CHOICE5;Extremely;Estremamente
+TPMS_0022_PROMPT;Discouraged;Avvilito/a
+TPMS_0023_CHOICE1;Not at all;Per niente
+TPMS_0023_CHOICE2;A little;"Un po'"
+TPMS_0023_CHOICE3;Moderately;Moderatamente
+TPMS_0023_CHOICE4;Quite a lot;Abbastanza
+TPMS_0023_CHOICE5;Extremely;Estremamente
+TPMS_0023_PROMPT;Resentful;Rancoroso/a
+TPMS_0024_CHOICE1;Not at all;Per niente
+TPMS_0024_CHOICE2;A little;"Un po'"
+TPMS_0024_CHOICE3;Moderately;Moderatamente
+TPMS_0024_CHOICE4;Quite a lot;Abbastanza
+TPMS_0024_CHOICE5;Extremely;Estremamente
+TPMS_0024_PROMPT;Nervous;Nervoso/a
+TPMS_0025_CHOICE1;Not at all;Per niente
+TPMS_0025_CHOICE2;A little;"Un po'"
+TPMS_0025_CHOICE3;Moderately;Moderatamente
+TPMS_0025_CHOICE4;Quite a lot;Abbastanza
+TPMS_0025_CHOICE5;Extremely;Estremamente
+TPMS_0025_PROMPT;Miserable;Miserevole
+TPMS_0026_CHOICE1;Not at all;Per niente
+TPMS_0026_CHOICE2;A little;"Un po'"
+TPMS_0026_CHOICE3;Moderately;Moderatamente
+TPMS_0026_CHOICE4;Quite a lot;Abbastanza
+TPMS_0026_CHOICE5;Extremely;Estremamente
+TPMS_0026_PROMPT;Confident;Fiducioso/a
+TPMS_0027_CHOICE1;Not at all;Per niente
+TPMS_0027_CHOICE2;A little;"Un po'"
+TPMS_0027_CHOICE3;Moderately;Moderatamente
+TPMS_0027_CHOICE4;Quite a lot;Abbastanza
+TPMS_0027_CHOICE5;Extremely;Estremamente
+TPMS_0027_PROMPT;Bitter;Amareggiato/a
+TPMS_0028_CHOICE1;Not at all;Per niente
+TPMS_0028_CHOICE2;A little;"Un po'"
+TPMS_0028_CHOICE3;Moderately;Moderatamente
+TPMS_0028_CHOICE4;Quite a lot;Abbastanza
+TPMS_0028_CHOICE5;Extremely;Estremamente
+TPMS_0028_PROMPT;Exhausted;Esausto/a
+TPMS_0029_CHOICE1;Not at all;Per niente
+TPMS_0029_CHOICE2;A little;"Un po'"
+TPMS_0029_CHOICE3;Moderately;Moderatamente
+TPMS_0029_CHOICE4;Quite a lot;Abbastanza
+TPMS_0029_CHOICE5;Extremely;Estremamente
+TPMS_0029_PROMPT;Anxious;Ansioso/a
+TPMS_0030_CHOICE1;Not at all;Per niente
+TPMS_0030_CHOICE2;A little;"Un po'"
+TPMS_0030_CHOICE3;Moderately;Moderatamente
+TPMS_0030_CHOICE4;Quite a lot;Abbastanza
+TPMS_0030_CHOICE5;Extremely;Estremamente
+TPMS_0030_PROMPT;Helpless;Impotente
+TPMS_0031_CHOICE1;Not at all;Per niente
+TPMS_0031_CHOICE2;A little;"Un po'"
+TPMS_0031_CHOICE3;Moderately;Moderatamente
+TPMS_0031_CHOICE4;Quite a lot;Abbastanza
+TPMS_0031_CHOICE5;Extremely;Estremamente
+TPMS_0031_PROMPT;Weary;Stufo/a
+TPMS_0032_CHOICE1;Not at all;Per niente
+TPMS_0032_CHOICE2;A little;"Un po'"
+TPMS_0032_CHOICE3;Moderately;Moderatamente
+TPMS_0032_CHOICE4;Quite a lot;Abbastanza
+TPMS_0032_CHOICE5;Extremely;Estremamente
+TPMS_0032_PROMPT;Satisfied;Soddisfatto/a
+TPMS_0033_CHOICE1;Not at all;Per niente
+TPMS_0033_CHOICE2;A little;"Un po'"
+TPMS_0033_CHOICE3;Moderately;Moderatamente
+TPMS_0033_CHOICE4;Quite a lot;Abbastanza
+TPMS_0033_CHOICE5;Extremely;Estremamente
+TPMS_0033_PROMPT;Bewildered;Disorientato/a
+TPMS_0034_CHOICE1;Not at all;Per niente
+TPMS_0034_CHOICE2;A little;"Un po'"
+TPMS_0034_CHOICE3;Moderately;Moderatamente
+TPMS_0034_CHOICE4;Quite a lot;Abbastanza
+TPMS_0034_CHOICE5;Extremely;Estremamente
+TPMS_0034_PROMPT;Furious;Furioso/a
+TPMS_0035_CHOICE1;Not at all;Per niente
+TPMS_0035_CHOICE2;A little;"Un po'"
+TPMS_0035_CHOICE3;Moderately;Moderatamente
+TPMS_0035_CHOICE4;Quite a lot;Abbastanza
+TPMS_0035_CHOICE5;Extremely;Estremamente
+TPMS_0035_PROMPT;Full of Pep;In gran forma
+TPMS_0036_CHOICE1;Not at all;Per niente
+TPMS_0036_CHOICE2;A little;"Un po'"
+TPMS_0036_CHOICE3;Moderately;Moderatamente
+TPMS_0036_CHOICE4;Quite a lot;Abbastanza
+TPMS_0036_CHOICE5;Extremely;Estremamente
+TPMS_0036_PROMPT;Worthless;Indegno/a
+TPMS_0037_CHOICE1;Not at all;Per niente
+TPMS_0037_CHOICE2;A little;"Un po'"
+TPMS_0037_CHOICE3;Moderately;Moderatamente
+TPMS_0037_CHOICE4;Quite a lot;Abbastanza
+TPMS_0037_CHOICE5;Extremely;Estremamente
+TPMS_0037_PROMPT;Forgetful;Distratto/a
+TPMS_0038_CHOICE1;Not at all;Per niente
+TPMS_0038_CHOICE2;A little;"Un po'"
+TPMS_0038_CHOICE3;Moderately;Moderatamente
+TPMS_0038_CHOICE4;Quite a lot;Abbastanza
+TPMS_0038_CHOICE5;Extremely;Estremamente
+TPMS_0038_PROMPT;Vigorous;Vigoroso/a
+TPMS_0039_CHOICE1;Not at all;Per niente
+TPMS_0039_CHOICE2;A little;"Un po'"
+TPMS_0039_CHOICE3;Moderately;Moderatamente
+TPMS_0039_CHOICE4;Quite a lot;Abbastanza
+TPMS_0039_CHOICE5;Extremely;Estremamente
+TPMS_0039_PROMPT;Uncertain about things;Incerto/a
+TPMS_0040_CHOICE1;Not at all;Per niente
+TPMS_0040_CHOICE2;A little;"Un po'"
+TPMS_0040_CHOICE3;Moderately;Moderatamente
+TPMS_0040_CHOICE4;Quite a lot;Abbastanza
+TPMS_0040_CHOICE5;Extremely;Estremamente
+TPMS_0040_PROMPT;Bushed;A pezzi
+TPMS_0041_CHOICE1;Not at all;Per niente
+TPMS_0041_CHOICE2;A little;"Un po'"
+TPMS_0041_CHOICE3;Moderately;Moderatamente
+TPMS_0041_CHOICE4;Quite a lot;Abbastanza
+TPMS_0041_CHOICE5;Extremely;Estremamente
+TPMS_0041_PROMPT;Embarassed;Imbarazzato/a

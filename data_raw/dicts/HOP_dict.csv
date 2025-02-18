@@ -1,45 +1,45 @@
-"key";"de";"en"
-"THOP_0000_PROMPT";"Fragebogen zur Hoffnung";"Children's Hope Scale"
-"THOP_0001_PROMPT";"Bitte wähle die Antwort, die am besten beschreibt, wie du **gerade** über dich denkst. Nimm dir etwas Zeit und konzentriere dich auf dich und auf das, was gerade in deinem Leben vor sich geht.";"Please select the answer that best describes how you think about yourself right **now**. Please take a few moments to focus on yourself and what is going on in your life at this moment."
-"THOP_0002_CHOICE1";"Niemals";"None of the time"
-"THOP_0002_CHOICE2";"Selten";"A little of the time"
-"THOP_0002_CHOICE3";"Manchmal";"Some of the time"
-"THOP_0002_CHOICE4";"Öfters";"A lot of the time"
-"THOP_0002_CHOICE5";"Meistens";"Most of the time"
-"THOP_0002_CHOICE6";"Immer";"All of the time"
-"THOP_0002_PROMPT";"Ich glaube, mir geht's ganz gut.";"I think I am doing pretty well."
-"THOP_0003_CHOICE1";"Niemals";"None of the time"
-"THOP_0003_CHOICE2";"Selten";"A little of the time"
-"THOP_0003_CHOICE3";"Manchmal";"Some of the time"
-"THOP_0003_CHOICE4";"Öfters";"A lot of the time"
-"THOP_0003_CHOICE5";"Meistens";"Most of the time"
-"THOP_0003_CHOICE6";"Immer";"All of the time"
-"THOP_0003_PROMPT";"Ich kann mir viele Wege vorstellen, um die Dinge im Leben zu bekommen, die mir am wichtigsten sind.";"I can think of many ways to get the things in life that are most important to me."
-"THOP_0004_CHOICE1";"Niemals";"None of the time"
-"THOP_0004_CHOICE2";"Selten";"A little of the time"
-"THOP_0004_CHOICE3";"Manchmal";"Some of the time"
-"THOP_0004_CHOICE4";"Öfters";"A lot of the time"
-"THOP_0004_CHOICE5";"Meistens";"Most of the time"
-"THOP_0004_CHOICE6";"Immer";"All of the time"
-"THOP_0004_PROMPT";"Mir geht's genauso gut wie vielen anderen in meinem Alter.";"I am doing just as well as other kids my age."
-"THOP_0005_CHOICE1";"Niemals";"None of the time"
-"THOP_0005_CHOICE2";"Selten";"A little of the time"
-"THOP_0005_CHOICE3";"Manchmal";"Some of the time"
-"THOP_0005_CHOICE4";"Öfters";"A lot of the time"
-"THOP_0005_CHOICE5";"Meistens";"Most of the time"
-"THOP_0005_CHOICE6";"Immer";"All of the time"
-"THOP_0005_PROMPT";"Wenn ich ein Problem habe, kann ich mir viele Möglichkeiten zur Lösung des Problems ausdenken.";"When I have a problem, I can come up with lots of ways to solve it."
-"THOP_0006_CHOICE1";"Niemals";"None of the time"
-"THOP_0006_CHOICE2";"Selten";"A little of the time"
-"THOP_0006_CHOICE3";"Manchmal";"Some of the time"
-"THOP_0006_CHOICE4";"Öfters";"A lot of the time"
-"THOP_0006_CHOICE5";"Meistens";"Most of the time"
-"THOP_0006_CHOICE6";"Immer";"All of the time"
-"THOP_0006_PROMPT";"Ich denke, die Dinge, die ich in der Vergangenheit getan habe, werden mir in der Zukunft helfen.";"I think the things I have done in the past will help me in the future."
-"THOP_0007_CHOICE1";"Niemals";"None of the time"
-"THOP_0007_CHOICE2";"Selten";"A little of the time"
-"THOP_0007_CHOICE3";"Manchmal";"Some of the time"
-"THOP_0007_CHOICE4";"Öfters";"A lot of the time"
-"THOP_0007_CHOICE5";"Meistens";"Most of the time"
-"THOP_0007_CHOICE6";"Immer";"All of the time"
-"THOP_0007_PROMPT";"Selbst wenn andere aufhören wollen, weiß ich, dass ich Wege finden kann, das Problem zu lösen.";"Even when others want to quit, I know I can find ways to solve the problem."
+key;de;en;de_f;it;es;lv
+THOP_0000_PROMPT;Fragebogen zur Hoffnung;Children's Hope Scale;Fragebogen zur Hoffnung;Children's Hope Scale;Children's Hope Scale - Versión española;Bērnu cerību aptauja
+THOP_0001_PROMPT;Bitte wähle die Antwort, die am besten beschreibt, wie du **gerade** über dich denkst. Nimm dir etwas Zeit und konzentriere dich auf dich und auf das, was gerade in deinem Leben vor sich geht.;Please select the answer that best describes how you think about yourself right **now**. Please take a few moments to focus on yourself and what is going on in your life at this moment.;Bitte wähle die Antwort, die am besten beschreibt, wie du **gerade** über dich denkst. Nimm dir etwas Zeit und konzentriere dich auf dich und auf das, was gerade in deinem Leben vor sich geht.;Per favore, seleziona la risposta che meglio descrive come pensi a te stesso/a in questo momento **. Per favore, prenditi qualche momento per concentrarti su te stesso/a e su ciò che sta succedendo nella tua vita in questo momento.;Por favor, selecciona la respuesta que describe mejor como piensas en ti mismo/a en este momento. Por favor, tómate unos segundos para enfocarte en ti mismo/a y sobre lo que está pasando en tu vida en este momento.;Lūdzu, izvēlies atbildi, kas vislabāk raksturo to, kā tu par sevi domā tieši **tagad**. Lūdzu, padomā kādu brīdi un koncentrējies uz to, kas notiek tavā dzīvē pašlaik.
+THOP_0002_CHOICE1;Niemals;None of the time;Niemals;Mai;Nunca;Nekad
+THOP_0002_CHOICE2;Selten;A little of the time;Selten;Raramente;Raramente;Reti
+THOP_0002_CHOICE3;Manchmal;Some of the time;Manchmal;Qualche volta;Alguna vez;Dažreiz
+THOP_0002_CHOICE4;Öfters;A lot of the time;Öfters;Spesso;A menudo;Bieži
+THOP_0002_CHOICE5;Meistens;Most of the time;Meistens;Quasi sempre;Casi siempre;Lielākoties
+THOP_0002_CHOICE6;Immer;All of the time;Immer;Sempre;Siempre;Vienmēr
+THOP_0002_PROMPT;Ich glaube, mir geht's ganz gut.;I think I am doing pretty well.;Ich glaube, mir geht's ganz gut.;Penso che mi va piuttosto bene.;Pienso que me va bastante bien.;Man šķiet, ka man viss ir labi.
+THOP_0003_CHOICE1;Niemals;None of the time;Niemals;Mai;Nunca;Nekad
+THOP_0003_CHOICE2;Selten;A little of the time;Selten;Raramente;Raramente;Reti
+THOP_0003_CHOICE3;Manchmal;Some of the time;Manchmal;Qualche volta;Alguna vez;Dažreiz
+THOP_0003_CHOICE4;Öfters;A lot of the time;Öfters;Spesso;A menudo;Bieži
+THOP_0003_CHOICE5;Meistens;Most of the time;Meistens;Quasi sempre;Casi siempre;Lielākoties
+THOP_0003_CHOICE6;Immer;All of the time;Immer;Sempre;Siempre;Vienmēr
+THOP_0003_PROMPT;Ich kann mir viele Wege vorstellen, um die Dinge im Leben zu bekommen, die mir am wichtigsten sind.;I can think of many ways to get the things in life that are most important to me.;Ich kann mir viele Wege vorstellen, um die Dinge im Leben zu bekommen, die mir am wichtigsten sind.;Riesco a pensare a più modi per raggiungere le cose della vita che sono più importanti per me.;Se me ocurren muchas formas de conseguir las cosas que son más importantes en la vida.;Man ir padomā vairākas idejas, kā dzīvē iegūt lietas, kas man ir vissvarīgākās.
+THOP_0004_CHOICE1;Niemals;None of the time;Niemals;Mai;Nunca;Nekad
+THOP_0004_CHOICE2;Selten;A little of the time;Selten;Raramente;Raramente;Reti
+THOP_0004_CHOICE3;Manchmal;Some of the time;Manchmal;Qualche volta;Alguna vez;Dažreiz
+THOP_0004_CHOICE4;Öfters;A lot of the time;Öfters;Spesso;A menudo;Bieži
+THOP_0004_CHOICE5;Meistens;Most of the time;Meistens;Quasi sempre;Casi siempre;Lielākoties
+THOP_0004_CHOICE6;Immer;All of the time;Immer;Sempre;Siempre;Vienmēr
+THOP_0004_PROMPT;Mir geht's genauso gut wie vielen anderen in meinem Alter.;I am doing just as well as other kids my age.;Mir geht's genauso gut wie vielen anderen in meinem Alter.;Sto bene così come gli altri ragazzi della mia età.;Me va tan bien como a otros niños de mi edad.;Man klājas tikpat labi, kā citiem maniem vienaudžiem
+THOP_0005_CHOICE1;Niemals;None of the time;Niemals;Mai;Nunca;Nekad
+THOP_0005_CHOICE2;Selten;A little of the time;Selten;Raramente;Raramente;Reti
+THOP_0005_CHOICE3;Manchmal;Some of the time;Manchmal;Qualche volta;Alguna vez;Dažreiz
+THOP_0005_CHOICE4;Öfters;A lot of the time;Öfters;Spesso;A menudo;Bieži
+THOP_0005_CHOICE5;Meistens;Most of the time;Meistens;Quasi sempre;Casi siempre;Lielākoties
+THOP_0005_CHOICE6;Immer;All of the time;Immer;Sempre;Siempre;Vienmēr
+THOP_0005_PROMPT;Wenn ich ein Problem habe, kann ich mir viele Möglichkeiten zur Lösung des Problems ausdenken.;When I have a problem, I can come up with lots of ways to solve it.;Wenn ich ein Problem habe, kann ich mir viele Möglichkeiten zur Lösung des Problems ausdenken.;Quando ho un problema, posso trovare molti modi per risolverlo.;Cuando tengo un problema, se me ocurren muchas formas de resolverlo.;Ja man ir kāda problēma, es varu izdomāt vairākus veidus, kā to atrisināt
+THOP_0006_CHOICE1;Niemals;None of the time;Niemals;Mai;Nunca;Nekad
+THOP_0006_CHOICE2;Selten;A little of the time;Selten;Raramente;Raramente;Reti
+THOP_0006_CHOICE3;Manchmal;Some of the time;Manchmal;Qualche volta;Alguna vez;Dažreiz
+THOP_0006_CHOICE4;Öfters;A lot of the time;Öfters;Spesso;A menudo;Bieži
+THOP_0006_CHOICE5;Meistens;Most of the time;Meistens;Quasi sempre;Casi siempre;Lielākoties
+THOP_0006_CHOICE6;Immer;All of the time;Immer;Sempre;Siempre;Vienmēr
+THOP_0006_PROMPT;Ich denke, die Dinge, die ich in der Vergangenheit getan habe, werden mir in der Zukunft helfen.;I think the things I have done in the past will help me in the future.;Ich denke, die Dinge, die ich in der Vergangenheit getan habe, werden mir in der Zukunft helfen.;Credo che le cose che ho fatto in passato mi aiuteranno in futuro.;Pienso que las cosas que he hecho en el pasado me ayudarán en el futuro.;Es domāju, ka tas, ko esmu darījis pagātnē, man palīdzēs nākotnē.
+THOP_0007_CHOICE1;Niemals;None of the time;Niemals;Mai;Nunca;Nekad
+THOP_0007_CHOICE2;Selten;A little of the time;Selten;Raramente;Raramente;Reti
+THOP_0007_CHOICE3;Manchmal;Some of the time;Manchmal;Qualche volta;Alguna vez;Dažreiz
+THOP_0007_CHOICE4;Öfters;A lot of the time;Öfters;Spesso;A menudo;Bieži
+THOP_0007_CHOICE5;Meistens;Most of the time;Meistens;Quasi sempre;Casi siempre;Lielākoties
+THOP_0007_CHOICE6;Immer;All of the time;Immer;Sempre;Siempre;Vienmēr
+THOP_0007_PROMPT;Selbst wenn andere aufhören wollen, weiß ich, dass ich Wege finden kann, das Problem zu lösen.;Even when others want to quit, I know I can find ways to solve the problem.;Selbst wenn andere aufhören wollen, weiß ich, dass ich Wege finden kann, das Problem zu lösen.;Anche quando gli altri vogliono mollare, so di poter trovare dei modi per risolvere il problema.;Incluso cuando otros se rinden ante un problema, yo sé que puedo encontrar formas de resolverlo.;Pat tad, kad citi vairs nevēlas meklēt problēmas risinājumu, es zinu, ka varu atrast veidus, kā to atrisināt.

@@ -46,6 +46,7 @@ SMP <- function(label = "SMP",
     short_version = short_version,
     offset = 1,
     arrange_vertically = TRUE,
-    button_style = "min-width: 284px"
+    button_style = "min-width: 284px",
+    dict = dict
   )
 }

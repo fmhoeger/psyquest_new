@@ -35,12 +35,16 @@ GMS <- function(label = "GMS",
   main_test_gms(
     questionnaire_id = questionnaire_id,
     label = label,
-    items = get_items(questionnaire_id, subscales = subscales, short_version = short_version, configuration_filepath = configuration_filepath),
-    subscales = subscales
+    items = get_items(questionnaire_id,
+                      subscales = subscales,
+                      short_version = short_version,
+                      configuration_filepath = configuration_filepath),
+    subscales = subscales,
+    dict = dict
   )
 }
 
-main_test_gms <- function(questionnaire_id, label, items, subscales) {
+main_test_gms <- function(questionnaire_id, label, items, subscales, dict) {
   elts <- c()
   prompt_id <- NULL
   prompt_ids <- items %>% pull(prompt_id)
@@ -95,7 +99,7 @@ main_test_gms <- function(questionnaire_id, label, items, subscales) {
         button_style = button_style,
         labels = map(choice_ids, psychTestR::i18n)
       ),
-      dict = psyquest::psyquest_dict
+      dict = dict
     )
     elts <- psychTestR::join(elts, item_page)
   }

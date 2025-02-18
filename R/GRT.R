@@ -16,15 +16,14 @@ GRT <- function(label = "GRT",
                 dict = psyquest::psyquest_dict,
                 ...) {
   stopifnot(purrr::is_scalar_character(label))
-
   questionnaire_id <- "GRT"
-
   main_test(
     questionnaire_id = questionnaire_id,
     label = label,
     items = get_items(questionnaire_id),
     offset = 1,
     arrange_vertically = TRUE,
-    button_style = "min-width: 244px"
+    button_style = "min-width: 244px",
+    dict = dict
   )
 }

@@ -1,0 +1,123 @@
+key;en;it;de;de_f
+TBMR_0000_PROMPT;Barcelona Music Reward Questionnaire;Barcelona Music Reward Questionnaire;Barcelona Music Reward Fragebogen;Barcelona Music Reward Fragebogen
+TBMR_0001_PROMPT;"Please, indicate for each item how much you agree or disagree with what the item says. Choose only one response to each statement. Please be as accurate and honest as you can be. Don't worry about being consistent in your responses. Choose from completely disagree (1) to completely agree (5) one of the five options.";"Per favore, indica quanto sei in accordo o disaccordo con ciascun item del questionario. Scegli solo una risposta per ogni affermazione. Per favore sii quanto più accurato ed onesto possibile. Non ti preoccupare di essere costante con le tue risposte. Rispondi con un numero da 1 a 5 dove 1 indica “Completamente in disaccordo” e 5 indica “Completamente d’accordo”.";"Bitte gib für jede Aussage an, wie sehr Du dieser zustimmst oder nicht. Bitte wähle nur eine Antwortmöglichkeit pro Aussage. Bitte sei so genau und ehrlich wie möglich. Achte nicht auf die Konsistenz der Antworten. Wählen eine der fünf Optionen von vollständiger Ablehnung (1) bis vollständiger Zustimmung (5).";"Bitte geben Sie für jede Aussage an, wie sehr Sie dieser zustimmen oder nicht zustimmen. Bitte wählen Sie nur eine Antwortmöglichkeit pro Aussage. Bitte seien Sie so genau und ehrlich wie möglich. Achten Sie nicht auf die Konsistenz ihrer Antworten. Wählen Sie eine der fünf Optionen von vollständiger Ablehnung (1) bis vollständiger Zustimmung (5)."
+TBMR_0002_CHOICE1;Completely disagree;Completamente in disaccordo;Stimme nicht zu;Stimme nicht zu
+TBMR_0002_CHOICE2;Disagree;In disaccordo;Stimme eher nicht zu;Stimme eher nicht zu
+TBMR_0002_CHOICE3;Either agree nor disagree;"Né d'accordo né in disaccordo";weder noch;weder noch
+TBMR_0002_CHOICE4;Agree;"D'accordo";Stimme eher zu;Stimme eher zu
+TBMR_0002_CHOICE5;Completely agree;"Completamente d’accordo";Stimme zu;Stimme zu
+TBMR_0002_PROMPT;When I share music with someone I feel a special connection with that person.;Quando condivido della musica con qualcuno, sento una complicità speciale con quella persona.;Wenn ich mit jemandem Musik teile, dann fühle ich eine besondere Verbindung zu dieser Person.;Wenn ich mit jemandem Musik teile, dann fühle ich eine besondere Verbindung zu dieser Person.
+TBMR_0003_CHOICE1;Completely disagree;Completamente in disaccordo;Stimme nicht zu;Stimme nicht zu
+TBMR_0003_CHOICE2;Disagree;In disaccordo;Stimme eher nicht zu;Stimme eher nicht zu
+TBMR_0003_CHOICE3;Either agree nor disagree;"Né d'accordo né in disaccordo";weder noch;weder noch
+TBMR_0003_CHOICE4;Agree;"D'accordo";Stimme eher zu;Stimme eher zu
+TBMR_0003_CHOICE5;Completely agree;"Completamente d'accordo";Stimme zu;Stimme zu
+TBMR_0003_PROMPT;In my free time I hardly listen to music.;Nel mio tempo libero ascolto poco la musica.;In meiner Freizeit höre ich kaum Musik.;In meiner Freizeit höre ich kaum Musik.
+TBMR_0004_CHOICE1;Completely disagree;Completamente in disaccordo;Stimme nicht zu;Stimme nicht zu
+TBMR_0004_CHOICE2;Disagree;In disaccordo;Stimme eher nicht zu;Stimme eher nicht zu
+TBMR_0004_CHOICE3;Either agree nor disagree;"Né d'accordo né in disaccordo";weder noch;weder noch
+TBMR_0004_CHOICE4;Agree;"D'accordo";Stimme eher zu;Stimme eher zu
+TBMR_0004_CHOICE5;Completely agree;“Completamente d’accordo”;Stimme zu;Stimme zu
+TBMR_0004_PROMPT;I like listen to music that contains emotion.;Alcune canzoni mi fanno emozionare.;Ich mag es Musik zu hören, die Emotionen transportiert.;Ich mag es Musik zu hören, die Emotionen transportiert.
+TBMR_0005_CHOICE1;Completely disagree;Completamente in disaccordo;Stimme nicht zu;Stimme nicht zu
+TBMR_0005_CHOICE2;Disagree;In disaccordo;Stimme eher nicht zu;Stimme eher nicht zu
+TBMR_0005_CHOICE3;Either agree nor disagree;"Né d'accordo né in disaccordo";weder noch;weder noch
+TBMR_0005_CHOICE4;Agree;"D'accordo";Stimme eher zu;Stimme eher zu
+TBMR_0005_CHOICE5;Completely agree;"Completamente d'accordo";Stimme zu;Stimme zu
+TBMR_0005_PROMPT;"Music keeps me company when I'm alone.";La musica mi tiene compagnia quando sono solo/a.;Musik leistet mir Gesellschaft, wenn ich alleine bin.;Musik leistet mir Gesellschaft, wenn ich alleine bin.
+TBMR_0006_CHOICE1;Completely disagree;Completamente in disaccordo;Stimme nicht zu;Stimme nicht zu
+TBMR_0006_CHOICE2;Disagree;In disaccordo;Stimme eher nicht zu;Stimme eher nicht zu
+TBMR_0006_CHOICE3;Either agree nor disagree;"Né d'accordo né in disaccordo";weder noch;weder noch
+TBMR_0006_CHOICE4;Agree;"D'accordo";Stimme eher zu;Stimme eher zu
+TBMR_0006_CHOICE5;Completely agree;"Completamente d'accordo";Stimme zu;Stimme zu
+TBMR_0006_PROMPT;"I don't like to dance, not even with music I like.";Non mi piace ballare, neanche con la musica che mi piace.;Ich mag es nicht zu tanzen, nicht mal zu Musik, die mir gefällt.;Ich mag es nicht zu tanzen, nicht mal zu Musik, die mir gefällt.
+TBMR_0007_CHOICE1;Completely disagree;Completamente in disaccordo;Stimme nicht zu;Stimme nicht zu
+TBMR_0007_CHOICE2;Disagree;In disaccordo;Stimme eher nicht zu;Stimme eher nicht zu
+TBMR_0007_CHOICE3;Either agree nor disagree;"Né d'accordo né in disaccordo";weder noch;weder noch
+TBMR_0007_CHOICE4;Agree;"D'accordo";Stimme eher zu;Stimme eher zu
+TBMR_0007_CHOICE5;Completely agree;"Completamente d'accordo";Stimme zu;Stimme zu
+TBMR_0007_PROMPT;Music makes me bond with other people.;La musica mi fa interagire con altre persone.;Musik verbindet mich mit anderen Menschen.;Musik verbindet mich mit anderen Menschen.
+TBMR_0008_CHOICE1;Completely disagree;Completamente in disaccordo;Stimme nicht zu;Stimme nicht zu
+TBMR_0008_CHOICE2;Disagree;In disaccordo;Stimme eher nicht zu;Stimme eher nicht zu
+TBMR_0008_CHOICE3;Either agree nor disagree;"Né d'accordo né in disaccordo";weder noch;weder noch
+TBMR_0008_CHOICE4;Agree;"D'accordo";Stimme eher zu;Stimme eher zu
+TBMR_0008_CHOICE5;Completely agree;"Completamente d'accordo";Stimme zu;Stimme zu
+TBMR_0008_PROMPT;I inform myself about music I like.;Cerco informazioni sulla musica che mi piace.;Ich informiere mich über Musik, die ich mag.;Ich informiere mich über Musik, die ich mag.
+TBMR_0009_CHOICE1;Completely disagree;Completamente in disaccordo;Stimme nicht zu;Stimme nicht zu
+TBMR_0009_CHOICE2;Disagree;In disaccordo;Stimme eher nicht zu;Stimme eher nicht zu
+TBMR_0009_CHOICE3;Either agree nor disagree;"Né d'accordo né in disaccordo";weder noch;weder noch
+TBMR_0009_CHOICE4;Agree;"D'accordo";Stimme eher zu;Stimme eher zu
+TBMR_0009_CHOICE5;Completely agree;"Completamente d'accordo";Stimme zu;Stimme zu
+TBMR_0009_PROMPT;I get emotional listening to certain pieces of music.;Mi emoziono ascoltando certe canzoni.;Ich werde emotional, wenn ich bestimmte Musikkstücke höre.;Ich werde emotional, wenn ich bestimmte Musikkstücke höre.
+TBMR_0010_CHOICE1;Completely disagree;Completamente in disaccordo;Stimme nicht zu;Stimme nicht zu
+TBMR_0010_CHOICE2;Disagree;In disaccordo;Stimme eher nicht zu;Stimme eher nicht zu
+TBMR_0010_CHOICE3;Either agree nor disagree;"Né d'accordo né in disaccordo";weder noch;weder noch
+TBMR_0010_CHOICE4;Agree;"D'accordo";Stimme eher zu;Stimme eher zu
+TBMR_0010_CHOICE5;Completely agree;"Completamente d'accordo";Stimme zu;Stimme zu
+TBMR_0010_PROMPT;Music calms and relaxes me.;La musica mi tranquillizza e rilassa.;Musik beruhigt und entspannt mich.;Musik beruhigt und entspannt mich.
+TBMR_0011_CHOICE1;Completely disagree;Completamente in disaccordo;Stimme nicht zu;Stimme nicht zu
+TBMR_0011_CHOICE2;Disagree;In disaccordo;Stimme eher nicht zu;Stimme eher nicht zu
+TBMR_0011_CHOICE3;Either agree nor disagree;"Né d'accordo né in disaccordo";weder noch;weder noch
+TBMR_0011_CHOICE4;Agree;"D'accordo";Stimme eher zu;Stimme eher zu
+TBMR_0011_CHOICE5;Completely agree;"Completamente d'accordo";Stimme zu;Stimme zu
+TBMR_0011_PROMPT;Music often makes me dance.;La musica mi spinge a ballare.;Musik bringt mich oft zum Tanzen.;Musik bringt mich oft zum Tanzen.
+TBMR_0012_CHOICE1;Completely disagree;Completamente in disaccordo;Stimme nicht zu;Stimme nicht zu
+TBMR_0012_CHOICE2;Disagree;In disaccordo;Stimme eher nicht zu;Stimme eher nicht zu
+TBMR_0012_CHOICE3;Either agree nor disagree;"Né d'accordo né in disaccordo";weder noch;weder noch
+TBMR_0012_CHOICE4;Agree;"D'accordo";Stimme eher zu;Stimme eher zu
+TBMR_0012_CHOICE5;Completely agree;"Completamente d'accordo";Stimme zu;Stimme zu
+TBMR_0012_PROMPT;"I'm always looking for new music.";Cerco continuamente novità musicali.;Ich suche immer nach neuer Musik.;Ich suche immer nach neuer Musik.
+TBMR_0013_CHOICE1;Completely disagree;Completamente in disaccordo;Stimme nicht zu;Stimme nicht zu
+TBMR_0013_CHOICE2;Disagree;In disaccordo;Stimme eher nicht zu;Stimme eher nicht zu
+TBMR_0013_CHOICE3;Either agree nor disagree;"Né d'accordo né in disaccordo";weder noch;weder noch
+TBMR_0013_CHOICE4;Agree;"D'accordo";Stimme eher zu;Stimme eher zu
+TBMR_0013_CHOICE5;Completely agree;"Completamente d'accordo";Stimme zu;Stimme zu
+TBMR_0013_PROMPT;I can become tearful or cry when I listen to a melody that I like very much.;Posso piangere quando ascolto melodie che mi piacciono molto.;Ich bekomme feuchte Augen oder fange an zu weinen, wenn ich einer Melodie höre, die ich sehr mag.;Ich bekomme feuchte Augen oder fange an zu weinen, wenn ich einer Melodie höre, die ich sehr mag.
+TBMR_0014_CHOICE1;Completely disagree;Completamente in disaccordo;Stimme nicht zu;Stimme nicht zu
+TBMR_0014_CHOICE2;Disagree;In disaccordo;Stimme eher nicht zu;Stimme eher nicht zu
+TBMR_0014_CHOICE3;Either agree nor disagree;"Né d'accordo né in disaccordo";weder noch;weder noch
+TBMR_0014_CHOICE4;Agree;"D'accordo";Stimme eher zu;Stimme eher zu
+TBMR_0014_CHOICE5;Completely agree;"Completamente d'accordo";Stimme zu;Stimme zu
+TBMR_0014_PROMPT;I like to sing or play an instrument with other people.;Mi piace cantare e suonare uno strumento con altre persone.;Ich mag es mit anderen zu singen oder eine Instrument zu spielen.;Ich mag es mit anderen zu singen oder eine Instrument zu spielen.
+TBMR_0015_CHOICE1;Completely disagree;Completamente in disaccordo;Stimme nicht zu;Stimme nicht zu
+TBMR_0015_CHOICE2;Disagree;In disaccordo;Stimme eher nicht zu;Stimme eher nicht zu
+TBMR_0015_CHOICE3;Either agree nor disagree;"Né d'accordo né in disaccordo";weder noch;weder noch
+TBMR_0015_CHOICE4;Agree;"D'accordo";Stimme eher zu;Stimme eher zu
+TBMR_0015_CHOICE5;Completely agree;"Completamente d'accordo";Stimme zu;Stimme zu
+TBMR_0015_PROMPT;Music helps me chill out.;La musica mi aiuta a rilassarmi.;Musik hilft mir abzuschalten.;Musik hilft mir abzuschalten. 
+TBMR_0016_CHOICE1;Completely disagree;Completamente in disaccordo;Stimme nicht zu;Stimme nicht zu
+TBMR_0016_CHOICE2;Disagree;In disaccordo;Stimme eher nicht zu;Stimme eher nicht zu
+TBMR_0016_CHOICE3;Either agree nor disagree;"Né d'accordo né in disaccordo";weder noch;weder noch
+TBMR_0016_CHOICE4;Agree;"D'accordo";Stimme eher zu;Stimme eher zu
+TBMR_0016_CHOICE5;Completely agree;"Completamente d'accordo";Stimme zu;Stimme zu
+TBMR_0016_PROMPT;"I can't help humming or singing along to music that I like.";Non posso fare a meno di canticchiare le canzoni che mi piacciono molto quando le ascolto.;Ich kann es nicht lassen bei Musik, die ich mag, mitzusummen oder mitzusingen.;Ich kann es nicht lassen bei Musik, die ich mag, mitzusummen oder mitzusingen. 
+TBMR_0017_CHOICE1;Completely disagree;Completamente in disaccordo;Stimme nicht zu;Stimme nicht zu
+TBMR_0017_CHOICE2;Disagree;In disaccordo;Stimme eher nicht zu;Stimme eher nicht zu
+TBMR_0017_CHOICE3;Either agree nor disagree;"Né d'accordo né in disaccordo";weder noch;weder noch
+TBMR_0017_CHOICE4;Agree;"D'accordo";Stimme eher zu;Stimme eher zu
+TBMR_0017_CHOICE5;Completely agree;"Completamente d'accordo";Stimme zu;Stimme zu
+TBMR_0017_PROMPT;At a concert I feel connected to the performers and the audience.;Ai concerti mi sento in sintonia con gli artisti ed il pubblico.;Bei einem Konzert fühle ich mit den anderen Zuschauenden und den Musizierenden verbunden.;Bei einem Konzert fühle ich mit den anderen Zuschauenden und den Musizierenden verbunden.
+TBMR_0018_CHOICE1;Completely disagree;Completamente in disaccordo;Stimme nicht zu;Stimme nicht zu
+TBMR_0018_CHOICE2;Disagree;In disaccordo;Stimme eher nicht zu;Stimme eher nicht zu
+TBMR_0018_CHOICE3;Either agree nor disagree;"Né d'accordo né in disaccordo";weder noch;weder noch
+TBMR_0018_CHOICE4;Agree;"D'accordo";Stimme eher zu;Stimme eher zu
+TBMR_0018_CHOICE5;Completely agree;"Completamente d'accordo";Stimme zu;Stimme zu
+TBMR_0018_PROMPT;I spend quite a bit of money on music and related items.;Spendo parecchi soldi per la musica e per cose relazionate alla musica.;Ich habe relativ viel Geld für Musik und dazugehörige Dinge ausgegeben.;Ich habe relativ viel Geld für Musik und dazugehörige Dinge ausgegeben.
+TBMR_0019_CHOICE1;Completely disagree;Completamente in disaccordo;Stimme nicht zu;Stimme nicht zu
+TBMR_0019_CHOICE2;Disagree;In disaccordo;Stimme eher nicht zu;Stimme eher nicht zu
+TBMR_0019_CHOICE3;Either agree nor disagree;"Né d'accordo né in disaccordo";weder noch;weder noch
+TBMR_0019_CHOICE4;Agree;"D'accordo";Stimme eher zu;Stimme eher zu
+TBMR_0019_CHOICE5;Completely agree;"Completamente d'accordo";Stimme zu;Stimme zu
+TBMR_0019_PROMPT;I sometimes feel chills when I hear a melody that I like.;Mi vengono i brividi quando ascolto una musica che mi piace.;Manchmal fühle ich einen angenehmen Schauer, wenn ich eine Melodie höre, die ich mag.;Manchmal fühle ich einen angenehmen Schauer, wenn ich eine Melodie höre, die ich mag.
+TBMR_0020_CHOICE1;Completely disagree;Completamente in disaccordo;Stimme nicht zu;Stimme nicht zu
+TBMR_0020_CHOICE2;Disagree;In disaccordo;Stimme eher nicht zu;Stimme eher nicht zu
+TBMR_0020_CHOICE3;Either agree nor disagree;"Né d'accordo né in disaccordo";weder noch;weder noch
+TBMR_0020_CHOICE4;Agree;"D'accordo";Stimme eher zu;Stimme eher zu
+TBMR_0020_CHOICE5;Completely agree;"Completamente d'accordo";Stimme zu;Stimme zu
+TBMR_0020_PROMPT;Music comforts me.;La musica mi dà conforto.;Musik tröstet mich.;Musik tröstet mich.
+TBMR_0021_CHOICE1;Completely disagree;Completamente in disaccordo;Stimme nicht zu;Stimme nicht zu
+TBMR_0021_CHOICE2;Disagree;In disaccordo;Stimme eher nicht zu;Stimme eher nicht zu
+TBMR_0021_CHOICE3;Either agree nor disagree;"Né d'accordo né in disaccordo";weder noch;weder noch
+TBMR_0021_CHOICE4;Agree;"D'accordo";Stimme eher zu;Stimme eher zu
+TBMR_0021_CHOICE5;Completely agree;"Completamente d'accordo";Stimme zu;Stimme zu
+TBMR_0021_PROMPT;"When I hear a tune I like a lot I can't help tapping or moving to its beat.";Quando ascolto una melodia che mi piace molto non posso a fare a meno di muovermi.;Wenn ich einen Song höre, die ich sehr mag, kann ich nicht widerstehen und muss zur Musik mitklopfen oder mich bewegen.;Wenn ich einen Song höre, die ich sehr mag, kann ich nicht widerstehen und muss zur Musik mitklopfen oder mich bewegen.

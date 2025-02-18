@@ -1,0 +1,33 @@
+﻿key;en;lv;de;de_f
+TSWL_0000_PROMPT;Satisfaction with life (for children);Apmierinātības ar dzīvi aptauja;Fragebogen zur Lebenszufriedenheit;Fragebogen zur Lebenszufriedenheit
+TSWL_0001_PROMPT;For each of the following statements, please choose the answer that describes you the best. Please read each sentence carefully and answer honesty.;Lūdzu, katram apgalvojumam izvēlies atbildi, kas tevi vislabāk raksturo. Lūdzu, uzmanīgi izlasi katru teikumu un atbildi godīgi.;Bitte beantworte  die folgenden 5 Fragen. Sei bitte ehrlich – es gibt keine richtigen oder falschen Antworten!;Bitte beantworten Sie die folgenden 5 Fragen. Seien Sie ehrlich –es gibt keine richtigen oder falschen Antworten!
+TSWL_0002_CHOICE1;Disagree a lot;Nepiekrītu;Stimme nicht zu;Stimme nicht zu
+TSWL_0002_CHOICE2;Disagree a little;Drīzāk nepiekrītu;Stimme eher nicht  zu;Stimme eher nicht  zu
+TSWL_0002_CHOICE3;Do not agree or disagree;Nedz piekrītu, nedz nepiekrītu;Weder/noch;Weder/noch
+TSWL_0002_CHOICE4;Agree a little;Drīzāk piekrītu;Stimme eher zu;Stimme eher zu
+TSWL_0002_CHOICE5;Agree a lot;Piekrītu;Stimme zu;Stimme zu
+TSWL_0002_PROMPT;In most ways my life is close to the way  would want it to be;Lielākoties mana dzīve ir tuvu tādai, kādu es vēlētos, lai tā būtu;In den meisten Punkten ist mein Leben so, wie ich es mir wünsche.;In den meisten Punkten ist mein Leben so, wie ich es mir wünsche.
+TSWL_0003_CHOICE1;Disagree a lot;Nepiekrītu;Stimme nicht zu;Stimme nicht zu
+TSWL_0003_CHOICE2;Disagree a little;Drīzāk nepiekrītu;Stimme eher nicht  zu;Stimme eher nicht  zu
+TSWL_0003_CHOICE3;Do not agree or disagree;Nedz piekrītu, nedz nepiekrītu;Weder/noch;Weder/noch
+TSWL_0003_CHOICE4;Agree a little;Drīzāk piekrītu;Stimme eher zu;Stimme eher zu
+TSWL_0003_CHOICE5;Agree a lot;Piekrītu;Stimme zu;Stimme zu
+TSWL_0003_PROMPT;The things in my life are excellent;Manā dzīvē viss ir lieliski;Mein Leben ist  hervorragend.;Mein Lebens ist hervorragend.
+TSWL_0004_CHOICE1;Disagree a lot;Nepiekrītu;Stimme nicht zu;Stimme nicht zu
+TSWL_0004_CHOICE2;Disagree a little;Drīzāk nepiekrītu;Stimme eher nicht  zu;Stimme eher nicht  zu
+TSWL_0004_CHOICE3;Do not agree or disagree;Nedz piekrītu, nedz nepiekrītu;Weder/noch;Weder/noch
+TSWL_0004_CHOICE4;Agree a little;Drīzāk piekrītu;Stimme eher zu;Stimme eher zu
+TSWL_0004_CHOICE5;Agree a lot;Piekrītu;Stimme zu;Stimme zu
+TSWL_0004_PROMPT;I am happy with my life;Es esmu priecīgs un laimīgs par savu dzīvi;Ich bin zufrieden mit meinem Leben.;Ich bin zufrieden mit meinem Leben.
+TSWL_0005_CHOICE1;Disagree a lot;Nepiekrītu;Stimme nicht zu;Stimme nicht zu
+TSWL_0005_CHOICE2;Disagree a little;Drīzāk nepiekrītu;Stimme eher nicht  zu;Stimme eher nicht  zu
+TSWL_0005_CHOICE3;Do not agree or disagree;Nedz piekrītu, nedz nepiekrītu;Weder/noch;Weder/noch
+TSWL_0005_CHOICE4;Agree a little;Drīzāk piekrītu;Stimme eher zu;Stimme eher zu
+TSWL_0005_CHOICE5;Agree a lot;Piekrītu;Stimme zu;Stimme zu
+TSWL_0005_PROMPT;So far I have gotten the important things I  want in life;Līdz šim man ir viss, ko es vēlos savā dzīvē;Ich habe bisher die wichtigen Dinge, die ich mir vom Leben wünsche, auch bekommen.;Ich habe bisher die wichtigen Dinge, die ich mir vom Leben wünsche, auch bekommen.
+TSWL_0006_CHOICE1;Disagree a lot;Nepiekrītu;Stimme nicht zu;Stimme nicht zu
+TSWL_0006_CHOICE2;Disagree a little;Drīzāk nepiekrītu;Stimme eher nicht  zu;Stimme eher nicht  zu
+TSWL_0006_CHOICE3;Do not agree or disagree;Nedz piekrītu, nedz nepiekrītu;Weder/noch;Weder/noch
+TSWL_0006_CHOICE4;Agree a little;Drīzāk piekrītu;Stimme eher zu;Stimme eher zu
+TSWL_0006_CHOICE5;Agree a lot;Piekrītu;Stimme zu;Stimme zu
+TSWL_0006_PROMPT;If I could live my life over, I would have it the same way;Ja man būtu iespēja dzīvot vēlreiz, es vēlētos dzīvot tāpat;Wenn ich mein Leben noch einmal leben könnte, würde ich es genauso machen.;Wenn ich mein Leben noch einmal leben könnte, würde ich es genauso machen.

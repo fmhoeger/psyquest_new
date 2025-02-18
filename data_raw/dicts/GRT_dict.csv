@@ -1,51 +1,51 @@
-"key";"de";"en"
-"TGRT_0000_PROMPT";"Fragebogen zum Durchhaltevermögen";"Short Grit Scale"
-"TGRT_0001_PROMPT";"Bitte lies die folgenden Aussagen sorgfältig und entscheide, inwieweit du ihnen zustimmst. Sei bitte ehrlich - es gibt keine richtigen oder falschen Antworten oder Fangfragen.";"Please respond to the following 8 items. Be honest - there are no right or wrong answers!"
-"TGRT_0002_CHOICE1";"Passt sehr gut auf mich";"Very much like me"
-"TGRT_0002_CHOICE2";"Passt auf mich";"Mostly like me"
-"TGRT_0002_CHOICE3";"Passt etwas auf mich";"Somewhat like me"
-"TGRT_0002_CHOICE4";"Passt nicht auf mich";"Not much like me"
-"TGRT_0002_CHOICE5";"Passt überhaupt nicht auf mich";"Not like me at all"
-"TGRT_0002_PROMPT";"Neue Ideen und Projekte lenken mich manchmal von früheren ab.";"New ideas and projects sometimes distract me from previous ones."
-"TGRT_0003_CHOICE1";"Passt sehr gut auf mich";"Very much like me"
-"TGRT_0003_CHOICE2";"Passt auf mich";"Mostly like me"
-"TGRT_0003_CHOICE3";"Passt etwas auf mich";"Somewhat like me"
-"TGRT_0003_CHOICE4";"Passt nicht auf mich";"Not much like me"
-"TGRT_0003_CHOICE5";"Passt überhaupt nicht auf mich";"Not like me at all"
-"TGRT_0003_PROMPT";"Rückschläge entmutigen micht nicht.";"Setbacks don't discourage me."
-"TGRT_0004_CHOICE1";"Passt sehr gut auf mich";"Very much like me"
-"TGRT_0004_CHOICE2";"Passt auf mich";"Mostly like me"
-"TGRT_0004_CHOICE3";"Passt etwas auf mich";"Somewhat like me"
-"TGRT_0004_CHOICE4";"Passt nicht auf mich";"Not much like me"
-"TGRT_0004_CHOICE5";"Passt überhaupt nicht auf mich";"Not like me at all"
-"TGRT_0004_PROMPT";"Ich war eine Weile von einer bestimmten Idee oder einem bestimmten Projekt besessen, verlor aber später das Interesse.";"I have been obsessed with a certain idea or project for a short time but later lost interest."
-"TGRT_0005_CHOICE1";"Passt sehr gut auf mich";"Very much like me"
-"TGRT_0005_CHOICE2";"Passt auf mich";"Mostly like me"
-"TGRT_0005_CHOICE3";"Passt etwas auf mich";"Somewhat like me"
-"TGRT_0005_CHOICE4";"Passt nicht auf mich";"Not much like me"
-"TGRT_0005_CHOICE5";"Passt überhaupt nicht auf mich";"Not like me at all"
-"TGRT_0005_PROMPT";"Ich arbeite hart.";"I am a hard worker."
-"TGRT_0006_CHOICE1";"Passt sehr gut auf mich";"Very much like me"
-"TGRT_0006_CHOICE2";"Passt auf mich";"Mostly like me"
-"TGRT_0006_CHOICE3";"Passt etwas auf mich";"Somewhat like me"
-"TGRT_0006_CHOICE4";"Passt nicht auf mich";"Not much like me"
-"TGRT_0006_CHOICE5";"Passt überhaupt nicht auf mich";"Not like me at all"
-"TGRT_0006_PROMPT";"Ich setze mir oft ein Ziel und entscheide mich später, ein anderes zu verfolgen.";"I often set a goal but later choose to pursue a different one."
-"TGRT_0007_CHOICE1";"Passt sehr gut auf mich";"Very much like me"
-"TGRT_0007_CHOICE2";"Passt auf mich";"Mostly like me"
-"TGRT_0007_CHOICE3";"Passt etwas auf mich";"Somewhat like me"
-"TGRT_0007_CHOICE4";"Passt nicht auf mich";"Not much like me"
-"TGRT_0007_CHOICE5";"Passt überhaupt nicht auf mich";"Not like me at all"
-"TGRT_0007_PROMPT";"Es fällt mir schwer, mich auf Projekte zu konzentrieren, die länger als ein paar Monate dauern.";"I have difficulty maintaining my focus on projects that take more than a few months to complete."
-"TGRT_0008_CHOICE1";"Passt sehr gut auf mich";"Very much like me"
-"TGRT_0008_CHOICE2";"Passt auf mich";"Mostly like me"
-"TGRT_0008_CHOICE3";"Passt etwas auf mich";"Somewhat like me"
-"TGRT_0008_CHOICE4";"Passt nicht auf mich";"Not much like me"
-"TGRT_0008_CHOICE5";"Passt überhaupt nicht auf mich";"Not like me at all"
-"TGRT_0008_PROMPT";"Ich beende was ich angefangen habe.";"I finish whatever I begin."
-"TGRT_0009_CHOICE1";"Passt sehr gut auf mich";"Very much like me"
-"TGRT_0009_CHOICE2";"Passt auf mich";"Mostly like me"
-"TGRT_0009_CHOICE3";"Passt etwas auf mich";"Somewhat like me"
-"TGRT_0009_CHOICE4";"Passt nicht auf mich";"Not much like me"
-"TGRT_0009_CHOICE5";"Passt überhaupt nicht auf mich";"Not like me at all"
-"TGRT_0009_PROMPT";"Ich bin fleißig.";"I am diligent."
+key;de;en;de_f;it;es;lv
+TGRT_0000_PROMPT;Fragebogen zum Durchhaltevermögen;Short Grit Scale;Fragebogen zum Durchhaltevermögen;Breve Scala della Grinta;Breve escala de la Determinación;Rakstura stingrības aptauja
+TGRT_0001_PROMPT;Bitte lies die folgenden Aussagen sorgfältig und entscheide, inwieweit du ihnen zustimmst. Sei bitte ehrlich - es gibt keine richtigen oder falschen Antworten oder Fangfragen.;Please respond to the following 8 items. Be honest - there are no right or wrong answers!;Bitte lies die folgenden Aussagen sorgfältig und entscheide, inwieweit du ihnen zustimmst. Sei bitte ehrlich - es gibt keine richtigen oder falschen Antworten oder Fangfragen.;Per favore, rispondi alle seguenti 8 affermazioni. Sii onesto/a - non ci sono risposte giuste o sbagliate!;Por favor contesta las siguientes 8 afirmaciones. Sé honesto/a: ¡no hay respuestas correctas o incorrectas!;Lūdzu, atbildi uz šādiem 8 jautājumiem. Lūdzu, esi godīgs -  nav pareizu vai nepareizu atbilžu!
+TGRT_0002_CHOICE1;Passt sehr gut auf mich;Very much like me;Passt sehr gut auf mich;Molto spesso;Muy parecido a mí;Man ļoti raksturīgi
+TGRT_0002_CHOICE2;Passt auf mich;Mostly like me;Passt auf mich;Spesso;Preferentemente como yo;Man raksturīgi
+TGRT_0002_CHOICE3;Passt etwas auf mich;Somewhat like me;Passt etwas auf mich;Qualche volta;De algún modo como yo;Man daļēji raksturīgi
+TGRT_0002_CHOICE4;Passt nicht auf mich;Not much like me;Passt nicht auf mich;Raramente;No como yo;Man nav raksturīgi
+TGRT_0002_CHOICE5;Passt überhaupt nicht auf mich;Not like me at all;Passt überhaupt nicht auf mich;Per nulla;En absoluto se parece a mí;Absolūti man nav raksturīgi
+TGRT_0002_PROMPT;Neue Ideen und Projekte lenken mich manchmal von früheren ab.;New ideas and projects sometimes distract me from previous ones.;Neue Ideen und Projekte lenken mich manchmal von früheren ab.;Nuove idee e nuovi progetti mi distolgono da quelli precedenti.;Las ideas y proyectos nuevos a menudo me distraen de los anteriores.;Jaunas idejas un projekti dažkārt novērš manu uzmanību no iepriekšējām idejām un projektiem.
+TGRT_0003_CHOICE1;Passt sehr gut auf mich;Very much like me;Passt sehr gut auf mich;Molto spesso;Muy parecido a mí;Man ļoti raksturīgi
+TGRT_0003_CHOICE2;Passt auf mich;Mostly like me;Passt auf mich;Spesso;Preferentemente como yo;Man raksturīgi
+TGRT_0003_CHOICE3;Passt etwas auf mich;Somewhat like me;Passt etwas auf mich;Qualche volta;De algún modo como yo;Man daļēji raksturīgi
+TGRT_0003_CHOICE4;Passt nicht auf mich;Not much like me;Passt nicht auf mich;Raramente;No como yo;Man nav raksturīgi
+TGRT_0003_CHOICE5;Passt überhaupt nicht auf mich;Not like me at all;Passt überhaupt nicht auf mich;Per nulla;En absoluto se parece a mí;Absolūti man nav raksturīgi
+TGRT_0003_PROMPT;Rückschläge entmutigen mich nicht.;Setbacks don't discourage me.;Rückschläge entmutigen mich nicht.;Non mi lascio scoraggiare dalle sconfitte.;Los contratiempos no me desaniman.;Neveiksmes mani neattur no iecerētā
+TGRT_0004_CHOICE1;Passt sehr gut auf mich;Very much like me;Passt sehr gut auf mich;Molto spesso;Muy parecido a mí;Man ļoti raksturīgi
+TGRT_0004_CHOICE2;Passt auf mich;Mostly like me;Passt auf mich;Spesso;Preferentemente como yo;Man raksturīgi
+TGRT_0004_CHOICE3;Passt etwas auf mich;Somewhat like me;Passt etwas auf mich;Qualche volta;De algún modo como yo;Man daļēji raksturīgi
+TGRT_0004_CHOICE4;Passt nicht auf mich;Not much like me;Passt nicht auf mich;Raramente;No como yo;Man nav raksturīgi
+TGRT_0004_CHOICE5;Passt überhaupt nicht auf mich;Not like me at all;Passt überhaupt nicht auf mich;Per nulla;En absoluto se parece a mí;Absolūti man nav raksturīgi
+TGRT_0004_PROMPT;Ich war eine Weile von einer bestimmten Idee oder einem bestimmten Projekt besessen, verlor aber später das Interesse.;I have been obsessed with a certain idea or project for a short time but later lost interest.;Ich war eine Weile von einer bestimmten Idee oder einem bestimmten Projekt besessen, verlor aber später das Interesse.;Sono stato ossessionato da una certa idea o progetto per un breve periodo, ma poi ho perso interesse.;Me he obsesionado con cierta idea, o proyecto, durante un periodo corto de tiempo, para después dejar de estar interesado.;Esmu bijis pārņemts ar noteiktu ideju vai projektu īsu brīdi, bet pēc tam zaudēju par to interesi.
+TGRT_0005_CHOICE1;Passt sehr gut auf mich;Very much like me;Passt sehr gut auf mich;Molto spesso;Muy parecido a mí;Man ļoti raksturīgi
+TGRT_0005_CHOICE2;Passt auf mich;Mostly like me;Passt auf mich;Spesso;Preferentemente como yo;Man raksturīgi
+TGRT_0005_CHOICE3;Passt etwas auf mich;Somewhat like me;Passt etwas auf mich;Qualche volta;De algún modo como yo;Man daļēji raksturīgi
+TGRT_0005_CHOICE4;Passt nicht auf mich;Not much like me;Passt nicht auf mich;Raramente;No como yo;Man nav raksturīgi
+TGRT_0005_CHOICE5;Passt überhaupt nicht auf mich;Not like me at all;Passt überhaupt nicht auf mich;Per nulla;En absoluto se parece a mí;Absolūti man nav raksturīgi
+TGRT_0005_PROMPT;Ich arbeite hart.;I am a hard worker.;Ich arbeite hart.;Sono un gran lavoratore.;Soy un trabajador/a duro/a.;Es esmu strādīgs cilvēks.
+TGRT_0006_CHOICE1;Passt sehr gut auf mich;Very much like me;Passt sehr gut auf mich;Molto spesso;Muy parecido a mí;Man ļoti raksturīgi
+TGRT_0006_CHOICE2;Passt auf mich;Mostly like me;Passt auf mich;Spesso;Preferentemente como yo;Man raksturīgi
+TGRT_0006_CHOICE3;Passt etwas auf mich;Somewhat like me;Passt etwas auf mich;Qualche volta;De algún modo como yo;Man daļēji raksturīgi
+TGRT_0006_CHOICE4;Passt nicht auf mich;Not much like me;Passt nicht auf mich;Raramente;No como yo;Man nav raksturīgi
+TGRT_0006_CHOICE5;Passt überhaupt nicht auf mich;Not like me at all;Passt überhaupt nicht auf mich;Per nulla;En absoluto se parece a mí;Absolūti man nav raksturīgi
+TGRT_0006_PROMPT;Ich setze mir oft ein Ziel und entscheide mich später, ein anderes zu verfolgen.;I often set a goal but later choose to pursue a different one.;Ich setze mir oft ein Ziel und entscheide mich später, ein anderes zu verfolgen.;Spesso mi prefiggo un obiettivo, ma poi scelgo di seguirne uno diverso.;A menudo me pongo un objetivo para después perseguir otro diferente.;Es bieži izvirzu mērķi, bet vēlāk izvēlos tiekties uz citu.
+TGRT_0007_CHOICE1;Passt sehr gut auf mich;Very much like me;Passt sehr gut auf mich;Molto spesso;Muy parecido a mí;Man ļoti raksturīgi
+TGRT_0007_CHOICE2;Passt auf mich;Mostly like me;Passt auf mich;Spesso;Preferentemente como yo;Man raksturīgi
+TGRT_0007_CHOICE3;Passt etwas auf mich;Somewhat like me;Passt etwas auf mich;Qualche volta;De algún modo como yo;Man daļēji raksturīgi
+TGRT_0007_CHOICE4;Passt nicht auf mich;Not much like me;Passt nicht auf mich;Raramente;No como yo;Man nav raksturīgi
+TGRT_0007_CHOICE5;Passt überhaupt nicht auf mich;Not like me at all;Passt überhaupt nicht auf mich;Per nulla;En absoluto se parece a mí;Absolūti man nav raksturīgi
+TGRT_0007_PROMPT;Es fällt mir schwer, mich auf Projekte zu konzentrieren, die länger als ein paar Monate dauern.;I have difficulty maintaining my focus on projects that take more than a few months to complete.;Es fällt mir schwer, mich auf Projekte zu konzentrieren, die länger als ein paar Monate dauern.;Fatico a mantenere la concentrazione su obiettivi che richiedono impegno per più di qualche mese.;Tengo dificultad para mantener mi atención en proyectos que me reclaman más de varios meses llevarlos a cabo.;Man ir grūtības koncentrēties projektiem, kuri jāpabeidz vairāku mēnešu laikā
+TGRT_0008_CHOICE1;Passt sehr gut auf mich;Very much like me;Passt sehr gut auf mich;Molto spesso;Muy parecido a mí;Man ļoti raksturīgi
+TGRT_0008_CHOICE2;Passt auf mich;Mostly like me;Passt auf mich;Spesso;Preferentemente como yo;Man raksturīgi
+TGRT_0008_CHOICE3;Passt etwas auf mich;Somewhat like me;Passt etwas auf mich;Qualche volta;De algún modo como yo;Man daļēji raksturīgi
+TGRT_0008_CHOICE4;Passt nicht auf mich;Not much like me;Passt nicht auf mich;Raramente;No como yo;Man nav raksturīgi
+TGRT_0008_CHOICE5;Passt überhaupt nicht auf mich;Not like me at all;Passt überhaupt nicht auf mich;Per nulla;En absoluto se parece a mí;Absolūti man nav raksturīgi
+TGRT_0008_PROMPT;Ich beende was ich angefangen habe.;I finish whatever I begin.;Ich beende was ich angefangen habe.;Porto a termine tutto ciò che inizio;Termino todo lo que empiezo.;Es pabeidzu visu, ko esmu iesācis
+TGRT_0009_CHOICE1;Passt sehr gut auf mich;Very much like me;Passt sehr gut auf mich;Molto spesso;Muy parecido a mí;Man ļoti raksturīgi
+TGRT_0009_CHOICE2;Passt auf mich;Mostly like me;Passt auf mich;Spesso;Preferentemente como yo;Man raksturīgi
+TGRT_0009_CHOICE3;Passt etwas auf mich;Somewhat like me;Passt etwas auf mich;Qualche volta;De algún modo como yo;Man daļēji raksturīgi
+TGRT_0009_CHOICE4;Passt nicht auf mich;Not much like me;Passt nicht auf mich;Raramente;No como yo;Man nav raksturīgi
+TGRT_0009_CHOICE5;Passt überhaupt nicht auf mich;Not like me at all;Passt überhaupt nicht auf mich;Per nulla;En absoluto se parece a mí;Absolūti man nav raksturīgi
+TGRT_0009_PROMPT;Ich bin fleißig.;I am diligent.;Ich bin fleißig.;Sono diligente;Soy una persona diligente.;Es esmu čakls

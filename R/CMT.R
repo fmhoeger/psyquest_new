@@ -32,6 +32,7 @@ CMT <- function(label = "CMT",
     with_prompt_head = TRUE,
     offset = 1,
     arrange_vertically = TRUE,
-    button_style = "min-width: 290px"
+    button_style = "min-width: 290px",
+    dict = dict
   )
 }

@@ -1,0 +1,52 @@
+"main_id";"language";"template";"score_func";"subscales";"layout";"short_version"
+"TPHT_0002";"en";"6-option multiple choice";"function(x) x+0";"Beat Synchronization Abilities";"Vertical";TRUE
+"TPHT_0003";"en";"6-option multiple choice";"function(x) x+0";"Beat Synchronization Abilities";"Vertical";FALSE
+"TPHT_0004";"en";"6-option multiple choice";"function(x) x+0";"Beat Synchronization Abilities";"Vertical";FALSE
+"TPHT_0005";"en";"6-option multiple choice";"function(x) x+0";"Musical Memory (Recognition)";"Vertical";FALSE
+"TPHT_0006";"en";"6-option multiple choice";"function(x) x+0";"Musical Memory (Recognition)";"Vertical";FALSE
+"TPHT_0007";"en";"6-option multiple choice";"function(x) x+0";"Musical Memory (Recognition)";"Vertical";TRUE
+"TPHT_0008";"en";"6-option multiple choice";"function(x) x+0";"Mistuning Perception";"Vertical";TRUE
+"TPHT_0009";"en";"6-option multiple choice";"function(x) x+0";"Mistuning Perception";"Vertical";FALSE
+"TPHT_0010";"en";"6-option multiple choice";"function(x) 7-(x+0)";"Mistuning Perception";"Vertical";FALSE
+"TPHT_0011";"en";"6-option multiple choice";"function(x) x+0";"Emotional Reactivity to Music";"Vertical";FALSE
+"TPHT_0012";"en";"6-option multiple choice";"function(x) x+0";"Emotional Reactivity to Music";"Vertical";FALSE
+"TPHT_0013";"en";"6-option multiple choice";"function(x) x+0";"Emotional Reactivity to Music";"Vertical";TRUE
+"TPHT_0014";"en";"6-option multiple choice";"function(x) x+0";"Musical Absorption";"Vertical";FALSE
+"TPHT_0015";"en";"6-option multiple choice";"function(x) x+0";"Musical Absorption";"Vertical";FALSE
+"TPHT_0016";"en";"6-option multiple choice";"function(x) x+0";"Musical Absorption";"Vertical";TRUE
+"TPHT_0017";"en";"6-option multiple choice";"function(x) x+0";"Musical Enjoyment";"Vertical";FALSE
+"TPHT_0018";"en";"6-option multiple choice";"function(x) x+0";"Musical Enjoyment";"Vertical";TRUE
+"TPHT_0019";"en";"6-option multiple choice";"function(x) x+0";"Musical Enjoyment";"Vertical";FALSE
+"TPHT_0020";"en";"6-option multiple choice";"function(x) x+0";"Beat Perception";"Vertical";TRUE
+"TPHT_0021";"en";"6-option multiple choice";"function(x) x+0";"Beat Perception";"Vertical";FALSE
+"TPHT_0022";"en";"6-option multiple choice";"function(x) x+0";"Beat Perception";"Vertical";FALSE
+"TPHT_0023";"en";"6-option multiple choice";"function(x) x+0";"Musical Memory (Recall)";"Vertical";TRUE
+"TPHT_0024";"en";"6-option multiple choice";"function(x) x+0";"Musical Memory (Recall)";"Vertical";FALSE
+"TPHT_0025";"en";"6-option multiple choice";"function(x) 7-(x+0)";"Musical Memory (Recall)";"Vertical";FALSE
+"TPHT_0026";"en";"6-option multiple choice";"function(x) 7-(x+0)";"Singing intonation";"Vertical";FALSE
+"TPHT_0027";"en";"6-option multiple choice";"function(x) x+0";"Singing intonation";"Vertical";TRUE
+"TPHT_0028";"en";"6-option multiple choice";"function(x) x+0";"Singing intonation";"Vertical";FALSE
+"TPHT_0029";"en";"6-option multiple choice";"function(x) 7-(x+0)";"General rhythmic ability";"Vertical";FALSE
+"TPHT_0030";"en";"6-option multiple choice";"function(x) x+0";"General rhythmic ability";"Vertical";FALSE
+"TPHT_0031";"en";"6-option multiple choice";"function(x) x+0";"General rhythmic ability";"Vertical";TRUE
+"TPHT_0032";"en";"6-option multiple choice";"function(x) x+0";"Absolute Pitch";"Vertical";TRUE
+"TPHT_0033";"en";"6-option multiple choice";"function(x) x+0";"Absolute Pitch";"Vertical";FALSE
+"TPHT_0034";"en";"6-option multiple choice";"function(x) x+0";"Absolute Pitch";"Vertical";FALSE
+"TPHT_0035";"en";"6-option multiple choice";"function(x) x+0";"Melodic discrimination";"Vertical";FALSE
+"TPHT_0036";"en";"6-option multiple choice";"function(x) x+0";"Melodic discrimination";"Vertical";FALSE
+"TPHT_0037";"en";"6-option multiple choice";"function(x) x+0";"Melodic discrimination";"Vertical";TRUE
+"TPHT_0038";"en";"6-option multiple choice";"function(x) x+0";"Melodic creativity";"Vertical";TRUE
+"TPHT_0039";"en";"6-option multiple choice";"function(x) x+0";"Melodic creativity";"Vertical";FALSE
+"TPHT_0040";"en";"6-option multiple choice";"function(x) x+0";"Melodic creativity";"Vertical";FALSE
+"TPHT_0041";"en";"6-option multiple choice";"function(x) x+0";"Propensity to earworms";"Vertical";FALSE
+"TPHT_0042";"en";"6-option multiple choice";"function(x) x+0";"Propensity to earworms";"Vertical";FALSE
+"TPHT_0043";"en";"6-option multiple choice";"function(x) x+0";"Propensity to earworms";"Vertical";TRUE
+"TPHT_0044";"en";"6-option multiple choice";"function(x) x+0";"Urge to dance";"Vertical";TRUE
+"TPHT_0045";"en";"6-option multiple choice";"function(x) 7-(x+0)";"Urge to dance";"Vertical";FALSE
+"TPHT_0046";"en";"6-option multiple choice";"function(x) x+0";"Urge to dance";"Vertical";FALSE
+"TPHT_0047";"en";"6-option multiple choice";"function(x) x+0";"Rhythm discrimination";"Vertical";FALSE
+"TPHT_0048";"en";"6-option multiple choice";"function(x) x+0";"Rhythm discrimination";"Vertical";TRUE
+"TPHT_0049";"en";"6-option multiple choice";"function(x) x+0";"Rhythm discrimination";"Vertical";FALSE
+"TPHT_0050";"en";"6-option multiple choice";"function(x) x+0";"Urge to join in with music";"Vertical";TRUE
+"TPHT_0051";"en";"6-option multiple choice";"function(x) x+0";"Urge to join in with music";"Vertical";FALSE
+"TPHT_0052";"en";"6-option multiple choice";"function(x) x+0";"Urge to join in with music";"Vertical";FALSE

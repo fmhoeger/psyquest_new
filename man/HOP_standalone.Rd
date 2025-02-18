@@ -12,7 +12,7 @@ Determines the languages available to participants.
 Possible languages include \code{"en"} (English), and \code{"de"} (German).
 The first language is selected by default.}
 
-\item{...}{Further arguments to be passed to \code{\link{HOP_standalone}()}.}
+\item{...}{Further arguments to be passed to \code{\link{standalone}()}.}
 }
 \description{
 This function launches a standalone testing session for the HOP questionnaire.

@@ -4,5 +4,5 @@
 #'
 #' @export
 languages <- function() {
-  c("en", "de")
+  c("en", "de", "de_f", "it", "es", "lv", "ar", "ja")
 }

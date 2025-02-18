@@ -30,10 +30,11 @@ CCM <- function(label = "CCM",
                       subscales = subscales),
     subscales = subscales,
     offset = 1,
+    dict = dict
   )
 }
 
-main_test_ccm <- function(questionnaire_id, label, items, subscales, offset = 1, arrange_vertically = TRUE) {
+main_test_ccm <- function(questionnaire_id, label, items, subscales, offset = 1, arrange_vertically = TRUE, dict) {
   prompt_id <- NULL
   prompt_ids <- items %>% pull(prompt_id)
   elts <- c()
@@ -57,7 +58,7 @@ main_test_ccm <- function(questionnaire_id, label, items, subscales, offset = 1,
                 trigger_button_text = psychTestR::i18n("CONTINUE"),
                 failed_validation_message = psychTestR::i18n("CHOOSE_AT_LEAST_ONE_ANSWER"))
       ),
-      dict = psyquest::psyquest_dict
+      dict = dict
     ))
   }
   if ("TCCM_0002" %in% prompt_ids) {
@@ -73,7 +74,7 @@ main_test_ccm <- function(questionnaire_id, label, items, subscales, offset = 1,
                 trigger_button_text = psychTestR::i18n("CONTINUE"),
                 failed_validation_message = psychTestR::i18n("CHOOSE_ANSWER"))
       ),
-      dict = psyquest::psyquest_dict
+      dict = dict
     ))
   }
 
@@ -90,7 +91,7 @@ main_test_ccm <- function(questionnaire_id, label, items, subscales, offset = 1,
                 trigger_button_text = psychTestR::i18n("CONTINUE"),
                 failed_validation_message = psychTestR::i18n("CHOOSE_ANSWER"))
       ),
-      dict = psyquest::psyquest_dict
+      dict = dict
     ))
   }
 
@@ -139,6 +140,7 @@ main_test_ccm <- function(questionnaire_id, label, items, subscales, offset = 1,
 }
 
 postprocess_ccm <- function(questionnaire_id, label, subscale, results, scores) {
+  #browser()
   if (subscale == "General") {
     count_q1 <- if (results[[label]][["q1"]] == c("choice9")) {
       0
@@ -152,7 +154,9 @@ postprocess_ccm <- function(questionnaire_id, label, subscale, results, scores) 
     }
     scoring_map <- psyquest::scoring_maps[[questionnaire_id]]
     mapped_value_q1 <- scoring_map[scoring_map$score == count_q1, ]$raw
-    values <- c(mapped_value_q1, as.numeric(gsub("[^0-9]", "", results[[label]][["q4"]])), as.numeric(gsub("[^0-9]", "", results[[label]][["q5"]])))
+    values <- c(mapped_value_q1,
+                as.numeric(gsub("[^0-9]", "", results[[label]][["q4"]])),
+                as.numeric(gsub("[^0-9]", "", results[[label]][["q5"]])))
 
     weights <- c(0.8, 0.88, 0.91)
     means <- c(-1.32900, 1.97, 2.254)

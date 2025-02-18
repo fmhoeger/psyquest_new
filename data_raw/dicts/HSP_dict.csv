@@ -1,0 +1,219 @@
+key;en;it
+THSP_0000_PROMPT;"Questionnaire (HSP Scale)";"Questionario HSPS"
+THSP_0001_PROMPT;"Answer each of the following questions considering how you normally feel, using a scale of 1 to 7, where 1 means “Not at all”, 4 means “Moderately” and 7 means “Extremely”.";"Rispondi ad ognuna delle seguenti domande considerando il modo in cui normalmente ti senti, utilizzando una scala da 1 a 7, dove 1 indica “Per Niente”, 4 indica “Moderatamente” e 7 indica “Moltissimo”."
+THSP_0002_CHOICE1;1 - Not at all;1 - Per niente
+THSP_0002_CHOICE2;2;2
+THSP_0002_CHOICE3;3;3
+THSP_0002_CHOICE4;4 - Moderately;4 - Moderatamente
+THSP_0002_CHOICE5;5;5
+THSP_0002_CHOICE6;6;6
+THSP_0002_CHOICE7;7 - Extremely;7 - Estremamente
+THSP_0002_PROMPT;Are you easily overwhelmed by strong sensory input?;Sei facilmente sopraffatto da forti stimoli sensoriali?
+THSP_0003_CHOICE1;1 - Not at all;1 - Per niente
+THSP_0003_CHOICE2;2;2
+THSP_0003_CHOICE3;3;3
+THSP_0003_CHOICE4;4 - Moderately;4 - Moderatamente
+THSP_0003_CHOICE5;5;5
+THSP_0003_CHOICE6;6;6
+THSP_0003_CHOICE7;7 - Extremely;7 - Estremamente
+THSP_0003_PROMPT;Do you seem to be aware of subtleties in your environment?;Sembri accorgerti di ogni dettaglio nel tuo ambiente?
+THSP_0004_CHOICE1;1 - Not at all;1 - Per niente
+THSP_0004_CHOICE2;2;2
+THSP_0004_CHOICE3;3;3
+THSP_0004_CHOICE4;4 - Moderately;4 - Moderatamente
+THSP_0004_CHOICE5;5;5
+THSP_0004_CHOICE6;6;6
+THSP_0004_CHOICE7;7 - Extremely;7 - Estremamente
+THSP_0004_PROMPT;"Do other people's moods affect you?";"Gli umori degli altri ti influenzano?"
+THSP_0005_CHOICE1;1 - Not at all;1 - Per niente
+THSP_0005_CHOICE2;2;2
+THSP_0005_CHOICE3;3;3
+THSP_0005_CHOICE4;4 - Moderately;4 - Moderatamente
+THSP_0005_CHOICE5;5;5
+THSP_0005_CHOICE6;6;6
+THSP_0005_CHOICE7;7 - Extremely;7 - Estremamente
+THSP_0005_PROMPT;Do you tend to be more sensitive to pain?;Tendi ad essere molto sensibile al dolore?
+THSP_0006_CHOICE1;1 - Not at all;1 - Per niente
+THSP_0006_CHOICE2;2;2
+THSP_0006_CHOICE3;3;3
+THSP_0006_CHOICE4;4 - Moderately;4 - Moderatamente
+THSP_0006_CHOICE5;5;5
+THSP_0006_CHOICE6;6;6
+THSP_0006_CHOICE7;7 - Extremely;7 - Estremamente
+THSP_0006_PROMPT;Do you find yourself needing to withdraw during busy days, into bed or into a darkened room or any place where you can have some privacy and relief from stimulation?;Durante giorni impegnativi, senti il bisogno di doverti ritirare a letto o in una stanza buia o in qualsiasi posto dove possa avere un po’ di privacy e sollievo dalla stimolazione?
+THSP_0007_CHOICE1;1 - Not at all;1 - Per niente
+THSP_0007_CHOICE2;2;2
+THSP_0007_CHOICE3;3;3
+THSP_0007_CHOICE4;4 - Moderately;4 - Moderatamente
+THSP_0007_CHOICE5;5;5
+THSP_0007_CHOICE6;6;6
+THSP_0007_CHOICE7;7 - Extremely;7 - Estremamente
+THSP_0007_PROMPT;Are you particularly sensitive to the effects of caffeine?;Sei particolarmente sensibile agli effetti della caffeina?
+THSP_0008_CHOICE1;1 - Not at all;1 - Per niente
+THSP_0008_CHOICE2;2;2
+THSP_0008_CHOICE3;3;3
+THSP_0008_CHOICE4;4 - Moderately;4 - Moderatamente
+THSP_0008_CHOICE5;5;5
+THSP_0008_CHOICE6;6;6
+THSP_0008_CHOICE7;7 - Extremely;7 - Estremamente
+THSP_0008_PROMPT;Are you easily overwhelmed by things like bright lights, strong smells, coarse fabrics, or sirens close by?;Sei facilmente sopraffatto da cose come luci intense, odori forti, tessuti ruvidi, o sirene che suonano nelle vicinanze?
+THSP_0009_CHOICE1;1 - Not at all;1 - Per niente
+THSP_0009_CHOICE2;2;2
+THSP_0009_CHOICE3;3;3
+THSP_0009_CHOICE4;4 - Moderately;4 - Moderatamente
+THSP_0009_CHOICE5;5;5
+THSP_0009_CHOICE6;6;6
+THSP_0009_CHOICE7;7 - Extremely;7 - Estremamente
+THSP_0009_PROMPT;Do you have a rich, complex inner life?;Hai una vita interiore ricca ed intensa?
+THSP_0010_CHOICE1;1 - Not at all;1 - Per niente
+THSP_0010_CHOICE2;2;2
+THSP_0010_CHOICE3;3;3
+THSP_0010_CHOICE4;4 - Moderately;4 - Moderatamente
+THSP_0010_CHOICE5;5;5
+THSP_0010_CHOICE6;6;6
+THSP_0010_CHOICE7;7 - Extremely;7 - Estremamente
+THSP_0010_PROMPT;Are you made uncomfortable by loud noises?;Rumori forti ti mettono a disagio?
+THSP_0011_CHOICE1;1 - Not at all;1 - Per niente
+THSP_0011_CHOICE2;2;2
+THSP_0011_CHOICE3;3;3
+THSP_0011_CHOICE4;4 - Moderately;4 - Moderatamente
+THSP_0011_CHOICE5;5;5
+THSP_0011_CHOICE6;6;6
+THSP_0011_CHOICE7;7 - Extremely;7 - Estremamente
+THSP_0011_PROMPT;Are you deeply moved by the arts or music?;Le arti o la musica ti emozionano profondamente?
+THSP_0012_CHOICE1;1 - Not at all;1 - Per niente
+THSP_0012_CHOICE2;2;2
+THSP_0012_CHOICE3;3;3
+THSP_0012_CHOICE4;4 - Moderately;4 - Moderatamente
+THSP_0012_CHOICE5;5;5
+THSP_0012_CHOICE6;6;6
+THSP_0012_CHOICE7;7 - Extremely;7 - Estremamente
+THSP_0012_PROMPT;Does your nervous system sometimes feel so frazzled that you just have to go off by yourself?;A volte il tuo sistema nervoso è così esausto che senti solo il bisogno di startene da solo?
+THSP_0013_CHOICE1;1 - Not at all;1 - Per niente
+THSP_0013_CHOICE2;2;2
+THSP_0013_CHOICE3;3;3
+THSP_0013_CHOICE4;4 - Moderately;4 - Moderatamente
+THSP_0013_CHOICE5;5;5
+THSP_0013_CHOICE6;6;6
+THSP_0013_CHOICE7;7 - Extremely;7 - Estremamente
+THSP_0013_PROMPT;Are you conscientious?;Sei una persona coscienziosa?
+THSP_0014_CHOICE1;1 - Not at all;1 - Per niente
+THSP_0014_CHOICE2;2;2
+THSP_0014_CHOICE3;3;3
+THSP_0014_CHOICE4;4 - Moderately;4 - Moderatamente
+THSP_0014_CHOICE5;5;5
+THSP_0014_CHOICE6;6;6
+THSP_0014_CHOICE7;7 - Extremely;7 - Estremamente
+THSP_0014_PROMPT;Do you startle easily?;Ti spaventi facilmente?
+THSP_0015_CHOICE1;1 - Not at all;1 - Per niente
+THSP_0015_CHOICE2;2;2
+THSP_0015_CHOICE3;3;3
+THSP_0015_CHOICE4;4 - Moderately;4 - Moderatamente
+THSP_0015_CHOICE5;5;5
+THSP_0015_CHOICE6;6;6
+THSP_0015_CHOICE7;7 - Extremely;7 - Estremamente
+THSP_0015_PROMPT;Do you get rattled when you have a lot to do in a short amount of time?;Ti irriti quando hai molte cose da fare in un breve lasso di tempo?
+THSP_0016_CHOICE1;1 - Not at all;1 - Per niente
+THSP_0016_CHOICE2;2;2
+THSP_0016_CHOICE3;3;3
+THSP_0016_CHOICE4;4 - Moderately;4 - Moderatamente
+THSP_0016_CHOICE5;5;5
+THSP_0016_CHOICE6;6;6
+THSP_0016_CHOICE7;7 - Extremely;7 - Estremamente
+THSP_0016_PROMPT;When people are uncomfortable in a physical environment do you tend to know what needs to be done to make it more comfortable (like changing the lighting or the seating)?;Quando altre persone sono a disagio in un ambiente, tendi ad intuire ciò di cui c’è bisogno per rendere l’ambiente più confortevole (per esempio cambiare l’illuminazione o i posti a sedere)?
+THSP_0017_CHOICE1;1 - Not at all;1 - Per niente
+THSP_0017_CHOICE2;2;2
+THSP_0017_CHOICE3;3;3
+THSP_0017_CHOICE4;4 - Moderately;4 - Moderatamente
+THSP_0017_CHOICE5;5;5
+THSP_0017_CHOICE6;6;6
+THSP_0017_CHOICE7;7 - Extremely;7 - Estremamente
+THSP_0017_PROMPT;Are you annoyed when people try to get you to do too many things at once?;Sei infastidito quando la gente cerca di farti fare troppe cose contemporaneamente?
+THSP_0018_CHOICE1;1 - Not at all;1 - Per niente
+THSP_0018_CHOICE2;2;2
+THSP_0018_CHOICE3;3;3
+THSP_0018_CHOICE4;4 - Moderately;4 - Moderatamente
+THSP_0018_CHOICE5;5;5
+THSP_0018_CHOICE6;6;6
+THSP_0018_CHOICE7;7 - Extremely;7 - Estremamente
+THSP_0018_PROMPT;Do you try hard to avoid making mistakes or forgetting things?;Cerchi fortemente di evitare di fare errori o di dimenticare cose?
+THSP_0019_CHOICE1;1 - Not at all;1 - Per niente
+THSP_0019_CHOICE2;2;2
+THSP_0019_CHOICE3;3;3
+THSP_0019_CHOICE4;4 - Moderately;4 - Moderatamente
+THSP_0019_CHOICE5;5;5
+THSP_0019_CHOICE6;6;6
+THSP_0019_CHOICE7;7 - Extremely;7 - Estremamente
+THSP_0019_PROMPT;Do you make a point to avoid violent movies and TV shows?;Stai attento ad evitare film e programmi televisivi violenti?
+THSP_0020_CHOICE1;1 - Not at all;1 - Per niente
+THSP_0020_CHOICE2;2;2
+THSP_0020_CHOICE3;3;3
+THSP_0020_CHOICE4;4 - Moderately;4 - Moderatamente
+THSP_0020_CHOICE5;5;5
+THSP_0020_CHOICE6;6;6
+THSP_0020_CHOICE7;7 - Extremely;7 - Estremamente
+THSP_0020_PROMPT;Do you become unpleasantly aroused when a lot is going on around you?;Ti senti a disagio e provi sensazioni fisiche spiacevoli quando accadono molte cose intorno a te?
+THSP_0021_CHOICE1;1 - Not at all;1 - Per niente
+THSP_0021_CHOICE2;2;2
+THSP_0021_CHOICE3;3;3
+THSP_0021_CHOICE4;4 - Moderately;4 - Moderatamente
+THSP_0021_CHOICE5;5;5
+THSP_0021_CHOICE6;6;6
+THSP_0021_CHOICE7;7 - Extremely;7 - Estremamente
+THSP_0021_PROMPT;Does being very hungry create a strong reaction in you, disrupting your concentration or mood?;Essere molto affamato crea una forte reazione in te, disturbando la tua concentrazione ed il tuo umore?
+THSP_0022_CHOICE1;1 - Not at all;1 - Per niente
+THSP_0022_CHOICE2;2;2
+THSP_0022_CHOICE3;3;3
+THSP_0022_CHOICE4;4 - Moderately;4 - Moderatamente
+THSP_0022_CHOICE5;5;5
+THSP_0022_CHOICE6;6;6
+THSP_0022_CHOICE7;7 - Extremely;7 - Estremamente
+THSP_0022_PROMPT;Do changes in your life shake you up?;I cambiamenti nella tua vita ti scuotono?
+THSP_0023_CHOICE1;1 - Not at all;1 - Per niente
+THSP_0023_CHOICE2;2;2
+THSP_0023_CHOICE3;3;3
+THSP_0023_CHOICE4;4 - Moderately;4 - Moderatamente
+THSP_0023_CHOICE5;5;5
+THSP_0023_CHOICE6;6;6
+THSP_0023_CHOICE7;7 - Extremely;7 - Estremamente
+THSP_0023_PROMPT;"Do you notice and enjoy delicate or fine scents, tastes, sounds, works of art?";"Noti e apprezzi profumi, gusti, suoni, e opere d'arte?"
+THSP_0024_CHOICE1;1 - Not at all;1 - Per niente
+THSP_0024_CHOICE2;2;2
+THSP_0024_CHOICE3;3;3
+THSP_0024_CHOICE4;4 - Moderately;4 - Moderatamente
+THSP_0024_CHOICE5;5;5
+THSP_0024_CHOICE6;6;6
+THSP_0024_CHOICE7;7 - Extremely;7 - Estremamente
+THSP_0024_PROMPT;Do you find it unpleasant to have a lot going on at once?;Trovi spiacevole quando molte cose accadono contemporaneamente?
+THSP_0025_CHOICE1;1 - Not at all;1 - Per niente
+THSP_0025_CHOICE2;2;2
+THSP_0025_CHOICE3;3;3
+THSP_0025_CHOICE4;4 - Moderately;4 - Moderatamente
+THSP_0025_CHOICE5;5;5
+THSP_0025_CHOICE6;6;6
+THSP_0025_CHOICE7;7 - Extremely;7 - Estremamente
+THSP_0025_PROMPT;Do you make it a high priority to arrange your life to avoid upsetting or overwhelming situations?;Per te è prioritario organizzare la tua vita in modo da evitare situazioni sconvolgenti o travolgenti?
+THSP_0026_CHOICE1;1 - Not at all;1 - Per niente
+THSP_0026_CHOICE2;2;2
+THSP_0026_CHOICE3;3;3
+THSP_0026_CHOICE4;4 - Moderately;4 - Moderatamente
+THSP_0026_CHOICE5;5;5
+THSP_0026_CHOICE6;6;6
+THSP_0026_CHOICE7;7 - Extremely;7 - Estremamente
+THSP_0026_PROMPT;Are you bothered by intense stimuli, like loud noises or chaotic scenes?;Stimoli intensi, come rumori forti o scene caotiche, ti turbano?
+THSP_0027_CHOICE1;1 - Not at all;1 - Per niente
+THSP_0027_CHOICE2;2;2
+THSP_0027_CHOICE3;3;3
+THSP_0027_CHOICE4;4 - Moderately;4 - Moderatamente
+THSP_0027_CHOICE5;5;5
+THSP_0027_CHOICE6;6;6
+THSP_0027_CHOICE7;7 - Extremely;7 - Estremamente
+THSP_0027_PROMPT;When you must compete or be observed while performing a task, do you become so nervous or shaky that you do much worse than you would otherwise?;Quando devi competere o vieni osservato mentre svolgi un compito, diventi così nervoso o insicuro che fai molto peggio di quanto faresti altrimenti?
+THSP_0028_CHOICE1;1 - Not at all;1 - Per niente
+THSP_0028_CHOICE2;2;2
+THSP_0028_CHOICE3;3;3
+THSP_0028_CHOICE4;4 - Moderately;4 - Moderatamente
+THSP_0028_CHOICE5;5;5
+THSP_0028_CHOICE6;6;6
+THSP_0028_CHOICE7;7 - Extremely;7 - Estremamente
+THSP_0028_PROMPT;When you were a child, did parents or teachers seem to see you as sensitive or shy?;Quando eri bambino/a, i tuoi genitori o insegnanti ti vedevano come una persona sensibile o timida?

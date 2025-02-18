@@ -1,0 +1,29 @@
+main_id;language;template;score_func;subscales;layout
+TEWE_0001;de;1-option text;function(x) x;Earworm;vertical
+TEWE_0001;en;1-option text;function(x) x;Earworm;vertical
+TEWE_0002;de;5-option multiple choice;function(x) 6-x+0;Frequency;vertical
+TEWE_0002;en;5-option multiple choice;function(x) 6-x+0;Frequency;vertical
+TEWE_0003;de;2-option multiple choice;function(x) x+0;Lyrics;vertical
+TEWE_0003;en;2-option multiple choice;function(x) x+0;Lyrics;vertical
+TEWE_0004;de;5-option multiple choice;function(x) 6-x+0;LikingBefore;vertical
+TEWE_0004;en;5-option multiple choice;function(x) 6-x+0;LikingBefore;vertical
+TEWE_0005;de;5-option multiple choice;function(x) 6-x+0;LikingAfter;vertical
+TEWE_0005;en;5-option multiple choice;function(x) 6-x+0;LikingAfter;vertical
+TEWE_0006;de;7-option checkbox;function(x) x;Trigger;vertical
+TEWE_0006;en;7-option checkbox;function(x) x;Trigger;vertical
+TEWE_0007;de;7-option multiple choice;function(x) x;Origin;vertical
+TEWE_0007;en;7-option multiple choice;function(x) x;Origin;vertical
+TEWE_0008;de;6-option multiple choice;function(x) x;Content;vertical
+TEWE_0008;en;6-option multiple choice;function(x) x;Content;vertical
+TEWE_0009;de;3-option radio button;function(x) x;InnerForm;vertical
+TEWE_0009;en;3-option radio button;function(x) x;InnerForm;vertical
+TEWE_0010;de;4-option multiple choice;function(x) 5-x+0;Reproduction;vertical
+TEWE_0010;en;4-option multiple choice;function(x) 5-x+0;Reproduction;vertical
+TEWE_0011;de;15-option multiple choice;function(x) x;Genre;vertical
+TEWE_0011;en;15-option multiple choice;function(x) x;Genre;vertical
+TEWE_0012;en;3-option multiple choice;function(x) x;Regularity;vertical
+TEWE_0012;de;3-option multiple choice;function(x) x;Regularity;vertical
+TEWE_0013;en;5-option multiple choice;function(x) 6-x+0;Complexity;vertical
+TEWE_0013;de;5-option multiple choice;function(x) 6-x+0;Complexity;vertical
+TEWE_0014;en;7-option checkbox;function(x) x;CounterStrategies;vertical
+TEWE_0014;de;7-option checkbox;function(x) x;CounterStrategies;vertical

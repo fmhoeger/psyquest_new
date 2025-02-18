@@ -1,48 +1,48 @@
-"key";"de";"en"
-"TTOI_0000_PROMPT";"Fragebogen zur Selbsttheorie der Intelligenz";"Theory of Intelligence Questionnaire"
-"TTOI_0001_PROMPT";"Lies die unten stehenden Sätze. In diesen Sätzen geht es um Intelligenz (Schlauheit/Klugheit). Gib an, inwieweit du den Sätzen zustimmst. Es gibt keine richtigen oder falschen Antworten.";"Read each sentence below and select the one option that shows how much you agree with it. There are no right or wrong answers."
-"TTOI_0002_CHOICE1";"Stimme sehr zu";"Strongly agree"
-"TTOI_0002_CHOICE2";"Stimme zu";"Agree"
-"TTOI_0002_CHOICE3";"Stimme größtenteils zu";"Mostly agree"
-"TTOI_0002_CHOICE4";"Stimme größtenteils nicht zu";"Mostly disagree"
-"TTOI_0002_CHOICE5";"Stimme nicht zu";"Disagree"
-"TTOI_0002_CHOICE6";"Stimme überhaupt nicht zu";"Strongly disagree"
-"TTOI_0002_PROMPT";"Man hat einen bestimmten Grad an Intelligenz und kann nicht viel tun, um das zu ändern.";"You have a certain amount of intelligence, and you really can't do much to change it."
-"TTOI_0003_CHOICE1";"Stimme sehr zu";"Strongly agree"
-"TTOI_0003_CHOICE2";"Stimme zu";"Agree"
-"TTOI_0003_CHOICE3";"Stimme größtenteils zu";"Mostly agree"
-"TTOI_0003_CHOICE4";"Stimme größtenteils nicht zu";"Mostly disagree"
-"TTOI_0003_CHOICE5";"Stimme nicht zu";"Disagree"
-"TTOI_0003_CHOICE6";"Stimme überhaupt nicht zu";"Strongly disagree"
-"TTOI_0003_PROMPT";"Man kann viele neue Dinge lernen, aber man kann seine Intelligenz nicht wirklich ändern.";"You can learn new things, but you can't really change your basic intelligence."
-"TTOI_0004_CHOICE1";"Stimme sehr zu";"Strongly agree"
-"TTOI_0004_CHOICE2";"Stimme zu";"Agree"
-"TTOI_0004_CHOICE3";"Stimme größtenteils zu";"Mostly agree"
-"TTOI_0004_CHOICE4";"Stimme größtenteils nicht zu";"Mostly disagree"
-"TTOI_0004_CHOICE5";"Stimme nicht zu";"Disagree"
-"TTOI_0004_CHOICE6";"Stimme überhaupt nicht zu";"Strongly disagree"
-"TTOI_0004_PROMPT";"Wenn ich weiß, dass ich eine Aufgabe nicht gut machen kann, mache ich sie eher nicht, auch wenn ich vielleicht dabei viel lernen würde.";"If I knew I wasn't going to do well at a task, I probably wouldn't do it even if I might learn a lot from it."
-"TTOI_0005_CHOICE1";"Stimme sehr zu";"Strongly agree"
-"TTOI_0005_CHOICE2";"Stimme zu";"Agree"
-"TTOI_0005_CHOICE3";"Stimme größtenteils zu";"Mostly agree"
-"TTOI_0005_CHOICE4";"Stimme größtenteils nicht zu";"Mostly disagree"
-"TTOI_0005_CHOICE5";"Stimme nicht zu";"Disagree"
-"TTOI_0005_CHOICE6";"Stimme überhaupt nicht zu";"Strongly disagree"
-"TTOI_0005_PROMPT";"Intelligenz hat etwas mit einem selber zu tun, was man nicht wirklich ändern kann.";"Your intelligence is something about you that you can't change very much."
-"TTOI_0006_CHOICE1";"Stimme sehr zu";"Strongly agree"
-"TTOI_0006_CHOICE2";"Stimme zu";"Agree"
-"TTOI_0006_CHOICE3";"Stimme größtenteils zu";"Mostly agree"
-"TTOI_0006_CHOICE4";"Stimme größtenteils nicht zu";"Mostly disagree"
-"TTOI_0006_CHOICE5";"Stimme nicht zu";"Disagree"
-"TTOI_0006_CHOICE6";"Stimme überhaupt nicht zu";"Strongly disagree"
-"TTOI_0006_PROMPT";"Es ist mir viel wichtiger, Dinge im Unterricht zu lernen, als gute Noten zu haben.";"It's much more important for me to learn things in my class than it is to get the best grades."
-"TTOI_0007_CHOICE1";"Stimme sehr zu";"Strongly agree"
-"TTOI_0007_CHOICE2";"Stimme zu";"Agree"
-"TTOI_0007_CHOICE3";"Stimme größtenteils zu";"Mostly agree"
-"TTOI_0007_CHOICE4";"Stimme größtenteils nicht zu";"Mostly disagree"
-"TTOI_0007_CHOICE5";"Stimme nicht zu";"Disagree"
-"TTOI_0007_CHOICE6";"Stimme überhaupt nicht zu";"Strongly disagree"
-"TTOI_0007_PROMPT";"Auch wenn ich es nicht gerne zugeben möchte, würde ich lieber gut in der Schule sein, als viel zu lernen.";"Although I hate to admit it, I sometimes would rather do well in a class than learn a lot."
-"TTOI_0008_CHOICE1";"gute Noten zu bekommen.";"getting a good grade"
-"TTOI_0008_CHOICE2";"Herausforderungen gestellt zu bekommen.";"being challenged"
-"TTOI_0008_PROMPT";"Wenn ich die Wahl hätte, zwischen guten Noten und Herausforderungen in der Schule, würde ich mich dafür entscheiden, …";"If I had to choose between getting a good grade and being challenged in class, I would choose ..."
+key;de;en;de_f;it;es;lv
+TTOI_0000_PROMPT;Fragebogen zur Selbsttheorie der Intelligenz;Theory of Intelligence Questionnaire;Fragebogen zur Selbsttheorie der Intelligenz;Theory of Intelligence Questionnaire;Theory of Intelligence Questionnaire;**Inteliģences teorijas aptauja**
+TTOI_0001_PROMPT;Lies die unten stehenden Sätze. In diesen Sätzen geht es um Intelligenz (Schlauheit/Klugheit). Gib an, inwieweit du den Sätzen zustimmst. Es gibt keine richtigen oder falschen Antworten.;Read each sentence below and select the one option that shows how much you agree with it. There are no right or wrong answers.;Lies die unten stehenden Sätze. In diesen Sätzen geht es um Intelligenz (Schlauheit/Klugheit). Gib an, inwieweit du den Sätzen zustimmst. Es gibt keine richtigen oder falschen Antworten.;Read each sentence below and select the one option that shows how much you agree with it. There are no right or wrong answers.;Read each sentence below and select the one option that shows how much you agree with it. There are no right or wrong answers.;Izlasi apgalvojumus un izvēlies vienu variantu, kas norāda, cik ļoti lielā mērā tu tam piekrīti. Te nav pareizu vai nepareizu atbilžu. .
+TTOI_0002_CHOICE1;Stimme sehr zu;Strongly agree;Stimme sehr zu;Strongly agree;Strongly agree;lielā mērā piekrītu
+TTOI_0002_CHOICE2;Stimme zu;Agree;Stimme zu;Agree;Agree;piekrītu
+TTOI_0002_CHOICE3;Stimme größtenteils zu;Mostly agree;Stimme größtenteils zu;Mostly agree;Mostly agree;lielākoties piekrītu
+TTOI_0002_CHOICE4;Stimme größtenteils nicht zu;Mostly disagree;Stimme größtenteils nicht zu;Mostly disagree;Mostly disagree;lielākoties nepiekrītu
+TTOI_0002_CHOICE5;Stimme nicht zu;Disagree;Stimme nicht zu;Disagree;Disagree;nepiekrītu
+TTOI_0002_CHOICE6;Stimme überhaupt nicht zu;Strongly disagree;Stimme überhaupt nicht zu;Strongly disagree;Strongly disagree;lielā mērā nepiekrītu
+TTOI_0002_PROMPT;Man hat einen bestimmten Grad an Intelligenz und kann nicht viel tun, um das zu ändern.;You have a certain amount of intelligence, and you really can't do much to change it.;Man hat einen bestimmten Grad an Intelligenz und kann nicht viel tun, um das zu ändern.;You have a certain amount of intelligence, and you really can't do much to change it.;You have a certain amount of intelligence, and you really can't do much to change it.;Tev ir noteikts inteliģences līmenis, un tu neko daudz nevari mainīt.
+TTOI_0003_CHOICE1;Stimme sehr zu;Strongly agree;Stimme sehr zu;Strongly agree;Strongly agree;lielā mērā piekrītu
+TTOI_0003_CHOICE2;Stimme zu;Agree;Stimme zu;Agree;Agree;piekrītu
+TTOI_0003_CHOICE3;Stimme größtenteils zu;Mostly agree;Stimme größtenteils zu;Mostly agree;Mostly agree;lielākoties piekrītu
+TTOI_0003_CHOICE4;Stimme größtenteils nicht zu;Mostly disagree;Stimme größtenteils nicht zu;Mostly disagree;Mostly disagree;lielākoties nepiekrītu
+TTOI_0003_CHOICE5;Stimme nicht zu;Disagree;Stimme nicht zu;Disagree;Disagree;nepiekrītu
+TTOI_0003_CHOICE6;Stimme überhaupt nicht zu;Strongly disagree;Stimme überhaupt nicht zu;Strongly disagree;Strongly disagree;lielā mērā nepiekrītu
+TTOI_0003_PROMPT;Man kann viele neue Dinge lernen, aber man kann seine Intelligenz nicht wirklich ändern.;You can learn new things, but you can't really change your basic intelligence.;Man kann viele neue Dinge lernen, aber man kann seine Intelligenz nicht wirklich ändern.;You can learn new things, but you can't really change your basic intelligence.;You can learn new things, but you can't really change your basic intelligence.;Tu vari mācīties jaunas lietas, bet tu īsti nevari mainīt savu vispārējo inteliģenci.
+TTOI_0004_CHOICE1;Stimme sehr zu;Strongly agree;Stimme sehr zu;Strongly agree;Strongly agree;lielā mērā piekrītu
+TTOI_0004_CHOICE2;Stimme zu;Agree;Stimme zu;Agree;Agree;piekrītu
+TTOI_0004_CHOICE3;Stimme größtenteils zu;Mostly agree;Stimme größtenteils zu;Mostly agree;Mostly agree;lielākoties piekrītu
+TTOI_0004_CHOICE4;Stimme größtenteils nicht zu;Mostly disagree;Stimme größtenteils nicht zu;Mostly disagree;Mostly disagree;lielākoties nepiekrītu
+TTOI_0004_CHOICE5;Stimme nicht zu;Disagree;Stimme nicht zu;Disagree;Disagree;nepiekrītu
+TTOI_0004_CHOICE6;Stimme überhaupt nicht zu;Strongly disagree;Stimme überhaupt nicht zu;Strongly disagree;Strongly disagree;lielā mērā nepiekrītu
+TTOI_0004_PROMPT;Wenn ich weiß, dass ich eine Aufgabe nicht gut machen kann, mache ich sie eher nicht, auch wenn ich vielleicht dabei viel lernen würde.;If I knew I wasn't going to do well at a task, I probably wouldn't do it even if I might learn a lot from it.;Wenn ich weiß, dass ich eine Aufgabe nicht gut machen kann, mache ich sie eher nicht, auch wenn ich vielleicht dabei viel lernen würde.;If I knew I wasn't going to do well at a task, I probably wouldn't do it even if I might learn a lot from it.;If I knew I wasn't going to do well at a task, I probably wouldn't do it even if I might learn a lot from it.;Ja es zinātu, ka man kāds uzdevums neizdosies, laikam to vispār nepildītu, lai gan varētu no tā daudz iemācītes.
+TTOI_0005_CHOICE1;Stimme sehr zu;Strongly agree;Stimme sehr zu;Strongly agree;Strongly agree;lielā mērā piekrītu
+TTOI_0005_CHOICE2;Stimme zu;Agree;Stimme zu;Agree;Agree;piekrītu
+TTOI_0005_CHOICE3;Stimme größtenteils zu;Mostly agree;Stimme größtenteils zu;Mostly agree;Mostly agree;lielākoties piekrītu
+TTOI_0005_CHOICE4;Stimme größtenteils nicht zu;Mostly disagree;Stimme größtenteils nicht zu;Mostly disagree;Mostly disagree;lielākoties nepiekrītu
+TTOI_0005_CHOICE5;Stimme nicht zu;Disagree;Stimme nicht zu;Disagree;Disagree;nepiekrītu
+TTOI_0005_CHOICE6;Stimme überhaupt nicht zu;Strongly disagree;Stimme überhaupt nicht zu;Strongly disagree;Strongly disagree;lielā mērā nepiekrītu
+TTOI_0005_PROMPT;Intelligenz hat etwas mit einem selber zu tun, was man nicht wirklich ändern kann.;Your intelligence is something about you that you can't change very much.;Intelligenz hat etwas mit einem selber zu tun, was man nicht wirklich ändern kann.;Your intelligence is something about you that you can't change very much.;Your intelligence is something about you that you can't change very much.;Tava inteliģence ir kaut kas tev raksturīgs, un tu to nevari daudz mainīt.
+TTOI_0006_CHOICE1;Stimme sehr zu;Strongly agree;Stimme sehr zu;Strongly agree;Strongly agree;lielā mērā piekrītu
+TTOI_0006_CHOICE2;Stimme zu;Agree;Stimme zu;Agree;Agree;piekrītu
+TTOI_0006_CHOICE3;Stimme größtenteils zu;Mostly agree;Stimme größtenteils zu;Mostly agree;Mostly agree;lielākoties piekrītu
+TTOI_0006_CHOICE4;Stimme größtenteils nicht zu;Mostly disagree;Stimme größtenteils nicht zu;Mostly disagree;Mostly disagree;lielākoties nepiekrītu
+TTOI_0006_CHOICE5;Stimme nicht zu;Disagree;Stimme nicht zu;Disagree;Disagree;nepiekrītu
+TTOI_0006_CHOICE6;Stimme überhaupt nicht zu;Strongly disagree;Stimme überhaupt nicht zu;Strongly disagree;Strongly disagree;lielā mērā nepiekrītu
+TTOI_0006_PROMPT;Es ist mir viel wichtiger, Dinge im Unterricht zu lernen, als gute Noten zu haben.;It's much more important for me to learn things in my class than it is to get the best grades.;Es ist mir viel wichtiger, Dinge im Unterricht zu lernen, als gute Noten zu haben.;It's much more important for me to learn things in my class than it is to get the best grades.;It's much more important for me to learn things in my class than it is to get the best grades.;Man ir daudz svarīgāk stundās iemācīties kaut ko jaunu, nevis iegūt labākās atzīmes.
+TTOI_0007_CHOICE1;Stimme sehr zu;Strongly agree;Stimme sehr zu;Strongly agree;Strongly agree;lielā mērā piekrītu
+TTOI_0007_CHOICE2;Stimme zu;Agree;Stimme zu;Agree;Agree;piekrītu
+TTOI_0007_CHOICE3;Stimme größtenteils zu;Mostly agree;Stimme größtenteils zu;Mostly agree;Mostly agree;lielākoties piekrītu
+TTOI_0007_CHOICE4;Stimme größtenteils nicht zu;Mostly disagree;Stimme größtenteils nicht zu;Mostly disagree;Mostly disagree;lielākoties nepiekrītu
+TTOI_0007_CHOICE5;Stimme nicht zu;Disagree;Stimme nicht zu;Disagree;Disagree;nepiekrītu
+TTOI_0007_CHOICE6;Stimme überhaupt nicht zu;Strongly disagree;Stimme überhaupt nicht zu;Strongly disagree;Strongly disagree;lielā mērā nepiekrītu
+TTOI_0007_PROMPT;Auch wenn ich es nicht gerne zugeben möchte, würde ich lieber gut in der Schule sein, als viel zu lernen.;Although I hate to admit it, I sometimes would rather do well in a class than learn a lot.;Auch wenn ich es nicht gerne zugeben möchte, würde ich lieber gut in der Schule sein, als viel zu lernen.;Although I hate to admit it, I sometimes would rather do well in a class than learn a lot.;Although I hate to admit it, I sometimes would rather do well in a class than learn a lot.;Lai kā man negribētos to atzīt, labāk būtu paveicis vairāk stundā, lai man pēc tam nebūtu tik daudz jāmācās.
+TTOI_0008_CHOICE1;gute Noten zu bekommen.;getting a good grade;gute Noten zu bekommen.;getting a good grade;getting a good grade;saņemt labu atzīmi
+TTOI_0008_CHOICE2;Herausforderungen gestellt zu bekommen.;being challenged;Herausforderungen gestellt zu bekommen.;being challenged;being challenged;tikt izaicinātam
+TTOI_0008_PROMPT;Wenn ich die Wahl hätte, zwischen guten Noten und Herausforderungen in der Schule, würde ich mich dafür entscheiden, …;If I had to choose between getting a good grade and being challenged in class, I would choose ...;Wenn ich die Wahl hätte, zwischen guten Noten und Herausforderungen in der Schule, würde ich mich dafür entscheiden, …;If I had to choose between getting a good grade and being challenged in class, I would choose ...;If I had to choose between getting a good grade and being challenged in class, I would choose ...;Ja man būtu jāizvēlas starp labas atzīmes iegūšanu un sevis izaicināšanu mācību priekšmetā, es izvēlētos...

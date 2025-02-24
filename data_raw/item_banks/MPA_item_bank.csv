@@ -1,0 +1,37 @@
+main_id;language;template;score_func;subscales;layout
+TMPA_0002;en;2-option multiple choice;function(x) x;Playing an instrument;horizontal
+TMPA_0002;lv;2-option multiple choice;function(x) x;Playing an instrument;horizontal
+TMPA_0003;en;7-option multiple choice;function(x) x;Somatic and cognitive features;vertical
+TMPA_0003;lv;7-option multiple choice;function(x) x;Somatic and cognitive features;vertical
+TMPA_0004;en;7-option multiple choice;function(x) x;Somatic and cognitive features;vertical
+TMPA_0004;lv;7-option multiple choice;function(x) x;Somatic and cognitive features;vertical
+TMPA_0005;en;7-option multiple choice;function(x) x;Performance context;vertical
+TMPA_0005;lv;7-option multiple choice;function(x) x;Performance context;vertical
+TMPA_0006;en;7-option multiple choice;function(x) x;Somatic and cognitive features;vertical
+TMPA_0006;lv;7-option multiple choice;function(x) x;Somatic and cognitive features;vertical
+TMPA_0007;en;7-option multiple choice;function(x) x;Somatic and cognitive features;vertical
+TMPA_0007;lv;7-option multiple choice;function(x) x;Somatic and cognitive features;vertical
+TMPA_0008;en;7-option multiple choice;function(x) x;Somatic and cognitive features;vertical
+TMPA_0008;lv;7-option multiple choice;function(x) x;Somatic and cognitive features;vertical
+TMPA_0009;en;7-option multiple choice;function(x) x;Performance evaluation;vertical
+TMPA_0009;lv;7-option multiple choice;function(x) x;Performance evaluation;vertical
+TMPA_0010;en;7-option multiple choice;function(x) x;Performance evaluation;vertical
+TMPA_0010;lv;7-option multiple choice;function(x) x;Performance evaluation;vertical
+TMPA_0011;en;7-option multiple choice;function(x) x;Somatic and cognitive features;vertical
+TMPA_0011;lv;7-option multiple choice;function(x) x;Somatic and cognitive features;vertical
+TMPA_0012;en;7-option multiple choice;function(x) 6-x;Performance evaluation;vertical
+TMPA_0012;lv;7-option multiple choice;function(x) 6-x;Performance evaluation;vertical
+TMPA_0013;en;7-option multiple choice;function(x) x;Performance context;vertical
+TMPA_0013;lv;7-option multiple choice;function(x) x;Performance context;vertical
+TMPA_0014;en;7-option multiple choice;function(x) x;Somatic and cognitive features;vertical
+TMPA_0014;lv;7-option multiple choice;function(x) x;Somatic and cognitive features;vertical
+TMPA_0015;en;7-option multiple choice;function(x) x;Performance evaluation;vertical
+TMPA_0015;lv;7-option multiple choice;function(x) x;Performance evaluation;vertical
+TMPA_0016;en;7-option multiple choice;function(x) x;Performance context;vertical
+TMPA_0016;lv;7-option multiple choice;function(x) x;Performance context;vertical
+TMPA_0017;en;7-option multiple choice;function(x) x;Somatic and cognitive features;vertical
+TMPA_0017;lv;7-option multiple choice;function(x) x;Somatic and cognitive features;vertical
+TMPA_0001;en;;;;
+TMPA_0001;lv;;;;
+TMPA_0000;en;;;;
+TMPA_0000;lv;;;;

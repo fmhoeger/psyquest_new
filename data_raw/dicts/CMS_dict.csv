@@ -1,0 +1,57 @@
+key;de;en
+TCMS_0000_PROMPT;Fragebogen zur Musikalität von Kindern - Kurzversion;Musicality Test for Children - Short Version
+TCMS_0001_PROMPT;"Bitte denken Sie bei jeder der folgenden Fragen an Ihr Kind und beantworten Sie jede Aussage auf einer Skala von „stimme überhaupt nicht zu“ bzw. „nie“ bis „stimme voll und ganz zu“ bzw. „immer“. Es gibt keine richtigen oder falschen Antworten, bitte wählen Sie die Antwort aus, die am ehesten auf Ihr Kind zutrifft.Bitte beantworten Sie die folgenden Fragen nur für eines Ihrer Kinder, falls Sie mehr als eines haben.";"For each of the following questions, please think about your child and answer each statement on a scale from “strongly disagree” or “never” to “strongly agree” or “always”. There are no right or wrong answers, please choose the answer that best applies to your child. Please answer all the following questions for only one of your children, if you have more than one."
+TCMS_0002_CHOICE1;Stimme überhaupt nicht zu;Totally disagree
+TCMS_0002_CHOICE2;Stimme nicht zu;Disagree
+TCMS_0002_CHOICE3;Weder noch;Neither agree nor disagree
+TCMS_0002_CHOICE4;Stimme zu;Agree
+TCMS_0002_CHOICE5;Stimme voll und ganz zu;Totally agree
+TCMS_0002_PROMPT;Mein Kind hat ein gutes Gespür für Timing und Rhythmus. ;My child has a good sense of timing and rhythm.
+TCMS_0003_CHOICE1;Stimme überhaupt nicht zu;Totally disagree
+TCMS_0003_CHOICE2;Stimme nicht zu;Disagree
+TCMS_0003_CHOICE3;Weder noch;Neither agree nor disagree
+TCMS_0003_CHOICE4;Stimme zu;Agree
+TCMS_0003_CHOICE5;Stimme voll und ganz zu;Totally agree
+TCMS_0003_PROMPT;Mein Kind hat oft den Wunsch, Musik zu machen.;My child often has the desire to make music.
+TCMS_0004_CHOICE1;Stimme überhaupt nicht zu;Totally disagree
+TCMS_0004_CHOICE2;Stimme nicht zu;Disagree
+TCMS_0004_CHOICE3;Weder noch;Neither agree nor disagree
+TCMS_0004_CHOICE4;Stimme zu;Agree
+TCMS_0004_CHOICE5;Stimme voll und ganz zu;Totally agree
+TCMS_0004_PROMPT;Mein Kind hat ein Gefühl für den Takt.;My child has a feeling for the beat.
+TCMS_0005_CHOICE1;Stimme überhaupt nicht zu;Totally disagree
+TCMS_0005_CHOICE2;Stimme nicht zu;Disagree
+TCMS_0005_CHOICE3;Weder noch;Neither agree nor disagree
+TCMS_0005_CHOICE4;Stimme zu;Agree
+TCMS_0005_CHOICE5;Stimme voll und ganz zu;Totally agree
+TCMS_0005_PROMPT;Mein Kind hat eine gute Hörfähigkeit, z.B. für Melodien und Rhythmen.;My child has a good hearing ability, e.g. for melodies and rhythms.
+TCMS_0006_CHOICE1;Nie;Never
+TCMS_0006_CHOICE2;Selten;Rarely
+TCMS_0006_CHOICE3;Manchmal;Sometimes
+TCMS_0006_CHOICE4;Oft;Often
+TCMS_0006_CHOICE5;Immer;Always
+TCMS_0006_PROMPT;Mein Kind hat Schwierigkeiten, Musik zu produzieren oder zu reproduzieren;My child shows difficulties in producing or reproducing music.
+TCMS_0007_CHOICE1;Nie;Never
+TCMS_0007_CHOICE2;Selten;Rarely
+TCMS_0007_CHOICE3;Manchmal;Sometimes
+TCMS_0007_CHOICE4;Oft;Often
+TCMS_0007_CHOICE5;Immer;Always
+TCMS_0007_PROMPT;Mein Kind hat große Begeisterung für Musik.;My child has great enthusiasm for music.
+TCMS_0008_CHOICE1;Nie;Never
+TCMS_0008_CHOICE2;Selten;Rarely
+TCMS_0008_CHOICE3;Manchmal;Sometimes
+TCMS_0008_CHOICE4;Oft;Often
+TCMS_0008_CHOICE5;Immer;Always
+TCMS_0008_PROMPT;Mein Kind passt beim Musikmachen wenig auf, sodass es nicht merkt, ob es so klingt wie beabsichtigt. ;My child pays little attention while making music, so he/she does not realize if it sounds as intended.
+TCMS_0009_CHOICE1;Nie;Never
+TCMS_0009_CHOICE2;Selten;Rarely
+TCMS_0009_CHOICE3;Manchmal;Sometimes
+TCMS_0009_CHOICE4;Oft;Often
+TCMS_0009_CHOICE5;Immer;Always
+TCMS_0009_PROMPT;Mein Kind genießt Musikmachen als Teil seines Lebens.;My child enjoys making music as a part of his/her life.
+TCMS_0010_CHOICE1;Nie;Never
+TCMS_0010_CHOICE2;Selten;Rarely
+TCMS_0010_CHOICE3;Manchmal;Sometimes
+TCMS_0010_CHOICE4;Oft;Often
+TCMS_0010_CHOICE5;Immer;Always
+TCMS_0010_PROMPT;Mein Kind hat Probleme, Melodien, die es zuvor gehört hat, zu reproduzieren.;My child has issues reproducing melodies he/she has heard before.

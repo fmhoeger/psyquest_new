@@ -30,6 +30,7 @@ SEM <- function(label = "SEM",
                       subscales = subscales),
     subscales = subscales,
     offset = 1,
-    arrange_vertically = FALSE
+    arrange_vertically = FALSE,
+    dict = dict
   )
 }

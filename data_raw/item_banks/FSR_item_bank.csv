@@ -1,0 +1,33 @@
+main_id;language;template;score_func;subscales;layout
+TFSR_0001;de;7-option multiple choice;function(x) x+0;Absorption;horizontal
+TFSR_0001;en;7-option multiple choice;function(x) x+0;Absorption;horizontal
+TFSR_0002;de;7-option multiple choice;function(x) x+0;Fluency of performance;horizontal
+TFSR_0002;en;7-option multiple choice;function(x) x+0;Fluency of performance;horizontal
+TFSR_0003;de;7-option multiple choice;function(x) x+0;Absorption;horizontal
+TFSR_0003;en;7-option multiple choice;function(x) x+0;Absorption;horizontal
+TFSR_0004;de;7-option multiple choice;function(x) x+0;Fluency of performance;horizontal
+TFSR_0004;en;7-option multiple choice;function(x) x+0;Fluency of performance;horizontal
+TFSR_0005;de;7-option multiple choice;function(x) x+0;Fluency of performance;horizontal
+TFSR_0005;en;7-option multiple choice;function(x) x+0;Fluency of performance;horizontal
+TFSR_0006;de;7-option multiple choice;function(x) x+0;Absorption;horizontal
+TFSR_0006;en;7-option multiple choice;function(x) x+0;Absorption;horizontal
+TFSR_0007;de;7-option multiple choice;function(x) x+0;Fluency of performance;horizontal
+TFSR_0007;en;7-option multiple choice;function(x) x+0;Fluency of performance;horizontal
+TFSR_0008;de;7-option multiple choice;function(x) x+0;Fluency of performance;horizontal
+TFSR_0008;en;7-option multiple choice;function(x) x+0;Fluency of performance;horizontal
+TFSR_0009;de;7-option multiple choice;function(x) x+0;Fluency of performance;horizontal
+TFSR_0009;en;7-option multiple choice;function(x) x+0;Fluency of performance;horizontal
+TFSR_0010;de;7-option multiple choice;function(x) x+0;Absorption;horizontal
+TFSR_0010;en;7-option multiple choice;function(x) x+0;Absorption;horizontal
+TFSR_0011;de;7-option multiple choice;function(x) x+0;Importance;horizontal
+TFSR_0011;en;7-option multiple choice;function(x) x+0;Importance;horizontal
+TFSR_0012;de;7-option multiple choice;function(x) x+0;Importance;horizontal
+TFSR_0012;en;7-option multiple choice;function(x) x+0;Importance;horizontal
+TFSR_0013;de;7-option multiple choice;function(x) x+0;Importance;horizontal
+TFSR_0013;en;7-option multiple choice;function(x) x+0;Importance;horizontal
+TFSR_0014;de;9-option multiple choice;function(x) x+0;Demands;horizontal
+TFSR_0014;en;9-option multiple choice;function(x) x+0;Demands;horizontal
+TFSR_0015;de;9-option multiple choice;function(x) x+0;Skills;horizontal
+TFSR_0015;en;9-option multiple choice;function(x) x+0;Skills;horizontal
+TFSR_0016;de;9-option multiple choice;function(x) x+0;Demand Fit;horizontal
+TFSR_0016;en;9-option multiple choice;function(x) x+0;Demand Fit;horizontal

@@ -1,351 +1,351 @@
-"key";"de";"en"
-"TGMS_0000_PROMPT";"Gold-MSI Fragebogen zur musikalischen Erfahrenheit";"Goldsmiths Musical Sophistication Index"
-"TGMS_0001_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0001_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0001_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0001_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0001_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0001_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0001_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0001_PROMPT";"Ich beschäftige mich in meiner Freizeit viel mit musikbezogenen Aktivitäten.";"I spend a lot of my free time doing music-related activities."
-"TGMS_0002_CHOICE1";"0";"0"
-"TGMS_0002_CHOICE2";"1";"1"
-"TGMS_0002_CHOICE3";"2";"2"
-"TGMS_0002_CHOICE4";"3";"3"
-"TGMS_0002_CHOICE5";"4-5";"4-5"
-"TGMS_0002_CHOICE6";"6-9";"6-9"
-"TGMS_0002_CHOICE7";"10 oder mehr Jahre";"10 or more"
-"TGMS_0002_PROMPT";"Ich habe regelmäßig und täglich ein Instrument (einschließlich Gesang) für _ Jahre geübt.";"I engaged in regular, daily practice of a musical instrument (including voice) for the following number of years:"
-"TGMS_0003_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0003_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0003_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0003_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0003_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0003_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0003_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0003_PROMPT";"Ich suche oft Musik aus, bei der ich eine Gänsehaut bekomme.";"I sometimes choose music that can trigger shivers down my spine."
-"TGMS_0004_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0004_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0004_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0004_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0004_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0004_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0004_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0004_PROMPT";"Ich schreibe gerne über Musik, z. B. in Internetblogs oder Foren.";"I enjoy writing about music, for example on blogs and forums."
-"TGMS_0005_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0005_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0005_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0005_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0005_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0005_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0005_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0005_PROMPT";"Wenn jemand anderes ein Lied singt, welches ich nicht kenne, kann ich normalerweise mitsingen.";"If somebody starts singing a song I don't know, I can usually join in."
-"TGMS_0006_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0006_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0006_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0006_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0006_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0006_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0006_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0006_PROMPT";"Ich kann beurteilen, ob jemand gut singt oder nicht.";"I am able to judge whether someone is a good singer or not."
-"TGMS_0007_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0007_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0007_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0007_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0007_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0007_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0007_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0007_PROMPT";"Meistens weiß ich, ob ich ein Lied zum ersten Mal höre.";"I usually know when I'm hearing a song for the first time."
-"TGMS_0008_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0008_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0008_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0008_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0008_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0008_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0008_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0008_PROMPT";"Ich kann auswendig singen oder Musik spielen.";"I can sing or play music from memory."
-"TGMS_0009_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0009_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0009_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0009_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0009_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0009_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0009_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0009_PROMPT";"Ich bin fasziniert von Musikstilen, mit denen ich nicht vertraut bin, und möchte mehr darüber erfahren.";"I'm intrigued by musical styles I'm not familiar with and want to find out more."
-"TGMS_0010_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0010_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0010_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0010_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0010_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0010_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0010_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0010_PROMPT";"Musikstücke rufen selten Gefühle in mir hervor.";"Pieces of music rarely evoke emotions for me."
-"TGMS_0011_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0011_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0011_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0011_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0011_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0011_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0011_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0011_PROMPT";"Ich bin in der Lage, die richtigen Töne zu treffen, wenn ich zu einer Aufnahme mitsinge.";"I am able to hit the right notes when I sing along with a recording."
-"TGMS_0012_CHOICE1";"0";"0"
-"TGMS_0012_CHOICE2";"0,5";"0.5"
-"TGMS_0012_CHOICE3";"1";"1"
-"TGMS_0012_CHOICE4";"1,5";"1.5"
-"TGMS_0012_CHOICE5";"2";"2"
-"TGMS_0012_CHOICE6";"3-4";"3-4"
-"TGMS_0012_CHOICE7";"5 oder mehr";"5 or more"
-"TGMS_0012_PROMPT";"An dem Höhepunkt meines Interesses habe ich mein Hauptinstrument (einschließlich Gesang) _ Stunden pro Tag geübt.";"At the peak of my interest, I practised my primary instrument (including voice) for the following number of hours per day:"
-"TGMS_0013_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0013_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0013_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0013_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0013_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0013_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0013_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0013_PROMPT";"Ich finde es schwierig, Fehler festzustellen, die ein Sänger macht, selbst wenn ich das Lied kenne.";"I find it difficult to spot mistakes in a performance of a song even if I know the tune."
-"TGMS_0014_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0014_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0014_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0014_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0014_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0014_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0014_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0014_PROMPT";"Ich kann zwei Interpretationen oder Versionen desselben Musikstücks miteinander vergleichen und über die Unterschiede diskutieren.";"I can compare and discuss differences between two performances or versions of the same piece of music."
-"TGMS_0015_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0015_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0015_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0015_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0015_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0015_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0015_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0015_PROMPT";"Es fällt mir schwer, ein bekanntes Lied zu erkennen, wenn es auf eine andere Weise oder von einem anderen Interpreten gespielt oder gesungen wird.";"I have trouble recognizing a familiar song when played in a different way or by a different performer."
-"TGMS_0016_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0016_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0016_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0016_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0016_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0016_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0016_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0016_PROMPT";"Ich bin noch nie für meine musikalischen Fähigkeiten gelobt worden.";"I have never been complimented for my talents as a musical performer."
-"TGMS_0017_CHOICE1";"0";"0"
-"TGMS_0017_CHOICE2";"1";"1"
-"TGMS_0017_CHOICE3";"2";"2"
-"TGMS_0017_CHOICE4";"3";"3"
-"TGMS_0017_CHOICE5";"4-6";"4-6"
-"TGMS_0017_CHOICE6";"7-10";"7-10"
-"TGMS_0017_CHOICE7";"11 oder mehr";"11 or more"
-"TGMS_0017_PROMPT";"Ich habe _ Live-Events oder Konzerte als Zuschauer innerhalb der letzten 12 Monate besucht.";"I have attended the following number of live music events as an audience member in the past twelve months:"
-"TGMS_0018_CHOICE1";"0";"0"
-"TGMS_0018_CHOICE2";"0,5";"0.5"
-"TGMS_0018_CHOICE3";"1";"1"
-"TGMS_0018_CHOICE4";"2";"2"
-"TGMS_0018_CHOICE5";"3";"3"
-"TGMS_0018_CHOICE6";"4-6";"4-6"
-"TGMS_0018_CHOICE7";"7 oder mehr";"7 or more"
-"TGMS_0018_PROMPT";"Ich habe _ Jahre Unterricht in Musiktheorie (außerhalb der Schule) erhalten.";"I have had formal training in music theory for the following number of years"
-"TGMS_0019_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0019_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0019_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0019_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0019_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0019_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0019_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0019_PROMPT";"Ich lese oder suche oft im Internet nach Dingen, die mit Musik zu tun haben.";"I often read or search the internet for things related to music."
-"TGMS_0020_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0020_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0020_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0020_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0020_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0020_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0020_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0020_PROMPT";"Ich suche häufig eine bestimmte Musik aus, um mich zu motivieren oder zu begeistern.";"I often pick certain music to motivate or excite me."
-"TGMS_0021_CHOICE1";"0";"0"
-"TGMS_0021_CHOICE2";"1";"1"
-"TGMS_0021_CHOICE3";"2";"2"
-"TGMS_0021_CHOICE4";"3";"3"
-"TGMS_0021_CHOICE5";"4-5";"4-5"
-"TGMS_0021_CHOICE6";"6-9";"6-9"
-"TGMS_0021_CHOICE7";"10 oder mehr";"10 or more"
-"TGMS_0021_PROMPT";"Ich habe _ Jahre Musikunterricht auf einem Instrument (einschließlich Gesang) in meinem bisherigen Leben gehabt.";"I have had formal training on a musical instrument (including voice) during my lifetime for the following number of years:"
-"TGMS_0022_CHOICE1";"0";"0"
-"TGMS_0022_CHOICE2";"1";"1"
-"TGMS_0022_CHOICE3";"2";"2"
-"TGMS_0022_CHOICE4";"3";"3"
-"TGMS_0022_CHOICE5";"4";"4"
-"TGMS_0022_CHOICE6";"5";"5"
-"TGMS_0022_CHOICE7";"6 oder mehr";"6 or more"
-"TGMS_0022_PROMPT";"Ich kann _ verschiedene Instrumente (einschließlich Gesang) spielen.";"I can play the following number of musical instruments (including voice):"
-"TGMS_0023_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0023_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0023_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0023_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0023_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0023_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0023_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0023_PROMPT";"Wenn jemand anders ein Lied singt, das ich kenne, kann ich eine zweite Stimme dazu singen.";"I am able to sing in harmony when somebody is singing a familiar tune."
-"TGMS_0024_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0024_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0024_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0024_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0024_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0024_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0024_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0024_PROMPT";"Ich kann beurteilen, ob jemand nicht im Rhythmus mit der Musik singt oder spielt.";"I can tell when people sing or play out of time with the beat."
-"TGMS_0025_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0025_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0025_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0025_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0025_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0025_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0025_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0025_PROMPT";"Ich kann identifizieren, was das Besondere an einem bestimmten Musikstück ist.";"I am able to identify what is special about a given musical piece."
-"TGMS_0026_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0026_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0026_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0026_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0026_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0026_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0026_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0026_PROMPT";"Ich bin in der Lage, über meine Gefühle, die durch Musik hervorgerufen werden, zu sprechen.";"I am able to talk about the emotions that a piece of music evokes for me."
-"TGMS_0027_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0027_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0027_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0027_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0027_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0027_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0027_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0027_PROMPT";"Ich gebe nicht viel Geld meines verfügbaren Einkommens für Musik aus.";"I don't spend much of my disposable income on music."
-"TGMS_0028_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0028_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0028_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0028_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0028_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0028_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0028_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0028_PROMPT";"Ich kann beurteilen, ob jemand falsch oder richtig singt oder spielt.";"I can tell when people sing or play out of tune."
-"TGMS_0029_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0029_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0029_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0029_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0029_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0029_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0029_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0029_PROMPT";"Wenn ich singe, habe ich keine Ahnung, ob ich richtig oder falsch singe.";"When I sing, I have no idea whether I'm in tune or not."
-"TGMS_0030_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0030_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0030_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0030_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0030_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0030_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0030_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0030_PROMPT";"Musik ist für mich eine Art von Sucht &ndash; ohne sie könnte ich nicht leben.";"Music is kind of an addiction for me &ndash; I couldn't live without it."
-"TGMS_0031_CHOICE1";"0-15 min";"0-15 min"
-"TGMS_0031_CHOICE2";"15-30 min";"15-30 min"
-"TGMS_0031_CHOICE3";"30-60 min";"30-60 min"
-"TGMS_0031_CHOICE4";"60-90 min";"60-90 min"
-"TGMS_0031_CHOICE5";"2 Std.";"2 h"
-"TGMS_0031_CHOICE6";"2-3 Std.";"2-3 h"
-"TGMS_0031_CHOICE7";"4 Std. oder mehr";"4 h or more"
-"TGMS_0031_PROMPT";"Ich höre jeden Tag aufmerksam Musik für";"I listen attentively to music for the following amount of time per day:"
-"TGMS_0032_CHOICE1";"Ich spiele kein Instrument.";"I don't play any instrument."
-"TGMS_0032_CHOICE10";"Fagott";"bassoon"
-"TGMS_0032_CHOICE11";"Trompete";"trumpet"
-"TGMS_0032_CHOICE12";"Posaune";"trombone"
-"TGMS_0032_CHOICE13";"Tuba";"tuba"
-"TGMS_0032_CHOICE14";"Saxophon";"saxophone"
-"TGMS_0032_CHOICE15";"Horn";"horn"
-"TGMS_0032_CHOICE16";"Violine";"violin"
-"TGMS_0032_CHOICE17";"Cello";"cello"
-"TGMS_0032_CHOICE18";"Bratsche";"viola"
-"TGMS_0032_CHOICE19";"Kontrabass";"double bass"
-"TGMS_0032_CHOICE2";"Gesang";"voice"
-"TGMS_0032_CHOICE20";"Harfe";"harp"
-"TGMS_0032_CHOICE21";"andere";"other"
-"TGMS_0032_CHOICE3";"Klavier";"piano"
-"TGMS_0032_CHOICE4";"Gitarre";"guitar"
-"TGMS_0032_CHOICE5";"Schlagzeug";"drums"
-"TGMS_0032_CHOICE6";"Xylophon";"xylophone"
-"TGMS_0032_CHOICE7";"Flöte";"flute"
-"TGMS_0032_CHOICE8";"Oboe";"oboe"
-"TGMS_0032_CHOICE9";"Klarinette";"clarinet"
-"TGMS_0032_PROMPT";"Das Instrument (einschließlich Gesang), welches ich am besten spiele ist _ .";"The instrument I play best (including voice) is:"
-"TGMS_0033_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0033_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0033_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0033_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0033_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0033_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0033_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0033_PROMPT";"Ich singe nicht gerne in der Öffentlichkeit, weil ich Angst habe, falsche Töne zu treffen.";"I don't like singing in public because I'm afraid that I would sing wrong notes."
-"TGMS_0034_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0034_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0034_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0034_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0034_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0034_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0034_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0034_PROMPT";"Wenn ich ein Musikstück höre, kann ich normalerweise die Stilrichtung erkennen.";"When I hear a piece of music I can usually identify its genre."
-"TGMS_0035_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0035_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0035_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0035_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0035_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0035_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0035_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0035_PROMPT";"Ich würde mich selbst nicht als MusikerIn bezeichnen.";"I would not consider myself a musician."
-"TGMS_0036_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0036_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0036_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0036_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0036_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0036_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0036_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0036_PROMPT";"Ich halte mich auf dem Laufenden, was neue Musik angeht (z. B. neue Künstler oder Aufnahmen).";"I keep track of new music that I come across (e.g. new artists or recordings)."
-"TGMS_0037_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0037_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0037_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0037_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0037_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0037_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0037_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0037_PROMPT";"Wenn ich einen Song zwei- oder dreimal gehört habe, kann ich ihn meistens alleine singen.";"After hearing a new song two or three times, I can usually sing it by myself."
-"TGMS_0038_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0038_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0038_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0038_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0038_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0038_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0038_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0038_PROMPT";"Ich brauche eine neue Melodie nur einmal zu hören, dann kann ich sie auch Stunden später noch singen.";"I only need to hear a new tune once and I can sing it back hours later."
-"TGMS_0039_CHOICE1";"Stimme ganz und gar nicht zu";"Completely disagree"
-"TGMS_0039_CHOICE2";"Stimme nicht zu";"Strongly disagree"
-"TGMS_0039_CHOICE3";"Stimme eher nicht zu";"Disagree"
-"TGMS_0039_CHOICE4";"Weder noch";"Neither agree nor disagree"
-"TGMS_0039_CHOICE5";"Stimme eher zu";"Agree"
-"TGMS_0039_CHOICE6";"Stimme zu";"Strongly agree"
-"TGMS_0039_CHOICE7";"Stimme voll und ganz zu";"Completely agree"
-"TGMS_0039_PROMPT";"Musik kann bei mir Erinnerungen an Personen und Orte hervorrufen.";"Music can evoke my memories of past people and places."
-"TGMS_0040_CHOICE1";"2";"2"
-"TGMS_0040_CHOICE10";"11";"11"
-"TGMS_0040_CHOICE11";"12";"12"
-"TGMS_0040_CHOICE12";"13";"13"
-"TGMS_0040_CHOICE13";"14";"14"
-"TGMS_0040_CHOICE14";"15";"15"
-"TGMS_0040_CHOICE15";"16";"16"
-"TGMS_0040_CHOICE16";"17";"17"
-"TGMS_0040_CHOICE17";"18";"18"
-"TGMS_0040_CHOICE18";"19";"19"
-"TGMS_0040_CHOICE19";"Ich spiele kein Instrument.";"I don't play any instrument."
-"TGMS_0040_CHOICE2";"3";"3"
-"TGMS_0040_CHOICE3";"4";"4"
-"TGMS_0040_CHOICE4";"5";"5"
-"TGMS_0040_CHOICE5";"6";"6"
-"TGMS_0040_CHOICE6";"7";"7"
-"TGMS_0040_CHOICE7";"8";"8"
-"TGMS_0040_CHOICE8";"9";"9"
-"TGMS_0040_CHOICE9";"10";"10"
-"TGMS_0040_PROMPT";"Mit wie viel Jahren hast du angefangen, ein Instrument zu spielen?";"What age did you start to play an instrument?"
-"TGMS_0041_CHOICE1";"Ja";"yes"
-"TGMS_0041_CHOICE2";"Nein";"no"
-"TGMS_0041_PROMPT";"Hast du ein absolutes Gehör? Ein absolutes Gehör ist die Fähigkeit, einen Ton in Isolation ohne Bezugston zu erkennen und zu benennen, z. B. in der Lage zu sein, ein Fis zu erkennen, wenn jemand ein Fis auf dem Klavier spielt.";"Do you have absolute pitch? Absolute or perfect pitch is the ability to recognise and name an isolated musical tone without a reference tone, e.g. being able to say 'F#' if someone plays that note on the piano."
+key;de;en;de_f;it;es;lv;ja
+TGMS_0000_PROMPT;Gold-MSI Fragebogen zur musikalischen Erfahrenheit;Goldsmiths Musical Sophistication Index;Gold-MSI Fragebogen zur musikalischen Erfahrenheit;Indice Goldsmith di Sofisticatezza Musicale;Índice de Sofisticación Musical de Goldsmith;Gold-MSI aptauja;ゴールドスミス音楽洗練指標
+TGMS_0001_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない 
+TGMS_0001_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto in disaccordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0001_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0001_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0001_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0001_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0001_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0001_PROMPT;Ich beschäftige mich in meiner Freizeit viel mit musikbezogenen Aktivitäten.;I spend a lot of my free time doing music-related activities.;Ich beschäftige mich in meiner Freizeit viel mit musikbezogenen Aktivitäten.;Trascorro molto del mio tempo libero facendo attività correlate alla musica;Paso gran parte de mi tiempo libre haciendo actividades relacionadas con la música;Es pavadu daudz brīvā laika dažādās ar mūziku saistītās aktivitātēs;自由時間のほとんどを、音楽に関することに使う
+TGMS_0002_CHOICE1;0;0;0;0;0;0;0
+TGMS_0002_CHOICE2;1;1;1;1;1;1;1
+TGMS_0002_CHOICE3;2;2;2;2;2;2;2
+TGMS_0002_CHOICE4;3;3;3;3;3;3;3
+TGMS_0002_CHOICE5;4-5;4-5;4-5;4-5;4-5;4-5;4-5
+TGMS_0002_CHOICE6;6-9;6-9;6-9;6-9;6-9;6-9;6-9
+TGMS_0002_CHOICE7;10 oder mehr Jahre;10 or more;10 oder mehr Jahre;10 o più;10 o más;10 vai vairāk;10 かそれ以上
+TGMS_0002_PROMPT;Ich habe regelmäßig und täglich ein Instrument (einschließlich Gesang) für ___ Jahre geübt.;I engaged in regular, daily practice of a musical instrument (including voice) for the following number of years:;Ich habe regelmäßig und täglich ein Instrument (einschließlich Gesang) für ___ Jahre geübt.;Sono stato/a impegnato/a quotidianamente e regolarmente nella pratica di uno strumento musicale (o della voce) per il seguente numero di anni:;He desarrollado la práctica diaria y regular de un instrumento musical (incluida la voz) durante el siguiente número de años:;Es regulāri, katru dienu, vingrinos mūzikas instrumenta spēlē un/vai dziedāšanā  jau __ gadus.;私はここ「？」年間、日常的・定期的に楽器（歌を含む）の練習をしている
+TGMS_0003_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない
+TGMS_0003_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto in disaccordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0003_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0003_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0003_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0003_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0003_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0003_PROMPT;Ich suche oft Musik aus, bei der ich eine Gänsehaut bekomme.;I sometimes choose music that can trigger shivers down my spine.;Ich suche oft Musik aus, bei der ich eine Gänsehaut bekomme.;A volte scelgo musica che mi fa venire i brividi lungo la schiena;A veces elijo música con la que se me pone la piel de gallina;"Es dažkārt izvēlos tādu mūziku, kas izraisa manī ""skudriņas"".";ゾクゾクするような（もしくは鳥肌が立つような）音楽を聴きたいと思うことがある
+TGMS_0004_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない
+TGMS_0004_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto in disaccordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0004_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0004_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0004_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0004_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0004_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0004_PROMPT;Ich schreibe gerne über Musik, z. B. in Internetblogs oder Foren.;I enjoy writing about music, for example on blogs and forums.;Ich schreibe gerne über Musik, z. B. in Internetblogs oder Foren.;Mi piace scrivere di musica, per esempio su blog e forum;Me gusta escribir sobre la música, por ejemplo en blogs y foros de discusión;Man patīk rakstīt par mūziku, piemēram, blogos un citos sociālajos tīklos.;インターネットのブログや掲示板に音楽に関する情報を書くのが楽しい
+TGMS_0005_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない
+TGMS_0005_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto in disaccordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0005_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0005_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0005_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0005_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0005_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0005_PROMPT;Wenn jemand anderes ein Lied singt, welches ich nicht kenne, kann ich normalerweise mitsingen.;If somebody starts singing a song I don't know, I can usually join in.;Wenn jemand anderes ein Lied singt, welches ich nicht kenne, kann ich normalerweise mitsingen.;Se qualcuno inizia a cantare una canzone che non conosco, generalmente riesco a partecipare;Si alguien empieza a cantar una canción que no conozco, normalmente soy capaz de unirme;Ja kāds dzied nepazīstamu dziesmu, es parasti varu viņam pievienoties.;知らないメロディーを誰かが歌い始めた時、たいていの場合は一緒に歌うことができる
+TGMS_0006_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない
+TGMS_0006_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto in disaccordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0006_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0006_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0006_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0006_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0006_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0006_PROMPT;Ich kann beurteilen, ob jemand gut singt oder nicht.;I am able to judge whether someone is a good singer or not.;Ich kann beurteilen, ob jemand gut singt oder nicht.;Sono capace di giudicare se qualcuno è un bravo cantante o no;Reconozco si alguien es un buen cantante o no;Es esmu spējīgs novērtēt, vai kāds ir labs dziedātājs vai nē.;歌っている人がうまいかどうか、的確に判断ができる
+TGMS_0007_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない
+TGMS_0007_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto in disaccordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0007_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0007_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0007_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0007_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0007_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0007_PROMPT;Meistens weiß ich, ob ich ein Lied zum ersten Mal höre.;I usually know when I'm hearing a song for the first time.;Meistens weiß ich, ob ich ein Lied zum ersten Mal höre.;Generalmente so quando sto sentendo una canzone per la prima volta;Normalmente percibo cuando estoy escuchando una canción por primera vez;Parasti es varu noteikt, ka mūzikas kompozīciju dzirdu pirmo reizi.;聴こえてきた曲が初めて聴く曲かどうかがすぐにわかる
+TGMS_0008_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない
+TGMS_0008_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto in disaccordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0008_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0008_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0008_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0008_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0008_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0008_PROMPT;Ich kann auswendig singen oder Musik spielen.;I can sing or play music from memory.;Ich kann auswendig singen oder Musik spielen.;Sono capace di suonare o cantare a memoria;Soy capaz de cantar o tocar música de memoria.;Es protu dziedāt vai spēlēt no galvas.;暗譜で演奏することができる（歌を含む）
+TGMS_0009_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない
+TGMS_0009_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto in disaccordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0009_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0009_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0009_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0009_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0009_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0009_PROMPT;Ich bin fasziniert von Musikstilen, mit denen ich nicht vertraut bin, und möchte mehr darüber erfahren.;I'm intrigued by musical styles I'm not familiar with and want to find out more.;Ich bin fasziniert von Musikstilen, mit denen ich nicht vertraut bin, und möchte mehr darüber erfahren.;Sono incuriosito/a da generi musicali che non mi sono familiari e cerco di saperne di più;Los estilos musicales con los que no estoy familiarizado me intrigan y quiero saber más.;Mani interesē mūzikas stili, kuri man nav pazīstami,  un es  vēlos par tiem uzzināt vairāk.;馴染みのない音楽を耳にすると、それについてもっと知りたいと思う
+TGMS_0010_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない
+TGMS_0010_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto in disaccordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0010_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0010_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0010_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0010_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0010_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0010_PROMPT;Musikstücke rufen selten Gefühle in mir hervor.;Pieces of music rarely evoke emotions for me.;Musikstücke rufen selten Gefühle in mir hervor.;I brani musicali raramente provocano emozioni in me;Las piezas musicales raramente me evocan emociones.;Mūzikas kompozīcijas reti izraisa manī emocijas.;音楽を聴いてもほとんど感情が揺さぶられない
+TGMS_0011_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない
+TGMS_0011_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto in disaccordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0011_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0011_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0011_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0011_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0011_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0011_PROMPT;Ich bin in der Lage, die richtigen Töne zu treffen, wenn ich zu einer Aufnahme mitsinge.;I am able to hit the right notes when I sing along with a recording.;Ich bin in der Lage, die richtigen Töne zu treffen, wenn ich zu einer Aufnahme mitsinge.;Sono capace di azzeccare le note giuste quando canto insieme ad una registrazione;Puedo cantar las notas correctas cuando canto junto con una grabación.;Es spēju dziedāt līdzi dziesmas ierakstam intonatīvi precīzi.;知っている曲のメロディーにぴったり合わせて歌うことができる
+TGMS_0012_CHOICE1;0;0;0;0;0;0;0
+TGMS_0012_CHOICE2;0,5;0.5;0,5;0.5;0,5;0.5;0.5
+TGMS_0012_CHOICE3;1;1;1;1;1;1;1
+TGMS_0012_CHOICE4;1,5;1.5;1,5;1.5;1,5;1.5;1.5
+TGMS_0012_CHOICE5;2;2;2;2;2;2;2
+TGMS_0012_CHOICE6;3-4;3-4;3-4;3-4;3-4;3-4;3-4
+TGMS_0012_CHOICE7;5 oder mehr;5 or more;5 oder mehr;5 o più;5 o más;5 vai vairāk;5 かそれ以上
+TGMS_0012_PROMPT;An dem Höhepunkt meines Interesses habe ich mein Hauptinstrument (einschließlich Gesang) ___ Stunden pro Tag geübt.;At the peak of my interest, I practised my primary instrument (including voice) for the following number of hours per day:;An dem Höhepunkt meines Interesses habe ich mein Hauptinstrument (einschließlich Gesang) ___ Stunden pro Tag geübt.;All’apice del mio interesse, mi sono esercitato/a con il mio strumento primario (o con la voce) per il seguente numero di ore al giorno:;Durante mi periodo de máximo interés, he practicado mi instrumento primario (o la voz) durante el siguiente número de horas diarias:;Periodā, kad tas mani visvairāk interesēja, es vingrinājos sava mūzikas instrumenta spēlē  un/vai dziedāšanā__ stundas dienā.;興味が最も高かった時期には、メインの楽器（歌を含む）を一日に「?」時間練習した
+TGMS_0013_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない
+TGMS_0013_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto in disaccordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0013_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0013_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0013_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0013_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0013_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0013_PROMPT;Ich finde es schwierig, Fehler festzustellen, die ein Sänger macht, selbst wenn ich das Lied kenne.;I find it difficult to spot mistakes in a performance of a song even if I know the tune.;Ich finde es schwierig, Fehler festzustellen, die ein Sänger macht, selbst wenn ich das Lied kenne.;Trovo difficile individuare gli errori nell’interpretazione di una canzone anche se conosco la melodia;Me resulta difícil detectar errores en la interpretación de una canción, incluso si conozco la melodía.;Man ir sarežģīti noteikt kļūdas dziesmas izpildījumā pat, ja es zinu šo dziesmu.;知っている曲をアーティストがどこか間違って演奏しても、なかなか気づけない
+TGMS_0014_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない
+TGMS_0014_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto in disaccordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0014_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0014_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0014_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0014_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0014_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0014_PROMPT;Ich kann zwei Interpretationen oder Versionen desselben Musikstücks miteinander vergleichen und über die Unterschiede diskutieren.;I can compare and discuss differences between two performances or versions of the same piece of music.;Ich kann zwei Interpretationen oder Versionen desselben Musikstücks miteinander vergleichen und über die Unterschiede diskutieren.;Posso confrontare e discutere su due esecuzioni o versioni dello stesso brano musicale;Puedo comparar y discutir dos interpretaciones o versiones de la misma pieza musical;Es protu salīdzināt un apspriest atšķirības vienas mūzikas kompozīcijas divos dažādos izpildījumos.;同じ曲の違う演奏を聴いたとき、その違いについて比べたり話すことができる
+TGMS_0015_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない
+TGMS_0015_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto in disaccordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0015_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0015_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0015_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0015_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0015_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0015_PROMPT;Es fällt mir schwer, ein bekanntes Lied zu erkennen, wenn es auf eine andere Weise oder von einem anderen Interpreten gespielt oder gesungen wird.;I have trouble recognizing a familiar song when played in a different way or by a different performer.;Es fällt mir schwer, ein bekanntes Lied zu erkennen, wenn es auf eine andere Weise oder von einem anderen Interpreten gespielt oder gesungen wird.;Ho problemi a riconoscere una canzone familiare se suonata in diversi modi o da un diverso esecutore;Tengo problemas para reconocer una canción familiar cuando se toca de una manera diferente o por un intérprete diferente.;Man ir sarežģīti atpazīt pazīstamu dziesmu, ja tā tiek atskaņota citādāk vai, ja to izpilda cits atskaņotājmākslinieks.;よく知っている曲でも、いつもと違うやり方で演奏されたり別の人が演奏していると、その曲だとわからないことがある
+TGMS_0016_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない
+TGMS_0016_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto in disaccordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0016_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0016_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0016_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0016_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0016_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0016_PROMPT;Ich bin noch nie für meine musikalischen Fähigkeiten gelobt worden.;I have never been complimented for my talents as a musical performer.;Ich bin noch nie für meine musikalischen Fähigkeiten gelobt worden.;Non mi hanno mai fatto i complimenti per il mio talento come musicista;Nunca he recibido cumplidos por mi talento como intérprete musical.;Manu mūzikas izpildīšanas talantu neviens nav slavējis;自分の音楽的才能や音楽演奏を褒められたことがない
+TGMS_0017_CHOICE1;0;0;0;0;0;0;0
+TGMS_0017_CHOICE2;1;1;1;1;1;1;1
+TGMS_0017_CHOICE3;2;2;2;2;2;2;2
+TGMS_0017_CHOICE4;3;3;3;3;3;3;3
+TGMS_0017_CHOICE5;4-6;4-6;4-6;4-6;4-6;4-6;4-6
+TGMS_0017_CHOICE6;7-10;7-10;7-10;7-10;7-10;7-10;7-10
+TGMS_0017_CHOICE7;11 oder mehr;11 or more;11 oder mehr;11 o più;11 o más;11 vai vairāk;11かそれ以上
+TGMS_0017_PROMPT;Ich habe ___ Live-Events oder Konzerte als Zuschauer innerhalb der letzten 12 Monate besucht.;I have attended the following number of live music events as an audience member in the past twelve months:;Ich habe ___ Live-Events oder Konzerte als Zuschauer innerhalb der letzten 12 Monate besucht.;Ho frequentato il seguente numero di eventi di musica dal vivo come membro del pubblico negli ultimi dodici mesi:;He asistido a la siguiente cantidad de eventos de música en vivo como miembro del público en los últimos doce meses:;Pēdējā gada laikā kā klausītājs esmu apmeklējis dzīvās mūzikas koncerts/pasākumus;この１２ヶ月の間に「？」回の生演奏イベントを聴きに行った
+TGMS_0018_CHOICE1;0;0;0;0;0;0;0
+TGMS_0018_CHOICE2;0,5;0.5;0,5;0.5;0,5;0.5;0.5
+TGMS_0018_CHOICE3;1;1;1;1;1;1;1
+TGMS_0018_CHOICE4;2;2;2;2;2;2;2
+TGMS_0018_CHOICE5;3;3;3;3;3;3;3
+TGMS_0018_CHOICE6;4-6;4-6;4-6;4-6;4-6;4-6;4-6
+TGMS_0018_CHOICE7;7 oder mehr;7 or more;7 oder mehr;7 o più;7 o más;7 vai vairāk;7かそれ以上
+TGMS_0018_PROMPT;Ich habe ___ Jahre Unterricht in Musiktheorie (außerhalb der Schule) erhalten.;I have had formal training in music theory for the following number of years;Ich habe ___ Jahre Unterricht in Musiktheorie (außerhalb der Schule) erhalten.;Ho ricevuto lezioni formali di teoria della musica per il seguente numero di anni:;He tenido una formación formal en teoría musical durante los siguientes años:;Es apmeklēju mūzikas teorijas nodarbības __ gadus.;音楽理論の訓練を「？」年間受けた
+TGMS_0019_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない
+TGMS_0019_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto in disaccordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0019_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0019_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0019_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0019_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0019_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0019_PROMPT;Ich lese oder suche oft im Internet nach Dingen, die mit Musik zu tun haben.;I often read or search the internet for things related to music.;Ich lese oder suche oft im Internet nach Dingen, die mit Musik zu tun haben.;Ho spesso letto o ricercato su internet cose correlate alla musica;A menudo leo o busco en Internet cosas relacionadas con la música.;Es bieži lasu par mūziku vai meklēju informāciju par to internetā.;よく、音楽に関連した情報をインターネットで検索したり読んだりする
+TGMS_0020_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない
+TGMS_0020_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto in disaccordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0020_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0020_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0020_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0020_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0020_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0020_PROMPT;Ich suche häufig eine bestimmte Musik aus, um mich zu motivieren oder zu begeistern.;I often pick certain music to motivate or excite me.;Ich suche häufig eine bestimmte Musik aus, um mich zu motivieren oder zu begeistern.;Spesso scelgo un certo tipo di musica per motivarmi o attivarmi;Suelo elegir cierta música para motivarme o activarme.;Es bieži izvēlos noteiktu mūziku, lai sevi motivētu vai saviļņotu.;やる気を出すために、特定の音楽をかけることがよくある
+TGMS_0021_CHOICE1;0;0;0;0;0;0;0
+TGMS_0021_CHOICE2;1;1;1;1;1;1;0.5
+TGMS_0021_CHOICE3;2;2;2;2;2;2;1
+TGMS_0021_CHOICE4;3;3;3;3;3;3;2
+TGMS_0021_CHOICE5;4-5;4-5;4-5;4-5;4-5;4-5;3-5
+TGMS_0021_CHOICE6;6-9;6-9;6-9;6-9;6-9;6-9;6-9
+TGMS_0021_CHOICE7;10 oder mehr;10 or more;10 oder mehr;10 o più;10 o más;10 vai vairāk;10 かそれ以上
+TGMS_0021_PROMPT;Ich habe ___ Jahre Musikunterricht auf einem Instrument (einschließlich Gesang) in meinem bisherigen Leben gehabt.;I have had formal training on a musical instrument (including voice) during my lifetime for the following number of years:;Ich habe ___ Jahre Musikunterricht auf einem Instrument (einschließlich Gesang) in meinem bisherigen Leben gehabt.;Ho ricevuto lezioni formali di uno strumento musicale (o di canto) durante la mia vita per il seguente numero di anni:;He tenido una formación formal con un instrumento musical (incluida la voz) durante mi vida durante el siguiente número de años:;Es apmeklēju instrumenta spēles un/vai dziedāšanas nodarbības __ gadus.;私はここ「？」年間、日常的・定期的に楽器（歌を含む）の練習をしている
+TGMS_0022_CHOICE1;0;0;0;0;0;0;0
+TGMS_0022_CHOICE2;1;1;1;1;1;1;1
+TGMS_0022_CHOICE3;2;2;2;2;2;2;2
+TGMS_0022_CHOICE4;3;3;3;3;3;3;3
+TGMS_0022_CHOICE5;4;4;4;4;4;4;4
+TGMS_0022_CHOICE6;5;5;5;5;5;5;5
+TGMS_0022_CHOICE7;6 oder mehr;6 or more;6 oder mehr;6 o più;6 o más;6 vai vairāk;6 かそれ以上
+TGMS_0022_PROMPT;Ich kann ___ verschiedene Instrumente (einschließlich Gesang) spielen.;I can play the following number of musical instruments (including voice):;Ich kann ___ verschiedene Instrumente (einschließlich Gesang) spielen.;So suonare il seguente numero di strumenti musicali (inclusa la voce):;Puedo tocar el siguiente número de instrumentos musicales (incluida la voz):;Es protu spēlēt __ mūzikas instrumentus.;私は「？」種類の楽器を演奏できる
+TGMS_0023_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない
+TGMS_0023_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto in disaccordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0023_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0023_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0023_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0023_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0023_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0023_PROMPT;Wenn jemand anders ein Lied singt, das ich kenne, kann ich eine zweite Stimme dazu singen.;I am able to sing in harmony when somebody is singing a familiar tune.;Wenn jemand anders ein Lied singt, das ich kenne, kann ich eine zweite Stimme dazu singen.;Sono capace di cantare in armonia quando qualcuno canta una melodia familiare;Puedo cantar acompañando en armonía cuando alguien canta una melodía familiar.;Es nespēju dziedāt līdzi otro balsi, kad kāds dzied pazīstamu melodiju.;誰かが私の知っている曲を歌っていても、ハモるのはとても難しい
+TGMS_0024_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない
+TGMS_0024_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto in disaccordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0024_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0024_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0024_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0024_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0024_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0024_PROMPT;Ich kann beurteilen, ob jemand nicht im Rhythmus mit der Musik singt oder spielt.;I can tell when people sing or play out of time with the beat.;Ich kann beurteilen, ob jemand nicht im Rhythmus mit der Musik singt oder spielt.;Riesco a dire quando le persone cantano o suonano fuori tempo;Reconozco cuando la gente canta o toca fuera de tiempo con el ritmo.;Es protu noteikt, ja kāds dzied vai spēlē neritmiski.;他の人の歌や演奏が本来のビートからずれていることがわかる
+TGMS_0025_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない
+TGMS_0025_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto in disaccordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0025_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0025_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0025_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0025_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0025_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0025_PROMPT;Ich kann identifizieren, was das Besondere an einem bestimmten Musikstück ist.;I am able to identify what is special about a given musical piece.;Ich kann identifizieren, was das Besondere an einem bestimmten Musikstück ist.;Sono in grado di identificare cosa c'è di speciale in un determinato brano musicale;Sé identificar qué tiene de especial una determinada pieza musical.;Es esmu spējīgs noteikt, kas ir īpašs kādā konkrētā mūzikas kompozīcijā.;聴こえてきた曲の特徴を説明することができる
+TGMS_0026_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない
+TGMS_0026_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto in disaccordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0026_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0026_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0026_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0026_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0026_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0026_PROMPT;Ich bin in der Lage, über meine Gefühle, die durch Musik hervorgerufen werden, zu sprechen.;I am able to talk about the emotions that a piece of music evokes for me.;Ich bin in der Lage, über meine Gefühle, die durch Musik hervorgerufen werden, zu sprechen.;Sono capace di parlare delle emozioni che un brano musicale provoca in me;Puedo hablar de las emociones que siento en una pieza musical.;Es esmu spējīgs raksturot tās emocijas, kuras manī izraisa kāda mūzikas kompozīcija.;音楽を聴いたときに湧き上がる感情について話すことができる
+TGMS_0027_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない
+TGMS_0027_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto in disaccordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0027_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0027_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0027_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0027_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0027_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0027_PROMPT;Ich gebe nicht viel Geld meines verfügbaren Einkommens für Musik aus.;I don't spend much of my disposable income on music.;Ich gebe nicht viel Geld meines verfügbaren Einkommens für Musik aus.;Non spendo molto del mio reddito per la musica;No gasto mucho de mis ingresos disponibles en música.;Es netērēju daudz savu ienākumu mūzikai.;自由に使えるお金を、音楽のためには使わない
+TGMS_0028_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない
+TGMS_0028_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto in disaccordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0028_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0028_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0028_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0028_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0028_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0028_PROMPT;Ich kann beurteilen, ob jemand falsch oder richtig singt oder spielt.;I can tell when people sing or play out of tune.;Ich kann beurteilen, ob jemand falsch oder richtig singt oder spielt.;So dire se le persone sono stonate quando cantano o suonano;Reconozco cuándo la gente canta o toca fuera de tono.;Es protu noteikt, ja kāds dzied vai spēlē ārpus toņa (intonatīvi neprecīzi).;他の人の歌や、演奏の音が外れているかどうかわかる
+TGMS_0029_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない
+TGMS_0029_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto in disaccordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0029_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0029_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0029_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0029_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0029_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0029_PROMPT;Wenn ich singe, habe ich keine Ahnung, ob ich richtig oder falsch singe.;When I sing, I have no idea whether I'm in tune or not.;Wenn ich singe, habe ich keine Ahnung, ob ich richtig oder falsch singe.;Quando canto, non ho idea se sono intonato/a oppure no;Cuando canto, no tengo ni idea de si estoy afinado o no.;Kad es dziedu, es nezinu, vai tas ir intonatīvi precīzi vai neprecīzi.;自分が歌っているときに、音の高さがあっているかどうか自信がない
+TGMS_0030_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない
+TGMS_0030_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto in disaccordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0030_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0030_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0030_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0030_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0030_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0030_PROMPT;"Musik ist für mich eine Art von Sucht &ndash; ohne sie könnte ich nicht leben.";"Music is kind of an addiction for me &ndash; I couldn't live without it.";"Musik ist für mich eine Art von Sucht &ndash; ohne sie könnte ich nicht leben.";"La musica è una specie di dipendenza per me; non potrei vivere senza";"Para mí la música es una especie de adicción; no podría vivir sin ella.";Mūzika man ir kā atkarība - es nevarētu bez tās dzīvot.;音楽は私にとって一種の中毒で、音楽なしでは生きていけない
+TGMS_0031_CHOICE1;0-15 min;0-15 min;0-15 min;0-15 min;0-15 min;0-15 min;0-15 分
+TGMS_0031_CHOICE2;15-30 min;15-30 min;15-30 min;15-30 min;15-30 min;15-30 min;15-30 分
+TGMS_0031_CHOICE3;30-60 min;30-60 min;30-60 min;30-60 min;30-60 min;30-60 min;30-60 分
+TGMS_0031_CHOICE4;60-90 min;60-90 min;60-90 min;60-90 min;60-90 min;60-90 min;60-90 分
+TGMS_0031_CHOICE5;2 Std.;2 h;2 Std.;2h;2h;2 stundas;2 時間
+TGMS_0031_CHOICE6;2-3 Std.;2-3 h;2-3 Std.;2-3 h;2-3 h;2-3 stundas;2-3 時間
+TGMS_0031_CHOICE7;4 Std. oder mehr;4 h or more;4 Std. oder mehr;4 ore o più;4 horas o más;4 vai vairāk stundas;4 時間かそれ以上
+TGMS_0031_PROMPT;Ich höre jeden Tag aufmerksam Musik für;I listen attentively to music for the following amount of time per day:;Ich höre jeden Tag aufmerksam Musik für;Ascolto attentamente musica per la seguente quantità di tempo al giorno:;Escucho cada día con atención la música durante esta cantidad de tiempo:;Es uzmanīgi klausos mūziku ___ dienā.;一日のうち、集中して音楽を聴く時間の長さはたいてい「？」分（時間）である
+TGMS_0032_CHOICE1;Ich spiele kein Instrument.;I don't play any instrument.;Ich spiele kein Instrument.;Non suono nessuno strumento;No toco ningún instrumento;Es nespēlēju mūzikas instrumentu;該当しない
+TGMS_0032_CHOICE10;Fagott;bassoon;Fagott;Fagotto;Fagot;fagots;ファゴット
+TGMS_0032_CHOICE11;Trompete;trumpet;Trompete;Tromba;Trompeta;trompete;トランペット
+TGMS_0032_CHOICE12;Posaune;trombone;Posaune;Trombone;Trombón;trombons;トロンボーン
+TGMS_0032_CHOICE13;Tuba;tuba;Tuba;Tuba;Tuba;tuba;テューバ
+TGMS_0032_CHOICE14;Saxophon;saxophone;Saxophon;Sassofono;Saxofón;saksofons;サクソフォン
+TGMS_0032_CHOICE15;Horn;horn;Horn;Corno;Cuerno;mežrags;ホルン
+TGMS_0032_CHOICE16;Violine;violin;Violine;Violino;Violín;vijole;ヴァイオリン
+TGMS_0032_CHOICE17;Cello;cello;Cello;Violoncello;Violonchelo;čells;チェロ
+TGMS_0032_CHOICE18;Bratsche;viola;Bratsche;Viola;Viola;alts;ヴィオラ
+TGMS_0032_CHOICE19;Kontrabass;double bass;Kontrabass;Contrabbasso;Contrabajo;kontrabass;コントラバス
+TGMS_0032_CHOICE2;Gesang;voice;Gesang;Voce;Voz;balss;声楽
+TGMS_0032_CHOICE20;Harfe;harp;Harfe;Arpa;Arpa;arfa;ハープ
+TGMS_0032_CHOICE21;andere;other;andere;Altro;Otro;cits;その他
+TGMS_0032_CHOICE3;Klavier;piano;Klavier;Pianoforte;Piano;klavieres;ピアノ
+TGMS_0032_CHOICE4;Gitarre;guitar;Gitarre;Chitarra;Guitarra;ģitāra;ギター
+TGMS_0032_CHOICE5;Schlagzeug;drums;Schlagzeug;Percussioni;Percusión;sitaminstrumenti;ドラム
+TGMS_0032_CHOICE6;Xylophon;xylophone;Xylophon;Xilofono;Xilófono;ksilofons;シロフォン
+TGMS_0032_CHOICE7;Flöte;flute;Flöte;Flauto;Flauta;flauta;フルート
+TGMS_0032_CHOICE8;Oboe;oboe;Oboe;Oboe;Oboe;oboja;オーボエ
+TGMS_0032_CHOICE9;Klarinette;clarinet;Klarinette;Clarinetto;Clarinete;klarnete;クラリネット
+TGMS_0032_PROMPT;Das Instrument (einschließlich Gesang), welches ich am besten spiele ist ___ .;The instrument I play best (including voice) is:;Das Instrument (einschließlich Gesang), welches ich am besten spiele ist ___ .;Lo strumento che suono meglio (inclusa la voce) è:;El instrumento que toco mejor (incluida la voz) es:;Instruments, kuru es pārvaldu vislabāk (tā var būt arī balss), ir;私がもっとも得意な楽器は「？」である
+TGMS_0033_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない
+TGMS_0033_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto in disaccordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0033_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0033_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0033_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0033_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0033_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0033_PROMPT;Ich singe nicht gerne in der Öffentlichkeit, weil ich Angst habe, falsche Töne zu treffen.;I don't like singing in public because I'm afraid that I would sing wrong notes.;Ich singe nicht gerne in der Öffentlichkeit, weil ich Angst habe, falsche Töne zu treffen.;Non mi piace cantare in pubblico perché ho paura di cantare note sbagliate;No me gusta cantar en público porque tengo miedo de equivocarme con las notas.;Man nepatīk publiski dziedāt, jo man ir bail nodziedāt nepareizi.;音を外してしまうかもしれないので、人前で歌うのは嫌いだ
+TGMS_0034_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない
+TGMS_0034_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto d’accordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0034_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0034_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0034_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0034_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0034_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0034_PROMPT;Wenn ich ein Musikstück höre, kann ich normalerweise die Stilrichtung erkennen.;When I hear a piece of music I can usually identify its genre.;Wenn ich ein Musikstück höre, kann ich normalerweise die Stilrichtung erkennen.;Quando ascolto un brano generalmente riesco a identificarne il genere;Cuando escucho una pieza musical, generalmente identifico su género.;Kad es dzirdu mūzikas kompozīciju, es parasti varu noteikt tā žanru.;大抵の場合は、聴いた音楽のジャンルがわかる
+TGMS_0035_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない
+TGMS_0035_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto in disaccordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0035_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0035_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0035_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0035_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0035_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0035_PROMPT;Ich würde mich selbst nicht als MusikerIn bezeichnen.;I would not consider myself a musician.;Ich würde mich selbst nicht als MusikerIn bezeichnen.;Non mi considererei un musicista;No me consideraría un/a músico/a;Es sevi neuzskatu par mūziķi.;私は音楽家ではない
+TGMS_0036_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない
+TGMS_0036_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto d’accordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0036_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0036_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0036_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0036_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0036_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0036_PROMPT;Ich halte mich auf dem Laufenden, was neue Musik angeht (z. B. neue Künstler oder Aufnahmen).;I keep track of new music that I come across (e.g. new artists or recordings).;Ich halte mich auf dem Laufenden, was neue Musik angeht (z. B. neue Künstler oder Aufnahmen).;Prendo nota della nuova musica che incontro (es. nuovi artisti o registrazioni);Rastreo la nueva música que encuentro (por ejemplo, nuevos artistas o grabaciones);Es sekoju līdzi mūzikas jaunumiem (piemēram, jauniem izpildītājiem vai mūzikas ierakstiem).;新しいアーティストや曲の流行を知っている
+TGMS_0037_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない
+TGMS_0037_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto in disaccordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0037_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0037_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0037_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0037_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0037_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0037_PROMPT;Wenn ich einen Song zwei- oder dreimal gehört habe, kann ich ihn meistens alleine singen.;After hearing a new song two or three times, I can usually sing it by myself.;Wenn ich einen Song zwei- oder dreimal gehört habe, kann ich ihn meistens alleine singen.;Dopo aver ascoltato una canzone per due o tre volte, in genere riesco a cantarla autonomamente;Después de escuchar una canción nueva dos o tres veces, normalmente puedo cantarla yo solo/a.;Kad es noklausos jaunu melodiju divas vai trīs reizes, parasti spēju to pats nodziedāt.;知らない歌でも２、３回聴けば歌うことができる
+TGMS_0038_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない
+TGMS_0038_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto in disaccordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0038_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0038_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0038_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0038_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0038_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0038_PROMPT;Ich brauche eine neue Melodie nur einmal zu hören, dann kann ich sie auch Stunden später noch singen.;I only need to hear a new tune once and I can sing it back hours later.;Ich brauche eine neue Melodie nur einmal zu hören, dann kann ich sie auch Stunden später noch singen.;Ho bisogno di ascoltare una melodia solo una volta e posso tornare a cantarla ore dopo;Solo necesito escuchar una nueva melodía una vez y puedo volver a cantarla horas después.;Man vajag noklausīties jaunu melodiju tikai vienu reizi, un es spēju to nodziedāt arī pēc dažām stundām.;知らない曲でも一回聴けば、数時間あとでも歌うことができる
+TGMS_0039_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree;Stimme ganz und gar nicht zu;Completamente in disaccordo;Completamente en desacuerdo;pilnībā nepiekrītu;全くあてはまらない
+TGMS_0039_CHOICE2;Stimme nicht zu;Strongly disagree;Stimme nicht zu;Molto in disaccordo;Muy en desacuerdo;lielā mērā nepiekrītu;ほとんどあてはまらない
+TGMS_0039_CHOICE3;Stimme eher nicht zu;Disagree;Stimme eher nicht zu;In disaccordo;En desacuerdo;nepiekrītu;あまりあてはまらない
+TGMS_0039_CHOICE4;Weder noch;Neither agree nor disagree;Weder noch;Né in disaccordo né d’accordo;Ni en desacuerdo ni de acuerdo;ne piekrītu, ne nepiekrītu;どちらでもない
+TGMS_0039_CHOICE5;Stimme eher zu;Agree;Stimme eher zu;D’accordo;De acuerdo;piekrītu;わりとあてはまる
+TGMS_0039_CHOICE6;Stimme zu;Strongly agree;Stimme zu;Molto d’accordo;Muy de acuerdo;lielā mērā piekrītu;よくあてはまる
+TGMS_0039_CHOICE7;Stimme voll und ganz zu;Completely agree;Stimme voll und ganz zu;Completamente d’accordo;Completamente de acuerdo;pilnībā piekrītu;実によくあてはまる
+TGMS_0039_PROMPT;Musik kann bei mir Erinnerungen an Personen und Orte hervorrufen.;Music can evoke my memories of past people and places.;Musik kann bei mir Erinnerungen an Personen und Orte hervorrufen.;La musica può rievocarmi dei ricordi di persone e luoghi del passato;La música puede evocar mis recuerdos de personas y lugares del pasado.;Mūzika var manī izraisīt atmiņas par cilvēkiem vai vietām.;音楽を聴いて、特定の人や場所を思い出すことがある
+TGMS_0040_CHOICE1;2;2;2;2;2;2;2
+TGMS_0040_CHOICE10;11;11;11;11;11;11;11
+TGMS_0040_CHOICE11;12;12;12;12;12;12;12
+TGMS_0040_CHOICE12;13;13;13;13;13;13;13
+TGMS_0040_CHOICE13;14;14;14;14;14;14;14
+TGMS_0040_CHOICE14;15;15;15;15;15;15;15
+TGMS_0040_CHOICE15;16;16;16;16;16;16;16
+TGMS_0040_CHOICE16;17;17;17;17;17;17;17
+TGMS_0040_CHOICE17;18;18;18;18;18;18;18
+TGMS_0040_CHOICE18;19;19;19;19;19;19;19
+TGMS_0040_CHOICE19;Ich spiele kein Instrument.;I don't play any instrument.;Ich spiele kein Instrument.;Non suono nessuno strumento;No toco ningún instrumento;Es nespēlēju mūzikas instrumentu;該当しない
+TGMS_0040_CHOICE2;3;3;3;3;3;3;3
+TGMS_0040_CHOICE3;4;4;4;4;4;4;4
+TGMS_0040_CHOICE4;5;5;5;5;5;5;5
+TGMS_0040_CHOICE5;6;6;6;6;6;6;6
+TGMS_0040_CHOICE6;7;7;7;7;7;7;7
+TGMS_0040_CHOICE7;8;8;8;8;8;8;8
+TGMS_0040_CHOICE8;9;9;9;9;9;9;9
+TGMS_0040_CHOICE9;10;10;10;10;10;10;10
+TGMS_0040_PROMPT;Mit wie viel Jahren hast du angefangen, ein Instrument zu spielen?;What age did you start to play an instrument?;Mit wie viel Jahren hast du angefangen, ein Instrument zu spielen?;A quale età hai iniziato a suonare uno strumento?;¿A qué edad empezaste a tocar un instrumento?;Cik gadu vecumā tu sāki spēlēt mūzikas instrumentu?;何歳から楽器を弾き始めましたか？
+TGMS_0041_CHOICE1;Ja;yes;Ja;Sì;Sí;jā;はい
+TGMS_0041_CHOICE2;Nein;no;Nein;No;No;nē;いいえ
+TGMS_0041_PROMPT;Hast du ein absolutes Gehör? Ein absolutes Gehör ist die Fähigkeit, einen Ton in Isolation ohne Bezugston zu erkennen und zu benennen, z. B. in der Lage zu sein, ein Fis zu erkennen, wenn jemand ein Fis auf dem Klavier spielt.;Do you have absolute pitch? Absolute or perfect pitch is the ability to recognise and name an isolated musical tone without a reference tone, e.g. being able to say 'F#' if someone plays that note on the piano.;Hast du ein absolutes Gehör? Ein absolutes Gehör ist die Fähigkeit, einen Ton in Isolation ohne Bezugston zu erkennen und zu benennen, z. B. in der Lage zu sein, ein Fis zu erkennen, wenn jemand ein Fis auf dem Klavier spielt.;Hai l’orecchio assoluto? L’orecchio assoluto è la capacità di riconoscere e nominare una nota musicale isolata senza note di riferimento, ad es. essere in grado di dire 'Fa#' se qualcuno suona quella nota al pianoforte.;¿Tienes un oído absoluto? El oído absoluto o perfecto es la capacidad de reconocer y nombrar un tono musical aislado sin un tono de referencia, p. Ej. poder decir 'F #' si alguien toca esa nota en el piano.;"Vai tev ir absolūtā dzirde? Absolūtā dzirde ir spēja noteikt un nosaukt atsevišķu mūzikas skaņu bez references toņa, piemēram, spēt pateikt ""fa#"", ja kāds to nospēlēja uz klavierēm.";あなたには絶対音感がありますか？絶対音感とは、音を聴いた時に他の音と比べなくてもその音の名前がわかる能力です。例えば誰かがピアノで弾いた音がファのシャープだとわかる、など。

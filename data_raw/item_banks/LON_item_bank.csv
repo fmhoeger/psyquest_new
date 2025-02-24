@@ -1,0 +1,13 @@
+main_id;language;template;score_func;subscales;layout 
+TLON_0001;de;4-option multiple choice;function(x) x+0;"Emotional Loneliness;Total";vertical
+TLON_0001;en;4-option multiple choice;function(x) x+0;"Emotional Loneliness;Total";vertical
+TLON_0002;de;4-option multiple choice;function(x) x+0;"Emotional Loneliness;Total";vertical
+TLON_0002;en;4-option multiple choice;function(x) x+0;"Emotional Loneliness;Total";vertical
+TLON_0003;de;4-option multiple choice;function(x) x+0;"Emotional Loneliness;Total";vertical
+TLON_0003;en;4-option multiple choice;function(x) x+0;"Emotional Loneliness;Total";vertical
+TLON_0004;de;4-option multiple choice;function(x) 5-x+0;"Social Loneliness;Total";vertical
+TLON_0004;en;4-option multiple choice;function(x) 5-x+0;"Social Loneliness;Total";vertical
+TLON_0005;de;4-option multiple choice;function(x) 5-x+0;"Social Loneliness;Total";vertical
+TLON_0005;en;4-option multiple choice;function(x) 5-x+0;"Social Loneliness;Total";vertical
+TLON_0006;de;4-option multiple choice;function(x) 5-x+0;"Social Loneliness;Total";vertical
+TLON_0006;en;4-option multiple choice;function(x) 5-x+0;"Social Loneliness;Total";vertical

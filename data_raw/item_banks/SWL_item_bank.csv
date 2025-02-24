@@ -1,0 +1,15 @@
+main_id;language;template;score_func;subscales;layout
+TSWL_0002;en;5-option multiple choice;function(x) x;General;vertical
+TSWL_0002;lv;5-option multiple choice;function(x) x;General;vertical
+TSWL_0003;en;5-option multiple choice;function(x) x;General;vertical
+TSWL_0003;lv;5-option multiple choice;function(x) x;General;vertical
+TSWL_0004;en;5-option multiple choice;function(x) x;General;vertical
+TSWL_0004;lv;5-option multiple choice;function(x) x;General;vertical
+TSWL_0005;en;5-option multiple choice;function(x) x;General;vertical
+TSWL_0005;lv;5-option multiple choice;function(x) x;General;vertical
+TSWL_0006;en;5-option multiple choice;function(x) x;General;vertical
+TSWL_0006;lv;5-option multiple choice;function(x) x;General;vertical
+TSWL_0001;en;;;;
+TSWL_0001;lv;;;;
+TSWL_0000;en;;;;
+TSWL_0000;lv;;;;

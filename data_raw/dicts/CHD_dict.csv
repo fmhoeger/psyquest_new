@@ -1,0 +1,43 @@
+﻿key;de_f;de;en
+TCHD_0000_PROMPT;Kinderdemographie;Kinderdemographie;Children Demographics
+TCHD_0001_PROMPT;Bitte beantworten Sie die folgenden Fragen nur für eines Ihrer Kinder, falls Sie mehr als eines haben.;Bitte beantworten Sie die folgenden Fragen nur für eines Ihrer Kinder, falls Sie mehr als eines haben.;Please answer all the following questions for only one of your children, if you have more than one.
+TCHD_0002_CHOICE1;0-2 Monate;0-2 Monate;0-2 months
+TCHD_0002_CHOICE2;3-5 Monate;3-5 Monate;3-5 months
+TCHD_0002_CHOICE3;6-8 Monate;6-8 Monate;6-8 months 
+TCHD_0002_CHOICE4;9-11 Monate;9-11 Monate;9-11 months
+TCHD_0002_CHOICE5;1 Jahr;1 Jahr;1 year 
+TCHD_0002_CHOICE6;2 Jahre;2 Jahre;2 years
+TCHD_0002_CHOICE7;3 Jahre;3 Jahre;3 years
+TCHD_0002_CHOICE8;4 Jahre;4 Jahre;4 years
+TCHD_0002_CHOICE9;5 Jahre;5 Jahre;5 years
+TCHD_0002_CHOICE10;6 Jahre;6 Jahre;6 years
+TCHD_0002_CHOICE11;7 Jahre;7 Jahre;7 years
+TCHD_0002_CHOICE12;8 Jahre;8 Jahre;8 years
+TCHD_0002_CHOICE13;9 Jahre;9 Jahre;9 years
+TCHD_0002_CHOICE14;10+ Jahre;10+ Jahre;10+ years  
+TCHD_0002_PROMPT;Wie alt ist das Kind?;Wie alt ist das Kind?;What is the age of the child?
+TCHD_0003_PROMPT;Was ist die Muttersprache des Kindes?;Was ist die Muttersprache des Kindes?;What is the native language of the child?
+TCHD_0004_PROMPT;Wieviele Kinder leben dauerhaft  im Ihrem Haushalt?;Wieviele Kinder leben dauerhaft  im Ihrem Haushalt?;How many children live permanenty in your family?
+TCHD_0005_CHOICE1;Männlich;Männlich;Male
+TCHD_0005_CHOICE2;Weiblich;Weiblich;Female 
+TCHD_0005_CHOICE3;Divers;Divers;Diverse
+TCHD_0005_CHOICE4;Möchte ich nicht sagen;Möchte ich nicht sagen;Rather not say
+TCHD_0005_PROMPT;Was das ist das Geschlecht des Kindes?;Was das ist das Geschlecht des Kindes?;What is the gender of the child?
+TCHD_0006_CHOICE1;Gemeinsam erziehend;Gemeinsam erziehend;Parenting together 
+TCHD_0006_CHOICE2;Getrennt gemeinsam erziehend ;Getrennt gemeinsam erziehend;Parenting separately 
+TCHD_0006_CHOICE3;Alleinerziehend;Alleinerziehend;Single parent 
+TCHD_0006_PROMPT;Wie ist  Ihre Familiensituation?;Wie ist  Ihre Familiensituation?;What is your family situation?
+TCHD_0007_CHOICE1;Ja, mein Kind besucht regelmäßig eine Tagesmutter.;Ja, mein Kind besucht regelmäßig eine Tagesmutter.;Yes, my child regularly visits a childminder. 
+TCHD_0007_CHOICE2;Ja, mein Kind besucht regelmäßig eine Kindertagesstätte / einen Kindergarten.;Ja, mein Kind besucht regelmäßig eine Kindertagesstätte / einen Kindergarten.;Yes, my child regularly attends a daycare center or kindergarten. 
+TCHD_0007_CHOICE3;Ja, mein Kind ist schulpflichtig. ;Ja, mein Kind ist schulpflichtig. ;Yes, my child is of school age. 
+TCHD_0007_CHOICE4;Nein, mein Kind wird nur innerhalb der Familie betreut.;Nein, mein Kind wird nur innerhalb der Familie betreut.;No, my child is only looked after within family.
+TCHD_0007_PROMPT;Wird Ihr Kind auch außerhalb von zuhause betreut? ;Wird Ihr Kind auch außerhalb von zuhause betreut? ;Is your child also looked after outside the home? 
+TCHD_0008_CHOICE1;Ich übernehme den Hauptteil.;Ich übernehme den Hauptteil.;I take over the main part of the care of our child.
+TCHD_0008_CHOICE2;Mein:e Partner:in übernimmt den Hauptteil.;Mein:e Partner:in übernimmt den Hauptteil.;My partner takes on the main part of our child's care.
+TCHD_0008_CHOICE3;Mein:e Partner:in und ich übernehmen gleichberechtigte Anteile.;Mein:e Partner:in und ich übernehmen gleichberechtigte Anteile. ;My partner and I take on an equal share of the care of our child.
+TCHD_0008_PROMPT;Wer übernimmt die Betreuungsarbeit für das Kind?;Wer übernimmt die Betreuungsarbeit für das Kind?;Who takes on the main care work for the child?
+TCHD_0009_CHOICE1;Vater;Vater;Father
+TCHD_0009_CHOICE2;Mutter;Mutter;Mother 
+TCHD_0009_CHOICE3;Zweiter Vater;Zweiter Vater;Second father 
+TCHD_0009_CHOICE4;Zweite Mutter;Zweite Mutter;Second mother 
+TCHD_0009_PROMPT;Wer ist der zweite Elternteil?;Wer ist der zweite Elternteil?;Who is the second parent?

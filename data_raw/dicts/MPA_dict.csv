@@ -1,0 +1,126 @@
+key;de;de_f;en;lv
+TMPA_0000_PROMPT;Was ich über Musik und Darbietung denke (MPA);Was ich über Musik und Darbietung denke (MPA);What I think about music and performing (MPA);Aptauja par mūziku un uzstāšanos
+TMPA_0001_PROMPT;Bitte denke an Musik im Allgemeinen und an dein Hauptinstrument im Besonderen und beantworten die Fragen, indem du die Antwort wählst, die dein Gefühl am besten beschreibt.;Bitte denken Sie an Musik im Allgemeinen und an Ihr Hauptinstrument und beantworten Sie die Fragen, indem Sie die Antwort wählen, die Ihr Gefühl am besten beschreibt.;Please think about music in general and your major instrument and answer the questions by choosing the answer, which describes best how you feel.;Lūdzu, vispārīgi padomā  par mūziku un savu (galveno) mūzikas instrumentu, un atbildi uz jautājumiem izvēloties atbilstošu atbildi, kas raksturo tavas izjūtas.
+TMPA_0002_CHOICE1;Ja;Ja;Yes;Jā
+TMPA_0002_CHOICE2;Nein;Nein;No;Nē
+TMPA_0002_PROMPT;Spielst du ein Musikinstrument?;Spielen Sie ein Musikinstrument?;Do you play a musical instrument?;Vai Tu spēlē kādu mūzikas instrumentu vai arī uzstājies kā dziedātājs?
+TMPA_0003_CHOICE1;Niemals;Niemals;None of the time;Nekad
+TMPA_0003_CHOICE2;Selten;Selten;Rarely;Reti
+TMPA_0003_CHOICE3;Manchmal;Manchmal;Occasionally;Dažreiz
+TMPA_0003_CHOICE4;Ungefähr die Hälfte der Zeit;Ungefähr die Hälfte der Zeit;About half the time;Apmēram pusē no gadījumiem
+TMPA_0003_CHOICE5;Oft;Oft;Often;Bieži
+TMPA_0003_CHOICE6;Sehr oft;Sehr oft;Very often;Ļoti bieži
+TMPA_0003_CHOICE7;Immer;Immer;All of the time;Vienmēr
+TMPA_0003_PROMPT;Bevor ich auftrete, habe ich Schmetterlinge im Bauch.;Bevor ich auftrete, habe ich Schmetterlinge im Bauch.;Before I perform, I get butterflies in my stomach;Pirms uzstāšanās es jūtu “tauriņus vēderā”
+TMPA_0004_CHOICE1;Niemals;Niemals;None of the time;Nekad
+TMPA_0004_CHOICE2;Selten;Selten;Rarely;Reti
+TMPA_0004_CHOICE3;Manchmal;Manchmal;Occasionally;Dažreiz
+TMPA_0004_CHOICE4;Ungefähr die Hälfte der Zeit;Ungefähr die Hälfte der Zeit;About half the time;Apmēram pusē no gadījumiem
+TMPA_0004_CHOICE5;Oft;Oft;Often;Bieži
+TMPA_0004_CHOICE6;Sehr oft;Sehr oft;Very often;Ļoti bieži
+TMPA_0004_CHOICE7;Immer;Immer;All of the time;Vienmēr
+TMPA_0004_PROMPT;Ich mache mir oft Sorgen über meine Fähigkeit, etwas zu leisten.;Ich mache mir oft Sorgen über meine Fähigkeit, etwas zu leisten.;I often worry about my ability to perform;Es parasti uztraucos par savu uzstāšanos
+TMPA_0005_CHOICE1;Niemals;Niemals;None of the time;Nekad
+TMPA_0005_CHOICE2;Selten;Selten;Rarely;Reti
+TMPA_0005_CHOICE3;Manchmal;Manchmal;Occasionally;Dažreiz
+TMPA_0005_CHOICE4;Ungefähr die Hälfte der Zeit;Ungefähr die Hälfte der Zeit;About half the time;Apmēram pusē no gadījumiem
+TMPA_0005_CHOICE5;Oft;Oft;Often;Bieži
+TMPA_0005_CHOICE6;Sehr oft;Sehr oft;Very often;Ļoti bieži
+TMPA_0005_CHOICE7;Immer;Immer;All of the time;Vienmēr
+TMPA_0005_PROMPT;Ich spiele lieber alleine, als vor anderen Leuten.;Ich spiele lieber alleine, als vor anderen Leuten.;I would rather play on my own, than in front of other people.;Es labprāt spēlētu pats sev, nevis citiem
+TMPA_0006_CHOICE1;Niemals;Niemals;None of the time;Nekad
+TMPA_0006_CHOICE2;Selten;Selten;Rarely;Reti
+TMPA_0006_CHOICE3;Manchmal;Manchmal;Occasionally;Dažreiz
+TMPA_0006_CHOICE4;Ungefähr die Hälfte der Zeit;Ungefähr die Hälfte der Zeit;About half the time;Apmēram pusē no gadījumiem
+TMPA_0006_CHOICE5;Oft;Oft;Often;Bieži
+TMPA_0006_CHOICE6;Sehr oft;Sehr oft;Very often;Ļoti bieži
+TMPA_0006_CHOICE7;Immer;Immer;All of the time;Vienmēr
+TMPA_0006_PROMPT;Bevor ich auftrete, zittere oder bebe ich.;Bevor ich auftrete, zittere oder bebe ich.;Before I perform, I tremble or shake;Pirms uzstāšanās es trīcu vai drebu
+TMPA_0007_CHOICE1;Niemals;Niemals;None of the time;Nekad
+TMPA_0007_CHOICE2;Selten;Selten;Rarely;Reti
+TMPA_0007_CHOICE3;Manchmal;Manchmal;Occasionally;Dažreiz
+TMPA_0007_CHOICE4;Ungefähr die Hälfte der Zeit;Ungefähr die Hälfte der Zeit;About half the time;Apmēram pusē no gadījumiem
+TMPA_0007_CHOICE5;Oft;Oft;Often;Bieži
+TMPA_0007_CHOICE6;Sehr oft;Sehr oft;Very often;Ļoti bieži
+TMPA_0007_CHOICE7;Immer;Immer;All of the time;Vienmēr
+TMPA_0007_PROMPT;Wenn ich vor einem Publikum auftrete, habe ich Angst, Fehler zu machen.;Wenn ich vor einem Publikum auftrete, habe ich Angst, Fehler zu machen.;When I perform in front of an audience, I am afraid of making mistakes;Kad es uzstājos publikas priekšā, es baidos kļūdīties
+TMPA_0008_CHOICE1;Niemals;Niemals;None of the time;Nekad
+TMPA_0008_CHOICE2;Selten;Selten;Rarely;Reti
+TMPA_0008_CHOICE3;Manchmal;Manchmal;Occasionally;Dažreiz
+TMPA_0008_CHOICE4;Ungefähr die Hälfte der Zeit;Ungefähr die Hälfte der Zeit;About half the time;Apmēram pusē no gadījumiem
+TMPA_0008_CHOICE5;Oft;Oft;Often;Bieži
+TMPA_0008_CHOICE6;Sehr oft;Sehr oft;Very often;Ļoti bieži
+TMPA_0008_CHOICE7;Immer;Immer;All of the time;Vienmēr
+TMPA_0008_PROMPT;Wenn ich vor Publikum auftrete, schlägt mein Herz sehr schnell.;Wenn ich vor Publikum auftrete, schlägt mein Herz sehr schnell.;When I perform in front of an audience, my heart beats very fast;Kad es uzstājos publikas priekšā, mana sirds pukst ļoti strauji
+TMPA_0009_CHOICE1;Niemals;Niemals;None of the time;Nekad
+TMPA_0009_CHOICE2;Selten;Selten;Rarely;Reti
+TMPA_0009_CHOICE3;Manchmal;Manchmal;Occasionally;Dažreiz
+TMPA_0009_CHOICE4;Ungefähr die Hälfte der Zeit;Ungefähr die Hälfte der Zeit;About half the time;Apmēram pusē no gadījumiem
+TMPA_0009_CHOICE5;Oft;Oft;Often;Bieži
+TMPA_0009_CHOICE6;Sehr oft;Sehr oft;Very often;Ļoti bieži
+TMPA_0009_CHOICE7;Immer;Immer;All of the time;Vienmēr
+TMPA_0009_PROMPT;Wenn ich vor Publikum auftrete, fällt es mir schwer, mich auf meine Musik zu konzentrieren.;Wenn ich vor Publikum auftrete, fällt es mir schwer, mich auf meine Musik zu konzentrieren.;When I perform in front of an audience, I find it hard to concentrate on my music;Kad es uzstājos publikas priekšā, man ir grūti koncentrēties uz atskaņojamo mūziku
+TMPA_0010_CHOICE1;Niemals;Niemals;None of the time;Nekad
+TMPA_0010_CHOICE2;Selten;Selten;Rarely;Reti
+TMPA_0010_CHOICE3;Manchmal;Manchmal;Occasionally;Dažreiz
+TMPA_0010_CHOICE4;Ungefähr die Hälfte der Zeit;Ungefähr die Hälfte der Zeit;About half the time;Apmēram pusē no gadījumiem
+TMPA_0010_CHOICE5;Oft;Oft;Often;Bieži
+TMPA_0010_CHOICE6;Sehr oft;Sehr oft;Very often;Ļoti bieži
+TMPA_0010_CHOICE7;Immer;Immer;All of the time;Vienmēr
+TMPA_0010_PROMPT;Wenn ich während einer Aufführung einen Fehler mache, gerate ich normalerweise in Panik.;Wenn ich während einer Aufführung einen Fehler mache, gerate ich normalerweise in Panik.;If I make a mistake during a performance, I usually panic;Ja priekšnesuma laikā es kļūdos, tad parasti sāku uztraukties vēl vairāk
+TMPA_0011_CHOICE1;Niemals;Niemals;None of the time;Nekad
+TMPA_0011_CHOICE2;Selten;Selten;Rarely;Reti
+TMPA_0011_CHOICE3;Manchmal;Manchmal;Occasionally;Dažreiz
+TMPA_0011_CHOICE4;Ungefähr die Hälfte der Zeit;Ungefähr die Hälfte der Zeit;About half the time;Apmēram pusē no gadījumiem
+TMPA_0011_CHOICE5;Oft;Oft;Often;Bieži
+TMPA_0011_CHOICE6;Sehr oft;Sehr oft;Very often;Ļoti bieži
+TMPA_0011_CHOICE7;Immer;Immer;All of the time;Vienmēr
+TMPA_0011_PROMPT;Wenn ich vor Publikum auftrete, bekomme ich schwitzige Hände.;Wenn ich vor Publikum auftrete, bekomme ich schwitzige Hände.;When I perform in front of an audience I get sweaty hands;Kad uzstājos publikas priekšā, man svīst rokas
+TMPA_0012_CHOICE1;Niemals;Niemals;None of the time;Nekad
+TMPA_0012_CHOICE2;Selten;Selten;Rarely;Reti
+TMPA_0012_CHOICE3;Manchmal;Manchmal;Occasionally;Dažreiz
+TMPA_0012_CHOICE4;Ungefähr die Hälfte der Zeit;Ungefähr die Hälfte der Zeit;About half the time;Apmēram pusē no gadījumiem
+TMPA_0012_CHOICE5;Oft;Oft;Often;Bieži
+TMPA_0012_CHOICE6;Sehr oft;Sehr oft;Very often;Ļoti bieži
+TMPA_0012_CHOICE7;Immer;Immer;All of the time;Vienmēr
+TMPA_0012_PROMPT;Nach einem Auftritt bin ich normalerweise zufrieden mit meiner Leistung.;Nach einem Auftritt bin ich normalerweise zufrieden mit meiner Leistung.;When I finish performing, I usually feel happy with my performance;Kad es beidzu uzstāties, es parasti jūtos apmierināts ar savu sniegumu
+TMPA_0013_CHOICE1;Niemals;Niemals;None of the time;Nekad
+TMPA_0013_CHOICE2;Selten;Selten;Rarely;Reti
+TMPA_0013_CHOICE3;Manchmal;Manchmal;Occasionally;Dažreiz
+TMPA_0013_CHOICE4;Ungefähr die Hälfte der Zeit;Ungefähr die Hälfte der Zeit;About half the time;Apmēram pusē no gadījumiem
+TMPA_0013_CHOICE5;Oft;Oft;Often;Bieži
+TMPA_0013_CHOICE6;Sehr oft;Sehr oft;Very often;Ļoti bieži
+TMPA_0013_CHOICE7;Immer;Immer;All of the time;Vienmēr
+TMPA_0013_PROMPT;Ich versuche zu vermeiden, bei einem Konzert solo zu spielen.;Ich versuche zu vermeiden, bei einem Konzert solo zu spielen.;I try to avoid playing on my own at a school concert;Es cenšos izvairīties no solo uzstāšanās koncertā
+TMPA_0014_CHOICE1;Niemals;Niemals;None of the time;Nekad
+TMPA_0014_CHOICE2;Selten;Selten;Rarely;Reti
+TMPA_0014_CHOICE3;Manchmal;Manchmal;Occasionally;Dažreiz
+TMPA_0014_CHOICE4;Ungefähr die Hälfte der Zeit;Ungefähr die Hälfte der Zeit;About half the time;Apmēram pusē no gadījumiem
+TMPA_0014_CHOICE5;Oft;Oft;Often;Bieži
+TMPA_0014_CHOICE6;Sehr oft;Sehr oft;Very often;Ļoti bieži
+TMPA_0014_CHOICE7;Immer;Immer;All of the time;Vienmēr
+TMPA_0014_PROMPT;Kurz vor dem Auftritt bin ich nervös.;Kurz vor dem Auftritt bin ich nervös.;Just before I perform, I feel nervous;Īsi pirms uzstāšanās es jūtos nervozs, satraukts
+TMPA_0015_CHOICE1;Niemals;Niemals;None of the time;Nekad
+TMPA_0015_CHOICE2;Selten;Selten;Rarely;Reti
+TMPA_0015_CHOICE3;Manchmal;Manchmal;Occasionally;Dažreiz
+TMPA_0015_CHOICE4;Ungefähr die Hälfte der Zeit;Ungefähr die Hälfte der Zeit;About half the time;Apmēram pusē no gadījumiem
+TMPA_0015_CHOICE5;Oft;Oft;Often;Bieži
+TMPA_0015_CHOICE6;Sehr oft;Sehr oft;Very often;Ļoti bieži
+TMPA_0015_CHOICE7;Immer;Immer;All of the time;Vienmēr
+TMPA_0015_PROMPT;Ich mache mir Sorgen, dass meine Eltern oder Lehrer meine Leistung nicht mögen könnten.;Ich mache mir Sorgen, dass meine Eltern oder Lehrer meine Leistung nicht mögen könnten.;I worry that my parents or teacher might not like my performance;Es uztraucos, ka maniem vecākiem vai skolotājam varētu nepatikt mans priekšnesums
+TMPA_0016_CHOICE1;Niemals;Niemals;None of the time;Nekad
+TMPA_0016_CHOICE2;Selten;Selten;Rarely;Reti
+TMPA_0016_CHOICE3;Manchmal;Manchmal;Occasionally;Dažreiz
+TMPA_0016_CHOICE4;Ungefähr die Hälfte der Zeit;Ungefähr die Hälfte der Zeit;About half the time;Apmēram pusē no gadījumiem
+TMPA_0016_CHOICE5;Oft;Oft;Often;Bieži
+TMPA_0016_CHOICE6;Sehr oft;Sehr oft;Very often;Ļoti bieži
+TMPA_0016_CHOICE7;Immer;Immer;All of the time;Vienmēr
+TMPA_0016_PROMPT;Ich spiele lieber in einer Gruppe oder einem Ensemble, als alleine zu spielen.;Ich spiele lieber in einer Gruppe oder einem Ensemble, als alleine zu spielen.;I would rather play in a group or ensemble, than on my own;Es labprāt spēlēju ansamblī, nevis solo
+TMPA_0017_CHOICE1;Niemals;Niemals;None of the time;Nekad
+TMPA_0017_CHOICE2;Selten;Selten;Rarely;Reti
+TMPA_0017_CHOICE3;Manchmal;Manchmal;Occasionally;Dažreiz
+TMPA_0017_CHOICE4;Ungefähr die Hälfte der Zeit;Ungefähr die Hälfte der Zeit;About half the time;Apmēram pusē no gadījumiem
+TMPA_0017_CHOICE5;Oft;Oft;Often;Bieži
+TMPA_0017_CHOICE6;Sehr oft;Sehr oft;Very often;Ļoti bieži
+TMPA_0017_CHOICE7;Immer;Immer;All of the time;Vienmēr
+TMPA_0017_PROMPT;Meine Muskeln fühlen sich angespannt an, wenn ich auftrete.;Meine Muskeln fühlen sich angespannt an, wenn ich auftrete.;My muscles feel tense when I perform;Uzstāšanās laikā mani muskuļi ir saspringti

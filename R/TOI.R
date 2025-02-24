@@ -31,6 +31,7 @@ TOI <- function(label = "TOI",
     subscales = subscales,
     offset = 1,
     arrange_vertically = TRUE,
-    button_style = "min-width: 326px"
+    button_style = "min-width: 326px",
+    dict = dict
   )
 }

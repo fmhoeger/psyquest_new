@@ -4,7 +4,7 @@
 \alias{PAC}
 \title{PAC}
 \usage{
-PAC(label = "PAC", dict = psyquest::psyquest_dict, ...)
+PAC(label = "PAC", dict = psyquest::psyquest_dict, exclude_dance = FALSE, ...)
 }
 \arguments{
 \item{label}{(Character scalar) Three uppercase letter acronym of the questionnaire.

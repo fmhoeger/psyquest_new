@@ -13,7 +13,9 @@ standalone(
   dict = psyquest::psyquest_dict,
   admin_password = "conifer",
   researcher_email = NULL,
+  with_id = FALSE,
   validate_id = "auto",
+  randomize = FALSE,
   ...
 )
 }
@@ -42,6 +44,8 @@ exported from the GMSI-Configurator at https://shiny.gold-msi.org/gmsiconfigurat
 If not \code{NULL}, this researcher's email address is displayed at the
 bottom of the screen so that online participants can ask for help.}
 
+\item{with_id}{(Boolean) Flag if ID should be entered}
+
 \item{validate_id}{(Character scalar or closure) Function for validating IDs or string "auto"
 for default validation which means ID should consist only of alphanumeric characters.}
 
@@ -49,7 +53,7 @@ for default validation which means ID should consist only of alphanumeric charac
 }
 \description{
 This function launches a standalone testing session for a questionnaire with the specified label.
-Valid labels are 'CCM', 'DAC', 'DEG', 'GDS', 'GMS', 'GRT', 'HOP', 'MHE', 'PAC',
-'SDQ', 'SEM', 'SES','SMP', 'SOS', 'TOI', 'TOM', and 'TPI'.
+Valid labels are 'BMR', 'BFT'. 'CBQ', CCM', 'DAC', 'DEG', 'GDS', 'GMS', 'GRT', 'HOP', 'HUM', 'HSP', 'IBQ', MES', 'MES', 'MHE', 'MHI', 'MHP', 'PAC', 'PMS', 'LON'
+'SDQ', 'SEM', 'SES','SMP', 'SOS', 'SWL', TOI', 'TOM', and 'TPI'.
 This can be used for data collection, either in the laboratory or online.
 }

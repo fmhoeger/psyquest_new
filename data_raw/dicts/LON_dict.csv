@@ -1,0 +1,32 @@
+key;de;en
+TLON_0000_PROMPT;Einsamkeitsskala;Lonelines Scale
+TLON_0001_CHOICE1;Gar nicht;Not at all
+TLON_0001_CHOICE2;Nein;No
+TLON_0001_CHOICE3;Ja;Yes
+TLON_0001_CHOICE4;Genau;Exactly
+TLON_0001_PROMPT;Ich vermisse Leute, bei denen ich mich wohl fühle.;I miss people who make me feel comfortable.
+TLON_0002_CHOICE1;Gar nicht;Not at all
+TLON_0002_CHOICE2;Nein;No
+TLON_0002_CHOICE3;Ja;Yes
+TLON_0002_CHOICE4;Genau;Exactly
+TLON_0002_PROMPT;Ich fühle mich häufig im Stich gelassen.;I often feel abandoned.
+TLON_0003_CHOICE1;Gar nicht;Not at all
+TLON_0003_CHOICE2;Nein;No
+TLON_0003_CHOICE3;Ja;Yes
+TLON_0003_CHOICE4;Genau;Exactly
+TLON_0003_PROMPT;Ich vermisse Geborgenheit und Wärme.;I miss security and warmth.
+TLON_0004_CHOICE1;Gar nicht;Not at all
+TLON_0004_CHOICE2;Nein;No
+TLON_0004_CHOICE3;Ja;Yes
+TLON_0004_CHOICE4;Genau;Exactly
+TLON_0004_PROMPT;Es gibt genug Menschen, die mir helfen würden, wenn ich Probleme habe.;There are enough people who would help me when I have problems.
+TLON_0005_CHOICE1;Gar nicht;Not at all
+TLON_0005_CHOICE2;Nein;No
+TLON_0005_CHOICE3;Ja;Yes
+TLON_0005_CHOICE4;Genau;Exactly
+TLON_0005_PROMPT;Ich kenne viele Menschen, auf die ich mich wirklich verlassen kann.;I know many people on whom I can really rely.
+TLON_0006_CHOICE1;Gar nicht;Not at all
+TLON_0006_CHOICE2;Nein;No
+TLON_0006_CHOICE3;Ja;Yes
+TLON_0006_CHOICE4;Genau;Exactly
+TLON_0006_PROMPT;Es gibt genügend Menschen, mit denen ich mich eng verbunden fühle.;There are enough people with whom I feel closely connected.

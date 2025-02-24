@@ -1,0 +1,262 @@
+key;en;de;de_f
+TMDS_0000_PROMPT;Music Dislike Scale (MDS);Fragebogen zu abgelehnter Musik (MDS);Fragebogen zu abgelehnter Musik(MDS)
+TMDS_0001_PROMPT;Following is a set of statements that may or may not describe your attitude towards **{{target}}**. Please read each item very carefully, and indicate how much you agree with the statement. ;Nachfolgend eine Menge von Aussagen, die Ihre Ablehnung **{{target}}** beschreiben sollen. Bitte lesen Sie jeden Punkt sehr sorgfältig durch und geben Sie an, wie zutreffend die jeweilige Aussage für Sie ist.;Nachfolgend eine Menge von Aussagen, die Ihre Ablehnung **{{target}}** beschreiben sollen. Bitte lesen Sie jeden Punkt sehr sorgfältig durch und geben Sie an, wie zutreffend die jeweilige Aussage für Sie ist.
+TMDS_0001_SUB;a music; von einer Musik;von einer Musik
+TMDS_0002_PROMPT;It’s not authentic enough;Ist mir nicht authentisch genug;Ist mir nicht authentisch genug
+TMDS_0003_PROMPT;It contains too many off-key sounds;Enthält mir zu viele schräge Töne;Enthält mir zu viele schräge Töne
+TMDS_0004_PROMPT;It doesn’t have enough emotional expression;Hat mir zu wenig emotionalen Ausdruck;Hat mir zu wenig emotionalen Ausdruck
+TMDS_0005_PROMPT;It always sounds the same;Klingt für mich immer gleich;Klingt für mich immer gleich
+TMDS_0006_PROMPT;It has no effect on my mood;Hat keine Auswirkungen auf meine Stimmung;Hat keine Auswirkungen auf meine Stimmung
+TMDS_0007_PROMPT;It’s not melodic enough;Ist mir zu unmelodisch;Ist mir zu unmelodisch
+TMDS_0008_PROMPT;I can’t move to it;Ich kann mich dazu nicht bewegen;Ich kann mich dazu nicht bewegen
+TMDS_0009_PROMPT;I can’t identify wIth it;Ich kann mich damit nicht identifizieren;Ich kann mich damit nicht identifizieren
+TMDS_0010_PROMPT;The lyrics are too close to reality;Der Text ist mir zu nah an der Realität;Der Text ist mir zu nah an der Realität
+TMDS_0011_PROMPT;It’s not rhythmic enough;Ist mir zu wenig rhythmisch;Ist mir zu wenig rhythmisch
+TMDS_0012_PROMPT;It’s too fast;Ist mir zu schnell;Ist mir zu schnell
+TMDS_0013_PROMPT;It’s physically uncomfortable;Ist für mich körperlich unangenehm;Ist für mich körperlich unangenehm
+TMDS_0014_PROMPT;It doesn’t touch me;Berührt mich nicht;Berührt mich nicht
+TMDS_0015_PROMPT;It puts me in a bad mood;Macht mir schlechte Laune;Macht mir schlechte Laune
+TMDS_0016_PROMPT;It’s too structured;Ist mir zu schematisch;Ist mir zu schematisch
+TMDS_0017_PROMPT;I associate it wIth negative experiences;Ich verbinde damit negative Erfahrungen;Ich verbinde damit negative Erfahrungen
+TMDS_0018_PROMPT;It’s too melodic;Ist mir zu melodisch;Ist mir zu melodisch
+TMDS_0019_PROMPT;The emotional content is fake or exaggerated;Der emotionale Gehalt ist übertrieben oder falsch;Der emotionale Gehalt ist übertrieben oder falsch
+TMDS_0020_PROMPT;It’s too chaotic;Ist mir zu chaotisch;Ist mir zu chaotisch
+TMDS_0021_PROMPT;It’s too variable;Klingt mir zu unterschiedlich;Klingt mir zu unterschiedlich
+TMDS_0022_PROMPT;It uses instruments whose sound I don’t like;Es werden Instrumente eingesetzt, deren Klang ich nicht mag;Es werden Instrumente eingesetzt, deren Klang ich nicht mag
+TMDS_0023_PROMPT;The lyrics are too simple;Die Texte sind mir zu einfach;Die Texte sind mir zu einfach
+TMDS_0024_PROMPT;My friends dislike it also;Meine Freunde mögen das auch nicht;Meine Freunde mögen das auch nicht
+TMDS_0025_PROMPT;The lyrics are too complex;Die Texte sind  mir zu komplex;Die Texte sind  mir zu komplex
+TMDS_0026_PROMPT;It’s too quiet;Ist mir zu leise;Ist mir zu leise
+TMDS_0027_PROMPT;It’s too rhythmic;Ist mir zu rhythmisch;Ist mir zu rhythmisch
+TMDS_0028_PROMPT;It doesn’t have enough musical tension;Enthält mir musikalisch zu wenig Spannung;Enthält mir musikalisch zu wenig Spannung
+TMDS_0029_PROMPT;I don’t have anything in common wIth the people who listen to it;ich habe mit denjenigen, die das hören, nichts gemeinsam;ich habe mit denjenigen, die das hören, nichts gemeinsam
+TMDS_0030_PROMPT;It’s too slow;Ist mir zu langsam;Ist mir zu langsam
+TMDS_0031_PROMPT;It’s too loud;Ist mir zu laut;Ist mir zu laut
+TMDS_0032_PROMPT;I don’t like the way the voice is used;Ich mag die Art nicht, wie die Stimme eingesetzt wird;Ich mag die Art nicht, wie die Stimme eingesetzt wird
+TMDS_0033_PROMPT;It’s too niche;Ist mir zu speziell;Ist mir zu speziell
+TMDS_0034_PROMPT;I’ve heard it too often;Ich habe das zu oft gehört;Ich habe das zu oft gehört
+TMDS_0035_PROMPT;It’s too close to mainstream;Ist mir zu nah am Mainstream;Ist mir zu nah am Mainstream
+TMDS_0036_PROMPT;The lyrics are too far from reality;Der Text ist mir zu unrealistisch;Der Text ist mir zu unrealistisch
+TMDS_0037_PROMPT;It’s too complex;Ist mir zu komplex;Ist mir zu komplex
+TMDS_0038_PROMPT;I can’t relate to the ideology of it;Ich kann mit der Weltanschauung nichts anfangen;Ich kann mit der Weltanschauung nichts anfangen
+TMDS_0039_PROMPT;It has changed too much;Hat sich zu sehr verändert;Hat sich zu sehr verändert
+TMDS_0040_PROMPT;It triggers unpleasant feelings in me;Löst unangenehme Gefühle in mir aus;Löst unangenehme Gefühle in mir aus
+TMDS_0041_PROMPT;It’s too emotional;Ist mir zu gefühlvoll;Ist mir zu gefühlvoll
+TMDS_0042_PROMPT;It shows too little development;Hat sich zu wenig weiter entwickelt;Hat sich zu wenig weiter entwickelt
+TMDS_0043_PROMPT;It’s too simple;Ist mir zu einfach;Ist mir zu einfach
+TMDS_0044_PROMPT;It doesn’t contain original ideas;Ist nicht originell genug.;Ist nicht originell genug.
+TMDS_0002_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0002_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0002_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0002_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0002_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0003_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0003_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0003_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0003_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0003_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0004_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0004_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0004_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0004_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0004_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0005_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0005_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0005_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0005_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0005_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0006_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0006_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0006_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0006_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0006_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0007_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0007_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0007_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0007_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0007_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0008_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0008_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0008_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0008_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0008_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0009_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0009_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0009_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0009_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0009_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0010_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0010_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0010_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0010_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0010_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0011_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0011_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0011_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0011_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0011_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0012_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0012_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0012_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0012_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0012_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0013_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0013_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0013_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0013_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0013_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0014_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0014_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0014_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0014_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0014_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0015_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0015_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0015_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0015_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0015_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0016_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0016_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0016_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0016_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0016_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0017_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0017_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0017_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0017_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0017_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0018_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0018_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0018_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0018_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0018_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0019_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0019_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0019_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0019_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0019_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0020_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0020_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0020_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0020_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0020_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0021_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0021_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0021_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0021_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0021_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0022_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0022_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0022_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0022_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0022_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0023_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0023_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0023_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0023_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0023_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0024_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0024_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0024_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0024_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0024_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0025_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0025_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0025_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0025_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0025_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0026_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0026_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0026_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0026_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0026_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0027_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0027_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0027_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0027_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0027_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0028_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0028_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0028_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0028_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0028_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0029_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0029_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0029_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0029_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0029_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0030_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0030_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0030_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0030_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0030_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0031_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0031_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0031_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0031_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0031_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0032_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0032_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0032_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0032_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0032_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0033_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0033_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0033_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0033_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0033_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0034_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0034_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0034_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0034_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0034_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0035_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0035_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0035_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0035_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0035_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0036_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0036_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0036_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0036_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0036_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0037_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0037_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0037_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0037_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0037_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0038_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0038_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0038_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0038_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0038_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0039_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0039_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0039_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0039_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0039_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0040_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0040_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0040_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0040_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0040_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0041_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0041_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0041_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0041_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0041_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0042_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0042_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0042_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0042_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0042_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0043_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0043_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0043_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0043_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0043_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu
+TMDS_0044_CHOICE1;Completely disagree;Triftt überhaupt nicht zu;Triftt überhaupt nicht zu
+TMDS_0044_CHOICE2;Disagree;Trifft nicht zu;Trifft nicht zu
+TMDS_0044_CHOICE3;Neither agree nor disagree;Triftt weder zu noch nicht zu;Triftt weder zu noch nicht zu
+TMDS_0044_CHOICE4;Agree;Trifft zu;Trifft zu
+TMDS_0044_CHOICE5;Completely agree;Trifft vollkommen zu;Trifft vollkommen zu

@@ -1,0 +1,147 @@
+key;de;en 
+TMHI_0000_PROMPT;Music@home Kleinkindversion;Music@home Infant Version 
+TMHI_0001_PROMPT;"Nun kommen ein paar Fragen zur musikalischen Interaktion zwischen Ihnen und Ihrem Kind. Bitte geben Sie an, wie sehr Sie den Aussagen zustimmen.";"Here are a few questions about musical interaction at home and musical interaction between you and your child. Please indicate how much you agree with the statements."
+TMHI_0002_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree
+TMHI_0002_CHOICE2;Stimme nicht zu;Strongly disagree
+TMHI_0002_CHOICE3;Stimme eher nicht zu;Disagree
+TMHI_0002_CHOICE4;Weder noch;Neither agree nor disagree 
+TMHI_0002_CHOICE5;Stimme eher zu;Agree 
+TMHI_0002_CHOICE6;Stimme zu;Strongly agree
+TMHI_0002_CHOICE7;Stimme voll und ganz zu;Completely agree
+TMHI_0002_PROMPT;Ich singe mehrmals (z.B. 5-10 Mal) am Tag meinem Kind vor/mit meinem Kind.;I sing to/with my child several (e.g. 5-10) times a day. 
+TMHI_0003_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree
+TMHI_0003_CHOICE2;Stimme nicht zu;Strongly disagree
+TMHI_0003_CHOICE3;Stimme eher nicht zu;Disagree
+TMHI_0003_CHOICE4;Weder noch;Neither agree nor disagree 
+TMHI_0003_CHOICE5;Stimme eher zu;Agree 
+TMHI_0003_CHOICE6;Stimme zu;Strongly agree
+TMHI_0003_CHOICE7;Stimme voll und ganz zu;Completely agree
+TMHI_0003_PROMPT;In unserem Alltag verbringe ich nicht viel Zeit damit, über das zu singen, was wir gerade machen.;During our daily routine, I do not spend much time singing about what we are doing. 
+TMHI_0004_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree
+TMHI_0004_CHOICE2;Stimme nicht zu;Strongly disagree
+TMHI_0004_CHOICE3;Stimme eher nicht zu;Disagree
+TMHI_0004_CHOICE4;Weder noch;Neither agree nor disagree 
+TMHI_0004_CHOICE5;Stimme eher zu;Agree 
+TMHI_0004_CHOICE6;Stimme zu;Strongly agree
+TMHI_0004_CHOICE7;Stimme voll und ganz zu;Completely agree
+TMHI_0004_PROMPT;Ich finde, dass Musik Teil einer vielseitigen Erziehung ist.;I believe that music is part of a well-rounded education. 
+TMHI_0005_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree
+TMHI_0005_CHOICE2;Stimme nicht zu;Strongly disagree
+TMHI_0005_CHOICE3;Stimme eher nicht zu;Disagree
+TMHI_0005_CHOICE4;Weder noch;Neither agree nor disagree 
+TMHI_0005_CHOICE5;Stimme eher zu;Agree 
+TMHI_0005_CHOICE6;Stimme zu;Strongly agree
+TMHI_0005_CHOICE7;Stimme voll und ganz zu;Completely agree
+TMHI_0005_PROMPT;Ich singe für/mit mein(em) Kind in vielen verschiedenen Situationen (z.B. beim Spielen, mit Freunden und Familien).;I sing to/with my child in many different situations (e.g. during playtime, with friends and family).
+TMHI_0006_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree
+TMHI_0006_CHOICE2;Stimme nicht zu;Strongly disagree
+TMHI_0006_CHOICE3;Stimme eher nicht zu;Disagree
+TMHI_0006_CHOICE4;Weder noch;Neither agree nor disagree 
+TMHI_0006_CHOICE5;Stimme eher zu;Agree 
+TMHI_0006_CHOICE6;Stimme zu;Strongly agree
+TMHI_0006_CHOICE7;Stimme voll und ganz zu;Completely agree
+TMHI_0006_PROMPT;Ich mache fast jeden Tag mit meinem Kind Musik (einschl. Spielzeuginstrumente).;I make music with my child (including toy instruments) almost everyday.
+TMHI_0007_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree
+TMHI_0007_CHOICE2;Stimme nicht zu;Strongly disagree
+TMHI_0007_CHOICE3;Stimme eher nicht zu;Disagree
+TMHI_0007_CHOICE4;Weder noch;Neither agree nor disagree 
+TMHI_0007_CHOICE5;Stimme eher zu;Agree 
+TMHI_0007_CHOICE6;Stimme zu;Strongly agree
+TMHI_0007_CHOICE7;Stimme voll und ganz zu;Completely agree
+TMHI_0007_PROMPT;Mein Kind zeigt keine physischen Anzeichen von Anteilnahme (z.B. Springen oder Klopfen), wenn Musik abgespielt wird.;My child displays no physical signs of engagement when there is recorded music on (e.g. bouncing or tapping). 
+TMHI_0008_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree
+TMHI_0008_CHOICE2;Stimme nicht zu;Strongly disagree
+TMHI_0008_CHOICE3;Stimme eher nicht zu;Disagree
+TMHI_0008_CHOICE4;Weder noch;Neither agree nor disagree 
+TMHI_0008_CHOICE5;Stimme eher zu;Agree 
+TMHI_0008_CHOICE6;Stimme zu;Strongly agree
+TMHI_0008_CHOICE7;Stimme voll und ganz zu;Completely agree
+TMHI_0008_PROMPT;Musik ruft bei meinem Kind keine körperliche Reaktion hervor.;Music does not evoke a physical response from my child.
+TMHI_0009_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree
+TMHI_0009_CHOICE2;Stimme nicht zu;Strongly disagree
+TMHI_0009_CHOICE3;Stimme eher nicht zu;Disagree
+TMHI_0009_CHOICE4;Weder noch;Neither agree nor disagree 
+TMHI_0009_CHOICE5;Stimme eher zu;Agree 
+TMHI_0009_CHOICE6;Stimme zu;Strongly agree
+TMHI_0009_CHOICE7;Stimme voll und ganz zu;Completely agree
+TMHI_0009_PROMPT;Mein Kind macht selten Musik.;My child rarely makes music.
+TMHI_0010_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree
+TMHI_0010_CHOICE2;Stimme nicht zu;Strongly disagree
+TMHI_0010_CHOICE3;Stimme eher nicht zu;Disagree
+TMHI_0010_CHOICE4;Weder noch;Neither agree nor disagree 
+TMHI_0010_CHOICE5;Stimme eher zu;Agree 
+TMHI_0010_CHOICE6;Stimme zu;Strongly agree
+TMHI_0010_CHOICE7;Stimme voll und ganz zu;Completely agree
+TMHI_0010_PROMPT;Ich ermutige mein Kind, sich zur Musik zu bewegen.;I encourage my child to move along music. 
+TMHI_0011_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree
+TMHI_0011_CHOICE2;Stimme nicht zu;Strongly disagree
+TMHI_0011_CHOICE3;Stimme eher nicht zu;Disagree
+TMHI_0011_CHOICE4;Weder noch;Neither agree nor disagree 
+TMHI_0011_CHOICE5;Stimme eher zu;Agree 
+TMHI_0011_CHOICE6;Stimme zu;Strongly agree
+TMHI_0011_CHOICE7;Stimme voll und ganz zu;Completely agree
+TMHI_0011_PROMPT;Ich mache nicht häufiger als ein- bis zweimal pro Woche mit meinem Kind Musik (einschl. Spielzeuginstrumente).;I do not make music with my child (including toy instruments) more than once or twice per week.
+TMHI_0012_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree
+TMHI_0012_CHOICE2;Stimme nicht zu;Strongly disagree
+TMHI_0012_CHOICE3;Stimme eher nicht zu;Disagree
+TMHI_0012_CHOICE4;Weder noch;Neither agree nor disagree 
+TMHI_0012_CHOICE5;Stimme eher zu;Agree 
+TMHI_0012_CHOICE6;Stimme zu;Strongly agree
+TMHI_0012_CHOICE7;Stimme voll und ganz zu;Completely agree
+TMHI_0012_PROMPT;Mein Kind bewegt sich nicht zu Musik aus der Musikanlage oder dem Fernseher.;My child does not dance/move to music on the stereo or television. 
+TMHI_0013_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree
+TMHI_0013_CHOICE2;Stimme nicht zu;Strongly disagree
+TMHI_0013_CHOICE3;Stimme eher nicht zu;Disagree
+TMHI_0013_CHOICE4;Weder noch;Neither agree nor disagree 
+TMHI_0013_CHOICE5;Stimme eher zu;Agree 
+TMHI_0013_CHOICE6;Stimme zu;Strongly agree
+TMHI_0013_CHOICE7;Stimme voll und ganz zu;Completely agree
+TMHI_0013_PROMPT;Meinem Kind wurde im Mutterleib bewusst vorgesungen/Musik vorgespielt.;My child was deliberately sung to/exposed to music whilst in the womb. 
+TMHI_0014_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree
+TMHI_0014_CHOICE2;Stimme nicht zu;Strongly disagree
+TMHI_0014_CHOICE3;Stimme eher nicht zu;Disagree
+TMHI_0014_CHOICE4;Weder noch;Neither agree nor disagree 
+TMHI_0014_CHOICE5;Stimme eher zu;Agree 
+TMHI_0014_CHOICE6;Stimme zu;Strongly agree
+TMHI_0014_CHOICE7;Stimme voll und ganz zu;Completely agree
+TMHI_0014_PROMPT;Ich glaube, dass Musik sich auf die Intelligenz meines Kindes auswirkt.;I believe music has an impact on my child's intelligence. 
+TMHI_0015_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree
+TMHI_0015_CHOICE2;Stimme nicht zu;Strongly disagree
+TMHI_0015_CHOICE3;Stimme eher nicht zu;Disagree
+TMHI_0015_CHOICE4;Weder noch;Neither agree nor disagree 
+TMHI_0015_CHOICE5;Stimme eher zu;Agree 
+TMHI_0015_CHOICE6;Stimme zu;Strongly agree
+TMHI_0015_CHOICE7;Stimme voll und ganz zu;Completely agree
+TMHI_0015_PROMPT;Mit meinem Kind Musik zu machen (einschl. Spielzeuginstrumente), gehört zum Spielen zuhause regelmäßig dazu.;Making music with my child (including toy instruments) is a regular part of playtime at home.
+TMHI_0016_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree
+TMHI_0016_CHOICE2;Stimme nicht zu;Strongly disagree
+TMHI_0016_CHOICE3;Stimme eher nicht zu;Disagree
+TMHI_0016_CHOICE4;Weder noch;Neither agree nor disagree 
+TMHI_0016_CHOICE5;Stimme eher zu;Agree 
+TMHI_0016_CHOICE6;Stimme zu;Strongly agree
+TMHI_0016_CHOICE7;Stimme voll und ganz zu;Completely agree
+TMHI_0016_PROMPT;Ich bringe meinem Kind neue Lieder bei.;I teach my child new songs.
+TMHI_0017_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree
+TMHI_0017_CHOICE2;Stimme nicht zu;Strongly disagree
+TMHI_0017_CHOICE3;Stimme eher nicht zu;Disagree
+TMHI_0017_CHOICE4;Weder noch;Neither agree nor disagree 
+TMHI_0017_CHOICE5;Stimme eher zu;Agree 
+TMHI_0017_CHOICE6;Stimme zu;Strongly agree
+TMHI_0017_CHOICE7;Stimme voll und ganz zu;Completely agree
+TMHI_0017_PROMPT;Ich singe mindestens einmal am Tag in spielerischen Kontexten für/mit mein(em) Kind.;I sing in playful contexts to/with my child at least once a day. 
+TMHI_0018_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree
+TMHI_0018_CHOICE2;Stimme nicht zu;Strongly disagree
+TMHI_0018_CHOICE3;Stimme eher nicht zu;Disagree
+TMHI_0018_CHOICE4;Weder noch;Neither agree nor disagree 
+TMHI_0018_CHOICE5;Stimme eher zu;Agree 
+TMHI_0018_CHOICE6;Stimme zu;Strongly agree
+TMHI_0018_CHOICE7;Stimme voll und ganz zu;Completely agree
+TMHI_0018_PROMPT;Ich habe bemerkt, dass mein Kind sich im Takt der Musik bewegt.;I have noticed my child moving in time with the beat of the music. 
+TMHI_0019_CHOICE1;Stimme ganz und gar nicht zu;Completely disagree
+TMHI_0019_CHOICE2;Stimme nicht zu;Strongly disagree
+TMHI_0019_CHOICE3;Stimme eher nicht zu;Disagree
+TMHI_0019_CHOICE4;Weder noch;Neither agree nor disagree 
+TMHI_0019_CHOICE5;Stimme eher zu;Agree 
+TMHI_0019_CHOICE6;Stimme zu;Strongly agree
+TMHI_0019_CHOICE7;Stimme voll und ganz zu;Completely agree
+TMHI_0019_PROMPT;Ich finde, Kinder sollten lernen, ein Instrument zu spielen.;I believe that children should learn to play an instrument.

@@ -1,33 +1,35 @@
-"key";"de";"en"
-"CONTINUE";"Weiter";"Continue"
-"RESULTS_SAVED";"Deine Ergebnisse wurden gespeichert.";"Your results have been saved."
-"CLOSE_BROWSER";"<br>Du kannst das Browserfenster jetzt schließen.";"<br>You can close the browser window now."
-"PAGE_HEADER";"Frage {{num_question}} von {{test_length}}";"Question {{num_question}} out of {{test_length}}"
-"JANUARY";"Januar";"January"
-"FEBRUARY";"Februar";"February"
-"MARCH";"März";"March"
-"APRIL";"April";"April"
-"MAY";"Mai";"May"
-"JUNE";"Juni";"June"
-"JULY";"Juli";"July"
-"AUGUST";"August";"August"
-"SEPTEMBER";"September";"September"
-"OCTOBER";"Oktober";"October"
-"NOVEMBER";"November";"November"
-"DECEMBER";"Dezember";"December"
-"NONE";"Keine";"None"
-"YEAR";"Jahr";"Year"
-"MONTH";"Monat";"Month"
-"OTHER_NATIONALITY";"Andere Nationalität";"Other nationality"
-"OTHER_COUNTRY";"Anderes Land";"Other country"
-"OTHER_LANGUAGE";"Andere Sprache";"Other language"
-"CHOOSE_ANSWER";"Wähle zuerst eine Antwort aus!";"You have to first choose an answer!"
-"CHOOSE_AT_LEAST_ONE_ANSWER";"Wähle mindestens eine Antwort aus!";"Select at least one answer!"
-"SELECT_MONTH";"Bitte Monat auswählen!";"Select month, please!"
-"SELECT_YEAR";"Bitte Jahr auswählen!";"Select year, please!"
-"E.G.";"z.B.";"e.g."
-"SELECT_MONTH_AND_YEAR";"Bitte Monat und Jahr auswählen!";"Select month and year, please!"
-"ENTER_ID";"Bitte gib Deine ID ein";"Please enter your ID"
-"PROBLEMS_INFO_1";"Probleme?";"Problems?"
-"PROBLEMS_INFO_2";"Dann schreibe eine E-Mail an ";"Contact "
-"PROBLEMS_INFO_3";" mit dem Verweis auf diese Seite.";" with a link to this page."
+key;de;en;de_f;it;es;lv
+CONTINUE;Weiter;Continue;Weiter;Continua;Continuar;Turpināt
+RESULTS_SAVED;Deine Ergebnisse wurden gespeichert.;Your results have been saved.;Ihre Ergebnisse wurden gespeichert.;I tuoi risultati sono stati salvati.;Tus resultados han sido guardados.;Tavi rezultāti ir saglabāti
+CLOSE_BROWSER;<br>Du kannst das Browserfenster jetzt schließen.;<br>You can close the browser window now.;<br>Sie können das Browserfenster jetzt schließen.;Ora puoi chiudere la finestra del tuo browser.;Ahora puedes cerrar la ventana de tu navegador del tuo browser.;<br>Tagad tu vari aizvērt pārlūkprogrammas logu
+PAGE_HEADER;Frage {{num_question}} von {{test_length}};Question {{num_question}} out of {{test_length}};Frage {{num_question}} von {{test_length}};Domanda {{num_question}} di {{test_length}};Pregunta {{num_question}} de {{test_length}};Jautājums {{num_question}} no {{test_length}}
+JANUARY;Januar;January;Januar;Gennaio;Enero;Janvāris
+FEBRUARY;Februar;February;Februar;Febbraio;Febrero;Februāris
+MARCH;März;March;März;Marzo;Marzo;Marts
+APRIL;April;April;April;Aprile;Abril;Aprīlis
+MAY;Mai;May;Mai;Maggio;Mayo;Maijs
+JUNE;Juni;June;Juni;Giugno;Junio;Jūnijs
+JULY;Juli;July;Juli;Luglio;Julio;Jūlijs
+AUGUST;August;August;August;Agosto;Agosto;Augusts
+SEPTEMBER;September;September;September;Settembre;Septiembre;Septembris
+OCTOBER;Oktober;October;Oktober;Ottobre;Octubre;Oktobris
+NOVEMBER;November;November;November;Novembre;Noviembre;Novembris
+DECEMBER;Dezember;December;Dezember;Dicembre;Diciembre;Decembris
+NONE;Keine;None;Keine;Nessuno;Ninguno;Nekādā
+YEAR;Jahr;Year;Jahr;Anno;Año;Gads
+MONTH;Monat;Month;Monat;Mese;Mes;Mēnesis
+OTHER_NATIONALITY;Andere Nationalität;Other nationality;Andere Nationalität;Altra nazionalità;Otra nacionalidad;Cita tautība
+OTHER_COUNTRY;Anderes Land;Other country;Anderes Land;Altro paese;Otro país;Cita valsts
+OTHER_LANGUAGE;Andere Sprache;Other language;Andere Sprache;Altra lingua;Otro idioma;Cita valoda
+CHOOSE_ANSWER;Wähle zuerst eine Antwort aus!;You have to first choose an answer!;Wählen Sie zuerst eine Antwort aus!;Devi prima scegliere una risposta!;¡Primero hay que elegir una respuesta!;Sākumā tev ir jāizvēlas atbilde!
+CHOOSE_AT_LEAST_ONE_ANSWER;Wähle mindestens eine Antwort aus!;Select at least one answer!;Wählen Sie mindestens eine Antwort aus!;Seleziona almeno una risposta!;¡Selecciona al menos una respuesta!;Izvēlies vismaz vienu atbildi!
+ANSWER_NEEDED;Geben Sie bitte etwas an!;Please give an answer!;Geben Sie bitte etwas an!;Per favore, fornisci una risposta!;Por favor, ¡proporciona una respuesta!;Lūdzu, atbildi uz jautājumu!
+SELECT_MONTH;Bitte Monat auswählen!;Select month, please!;Bitten wählen Sie einen Monat aus!;Seleziona il mese, per favore!;¡Selecciona el mes por favor!;Lūdzu, izvēlies mēnesi!
+E.G.;z.B.;e.g.;z.B.;Es.;p.ej.;piemēram
+SELECT_MONTH_AND_YEAR;Bitte Monat und Jahr auswählen!;Select month and year, please!;Bitte wählen Sie Monat und Jahr aus!;Seleziona mese e anno, per favore!;¡Selecciona mes y año por favor!;Lūdzu, izvēlies mēnesi un gadu!
+SELECT_YEAR;Bitte Jahr auswählen!;Select year, please!;Bitte wählen Sie ein Jahr aus!;Seleziona anno, per favore!;¡Selecciona año por favor!;Lūdzu, izvēlies gadu!
+ENTER_ID;Bitte gib Deine ID ein;Please enter your ID;Bitte geben Sie Ihre ID ein;Per favore, inserisci il tuo codice.;Por favor, inserta tu código.;Lūdzu, ievadi savu ID numuru!
+ENTER_ID_FORMAL;Bitte geben Sie Ihre ID ein;Please enter your ID;Bitte geben Sie Ihre ID ein;Per favore, inserisci il tuo codice.;Por favor, inserta tu código.;Lūdzu, ievadiet Jūsu ID numuru!
+PROBLEMS_INFO_1;Probleme?;Problems?;Probleme?;Problemi?;¿Algún problema?;Vai ir kādas problēmas?
+PROBLEMS_INFO_2;Dann schreibe eine E-Mail an ;Contact ;Dann schreiben Sie eine E-Mail an ;Contatta;Contacta;Tad, lūdzu, sazinies ar mums,
+PROBLEMS_INFO_3; mit dem Verweis auf diese Seite.; with a link to this page.; mit dem Verweis auf diese Seite.; con un link a questa pagina; con un enlace a esta página;atsaucoties uz šo mājaslapu.

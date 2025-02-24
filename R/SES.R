@@ -30,11 +30,18 @@ SES <- function(label = "SES",
                       subscales = subscales),
     subscales = subscales,
     offset = 1,
-    arrange_vertically = TRUE
+    arrange_vertically = TRUE,
+    dict = dict
   )
 }
 
-main_test_ses <- function(questionnaire_id, label, items, subscales = c(), offset = 1, arrange_vertically = TRUE) {
+main_test_ses <- function(questionnaire_id,
+                          label,
+                          items,
+                          subscales = c(),
+                          offset = 1,
+                          arrange_vertically = TRUE,
+                          dict) {
   prompt_id <- NULL
   prompt_ids <- items %>% pull(prompt_id)
   elts <- c()
@@ -55,7 +62,7 @@ main_test_ses <- function(questionnaire_id, label, items, subscales = c(), offse
         trigger_button_text = psychTestR::i18n("CONTINUE"),
         failed_validation_message = psychTestR::i18n("CHOOSE_ANSWER"))
       ),
-      dict = psyquest::psyquest_dict
+      dict = dict
     ))
   }
 
@@ -75,14 +82,14 @@ main_test_ses <- function(questionnaire_id, label, items, subscales = c(), offse
         trigger_button_text = psychTestR::i18n("CONTINUE"),
         failed_validation_message = psychTestR::i18n("CHOOSE_ANSWER"))
       ),
-      dict = psyquest::psyquest_dict
+      dict = dict
     ))
   }
 
   if ("TSES_0004" %in% prompt_ids) {
     elts <- psychTestR::join(elts, psychTestR::new_timeline(c(
       radiobutton_NAFC_page("q3",
-        psychTestR::i18n("TSES_0003_PROMPT"),
+        shiny::p(psychTestR::i18n("TSES_0003_PROMPT"),style = "width:50%;text-align:justify"),
         c("choice1", "choice2", "choice3"),
         subprompt = psychTestR::i18n("TSES_0004_PROMPT"),
         labels = c(psychTestR::i18n("TSES_0004_CHOICE1"),
@@ -94,7 +101,7 @@ main_test_ses <- function(questionnaire_id, label, items, subscales = c(), offse
                    set_local("branch", answer, state)
         }
       )),
-      dict = psyquest::psyquest_dict
+      dict = dict
     ))
   }
 
@@ -120,7 +127,7 @@ main_test_ses <- function(questionnaire_id, label, items, subscales = c(), offse
             trigger_button_text = psychTestR::i18n("CONTINUE"),
             failed_validation_message = psychTestR::i18n("CHOOSE_ANSWER"))
       )),
-      dict = psyquest::psyquest_dict
+      dict = dict
     ))
   }
 
@@ -141,7 +148,7 @@ main_test_ses <- function(questionnaire_id, label, items, subscales = c(), offse
         trigger_button_text = psychTestR::i18n("CONTINUE"),
         failed_validation_message = psychTestR::i18n("CHOOSE_ANSWER"))
       ),
-      dict = psyquest::psyquest_dict
+      dict = dict
     ))
   }
 
@@ -155,8 +162,8 @@ postprocess_ses <- function(subscale, results, scores) {
   sum_score <- 0
   if (subscale == "educational_degree") {
     scores <- scores - 1
-    if (all(scores == c(0, 0))) { return(NA) }
-    mean(NA^(scores == 0) * scores, na.rm=TRUE)
+    if (all(scores == 0)) { return(NA) }
+    mean(scores[scores != 0], na.rm = TRUE)
   } else if (subscale == "class") {
     raw_scores <- c()
     if (scores[1] == 1) {

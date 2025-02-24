@@ -1,0 +1,13 @@
+main_id;language;template;score_func;subscales;layout 
+TBTQ_0001;de;14-option checkbox;function(x) x+0;Sleep Ritual;vertical
+TBTQ_0001;en;14-option checkbox;function(x) x+0;Sleep Ritual;vertical
+TBTQ_0002;de;14-option checkbox;function(x) x+0;Sleep Mode;vertical
+TBTQ_0002;en;14-option checkbox;function(x) x+0;Sleep Mode;vertical
+TBTQ_0003;de;2-option multiple choice;function(x) x+0;Bedside Singing;vertical
+TBTQ_0003;en;2-option multiple choice;function(x) x+0;Bedside Singing;vertical
+TBTQ_0004;de;15-option checkbox;function(x) x+0;Lullaby Type;vertical
+TBTQ_0004;en;15-option checkbox;function(x) x+0;Lullaby Type;vertical
+TBTQ_0005;de;textinput;function(x) x+0;Lullaby Definition;vertical
+TBTQ_0005;en;textinput;function(x) x+0;Lullaby Definition;vertical
+TBTQ_0006;de;2-option multiple choice;function(x) x+0;Lullaby Usage;vertical
+TBTQ_0006;en;2-option multiple choice;function(x) x+0;Lullaby Usage;vertical

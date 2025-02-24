@@ -25,6 +25,7 @@ HOP <- function(label = "HOP",
     items = get_items(questionnaire_id),
     offset = 1,
     arrange_vertically = TRUE,
-    button_style = "min-width: 200px"
+    button_style = "min-width: 200px",
+    dict = dict
   )
 }

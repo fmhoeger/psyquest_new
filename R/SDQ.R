@@ -31,6 +31,7 @@ SDQ <- function(label = "SDQ",
     subscales = subscales,
     offset = 1,
     arrange_vertically = TRUE,
-    button_style = "min-width: 170px"
+    button_style = "min-width: 170px",
+    dict = dict
   )
 }

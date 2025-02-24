@@ -1,18 +1,18 @@
 Package: psyquest
 Title: LongGold psychTestR questionnaires
-Version: 1.3.0
+Version: 1.5.17
 Authors@R: c(
   person("Frank", "Höger", email = "fmhoeger@mirsem.org", role = c("aut", "cre")),
-  person("Klaus", "Frieler", email = "kf@omniversum.de", role = c("aut")),
+  person("Klaus", "Frieler", email = "klaus@ae.mpg.de", role = c("aut")),
   person("Viola", "Pausch", email = "viola.pausch@posteo.de", role = c("ctb")),
   person("Kilian", "Sander", email = "kilian.sander@aol.de", role = c("ctb")),
   person("Nicolas", "Ruth", email = "N.Ruth@gold.ac.uk", role = c("ctb"))
   )
-Maintainer: Frank Höger <fmhoeger@mirsem.org>
-Description: Implementation of 18 questionnaires developed for the LongGold project and based on the psychTestR library.
+Maintainer: Klaus Frieler <klaus.frieler@ae.mpg.de>
+Description: Implementation of 18 questionnaires developed for the LongGold project plus several others. Based on the psychTestR library.
 License: MIT + file LICENSE
-URL: https://github.com/fmhoeger/psyquest
-BugReports: https://github.com/fmhoeger/psyquest/issues
+URL: https://github.com/klausfrieler/psyquest
+BugReports: https://github.com/klausfrieler/psyquest/issues
 Encoding: UTF-8
 LazyData: true
 Depends:
@@ -36,4 +36,4 @@ Suggests:
     shinytest (>= 1.4.0),
     testthat (>= 2.3.2)
 Remotes: pmcharrison/psychTestR
-RoxygenNote: 7.1.1
+RoxygenNote: 7.3.2

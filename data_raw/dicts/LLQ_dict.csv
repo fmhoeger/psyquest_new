@@ -1,0 +1,74 @@
+key;de;en 
+TLLQ_0000_PROMPT;Wiegenlieder Fragebogen;Lullaby Questionnaire
+TLLQ_0001_CHOICE1;Erregt;Aroused
+TLLQ_0001_CHOICE2;Aufgeregt;Excited
+TLLQ_0001_CHOICE3;Erfreut;Pleased
+TLLQ_0001_CHOICE4;Zufrieden;Content
+TLLQ_0001_CHOICE5;Schläfrig;Sleepy 
+TLLQ_0001_CHOICE6;Deprimiert;Depressed
+TLLQ_0001_CHOICE7;Unglücklich;Miserable 
+TLLQ_0001_CHOICE8;Gestresst;Distressed
+TLLQ_0001_CHOICE9;Keine besondere Stimmung;No special mood
+TLLQ_0001_PROMPT;Wie fühlen Sie sich beim Hören von Wiegenliedern?;How do you feel when listening to a lullaby? 
+TLLQ_0002_CHOICE1;Ich fühle mich wach.;I feel awake. 
+TLLQ_0002_CHOICE2;Ich fühle mich ausgeglichen.;I feel balanced.
+TLLQ_0002_CHOICE3;Ich fühle mich zufrieden.;I feel content. 
+TLLQ_0002_CHOICE4;Ich fühle mich traurig.;I feel sad.
+TLLQ_0002_CHOICE5;Ich fühle mich gestresst.;I feel distressed. 
+TLLQ_0002_CHOICE6;Ich möchte gar nicht mehr aufhören.;I do not want to stop singing. 
+TLLQ_0002_CHOICE7;Ich fühle mich mit meinem Kind verbunden.;I feel connected to my child. 
+TLLQ_0002_CHOICE8;Ich habe Angst, dass andere mir zuhören.;I fear, somebody is listening. 
+TLLQ_0002_CHOICE9;Ich werde selber müde.;I get tired myself. 
+TLLQ_0002_CHOICE10;Sonstiges;Other
+TLLQ_0002_CHOICE11;Ich singe keine Wiegenlieder;I don't sing lullabies
+TLLQ_0002_PROMPT;Wie fühlen Sie sich beim Singens von Wiegenliedern?;How do you feel when singing lullabies? 
+TLLQ_0003_CHOICE1;Fernsehschauen;Watching TV
+TLLQ_0003_CHOICE2;Musikhören;Listening to music 
+TLLQ_0003_CHOICE3;Lesen;Reading 
+TLLQ_0003_CHOICE4;Hörbuch, Hörspiel, Podcast hören;Listening to an audiobook or podcast 
+TLLQ_0003_CHOICE5;Mit einer Person unterhalten;Talking to someone
+TLLQ_0003_CHOICE6;Geräusche (Regen, Feuer etc.) hören;Listening to ambient sounds (rain, fire etc.) 
+TLLQ_0003_CHOICE7;Pharmazeutische Schlafmittel nehmen;Taking sleeping pills or melatonin 
+TLLQ_0003_CHOICE8;Alkoholischen Schlummertrunk trinken;Drinking an alcoholic nightcap 
+TLLQ_0003_CHOICE9;Sonstiges;Other
+TLLQ_0003_CHOICE10;Keine;None
+TLLQ_0003_PROMPT;Welche Einschlafhilfen nutzen Sie für sich selbst im Alltag?;Which sleep aids are you using for yourself in your day-to-day life? 
+TLLQ_0004_CHOICE1;Ja;Yes
+TLLQ_0004_CHOICE2;Nein;No 
+TLLQ_0004_PROMPT;Wiegenlieder sind musikalisch immer ruhig und gleichmäßig.;Lullabies are always musically calm and even.
+TLLQ_0005_CHOICE1;Ja;Yes
+TLLQ_0005_CHOICE2;Nein;No 
+TLLQ_0005_PROMPT;Wiegenlieder haben einen Rhythmus, der sich zum Hin- und Herwiegen eignet.;Lullabies have a rhythm that is suitable for rocking back and forth.
+TLLQ_0006_CHOICE1;Abend, Nacht;Evening, night 
+TLLQ_0006_CHOICE2;Mond, Sterne;Moon, stars 
+TLLQ_0006_CHOICE3;Liebe;Love
+TLLQ_0006_CHOICE4;Gefühl von Sicherheit;Sense of security 
+TLLQ_0006_CHOICE5;Blumen;Flowers
+TLLQ_0006_CHOICE6;Tiere;Animals 
+TLLQ_0006_CHOICE7;Engel;Angels
+TLLQ_0006_CHOICE8;Tod;Death 
+TLLQ_0006_CHOICE9;Angst;Fear
+TLLQ_0006_CHOICE10;Bedrohungen;Threats 
+TLLQ_0006_CHOICE11;Andere;Other
+TLLQ_0006_PROMPT;Welche der folgenden Themen kommen Ihrer Meinung nach in Wiegenliedern vor?;Which of the following themes do you think appear in lullabies?. 
+TLLQ_0007_CHOICE1;Ja;Yes
+TLLQ_0007_CHOICE2;Nein;No
+TLLQ_0007_PROMPT;Wiegenlieder werden von einer Generation zur nächsten weitergegeben.;Lullabies are passed down from one generation to the next.
+TLLQ_0008_CHOICE1;Ja;Yes
+TLLQ_0008_CHOICE2;Nein;No 
+TLLQ_0008_CHOICE3;Weiß nicht;I don't know
+TLLQ_0008_PROMPT;Als Kind wurden mir selbst von meinen Eltern Wiegenlieder vorgesungen.;As a child, my parents sang lullabies to me.
+TLLQ_0009_CHOICE1;Mutter;Mother
+TLLQ_0009_CHOICE2;Vater;Father
+TLLQ_0009_CHOICE3;Großeltern;Grandparents
+TLLQ_0009_CHOICE4;Geschwister;Siblings
+TLLQ_0009_CHOICE5;Sonstige;Others 
+TLLQ_0009_CHOICE6;Mir wurden keine Wiegenlieder vorgesungen;Nobody sang lullabies to me 
+TLLQ_0009_PROMPT;Wer hat Ihnen als Kind Wiegenlieder vorgesungen?;Who sang lullabies to you as a child? 
+TLLQ_0010_CHOICE1;Ja;Yes 
+TLLQ_0010_CHOICE2;Nein;No 
+TLLQ_0010_PROMPT;Mir ist die Tradition wichtig, Kindern Wiegenlieder weiterzugeben.;Passing on lullabies to children is a tradition that is important to me.
+TLLQ_0011_CHOICE1;Ja;Yes
+TLLQ_0011_CHOICE2;Nein;No
+TLLQ_0011_PROMPT;Singen Sie Ihren Kindern dieselben Wiegenlieder vor, die Ihnen als Kind vorgesungen wurden?;Do you sing the same lullabies to your child, which were sung to you as a child? 
+TLLQ_0012_PROMPT;Welche Wiegenlieder wurden Ihnen als Kind vorgesungen?;Which lullabies were sung to you as a child?

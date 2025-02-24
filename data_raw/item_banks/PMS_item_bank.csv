@@ -1,0 +1,81 @@
+main_id;language;template;score_func;subscales;layout
+TPMS_0002;en;5-option multiple choice;function(x) x;"Tension- Anxiety; General";vertical
+TPMS_0002;it;5-option multiple choice;function(x) x;"Tension- Anxiety; General";vertical
+TPMS_0003;en;5-option multiple choice;function(x) x;"Anger-Hostility; General";vertical
+TPMS_0003;it;5-option multiple choice;function(x) x;"Anger-Hostility; General";vertical
+TPMS_0004;en;5-option multiple choice;function(x) x;"Fatigue-Inertia; General";vertical
+TPMS_0004;it;5-option multiple choice;function(x) x;"Fatigue-Inertia; General";vertical
+TPMS_0005;en;5-option multiple choice;function(x) x;"Depression-Dejection; General";vertical
+TPMS_0005;it;5-option multiple choice;function(x) x;"Depression-Dejection; General";vertical
+TPMS_0006;en;5-option multiple choice;function(x) x;"Esteem; General";vertical
+TPMS_0006;it;5-option multiple choice;function(x) x;"Esteem; General";vertical
+TPMS_0007;en;5-option multiple choice;function(x) x;"Vigour-Activity; General";vertical
+TPMS_0007;it;5-option multiple choice;function(x) x;"Vigour-Activity; General";vertical
+TPMS_0008;en;5-option multiple choice;function(x) x;"Confusion-Bewilderment; General";vertical
+TPMS_0008;it;5-option multiple choice;function(x) x;"Confusion-Bewilderment; General";vertical
+TPMS_0009;en;5-option multiple choice;function(x) x;"Depression-Dejection; General";vertical
+TPMS_0009;it;5-option multiple choice;function(x) x;"Depression-Dejection; General";vertical
+TPMS_0010;en;5-option multiple choice;function(x) x;"Vigour-Activity; General";vertical
+TPMS_0010;it;5-option multiple choice;function(x) x;"Vigour-Activity; General";vertical
+TPMS_0011;en;5-option multiple choice;function(x) x;"Tension- Anxiety; General";vertical
+TPMS_0011;it;5-option multiple choice;function(x) x;"Tension- Anxiety; General";vertical
+TPMS_0012;en;5-option multiple choice;function(x) x;"Anger-Hostility; General";vertical
+TPMS_0012;it;5-option multiple choice;function(x) x;"Anger-Hostility; General";vertical
+TPMS_0013;en;5-option multiple choice;function(x) x;"Esteem; General";vertical
+TPMS_0013;it;5-option multiple choice;function(x) x;"Esteem; General";vertical
+TPMS_0014;en;5-option multiple choice;function(x) x;"Vigour-Activity; General";vertical
+TPMS_0014;it;5-option multiple choice;function(x) x;"Vigour-Activity; General";vertical
+TPMS_0015;en;5-option multiple choice;function(x) x;"Depression-Dejection; General";vertical
+TPMS_0015;it;5-option multiple choice;function(x) x;"Depression-Dejection; General";vertical
+TPMS_0016;en;5-option multiple choice;function(x) x;"Tension- Anxiety; General";vertical
+TPMS_0016;it;5-option multiple choice;function(x) x;"Tension- Anxiety; General";vertical
+TPMS_0017;en;5-option multiple choice;function(x) x;"Tension- Anxiety; General";vertical
+TPMS_0017;it;5-option multiple choice;function(x) x;"Tension- Anxiety; General";vertical
+TPMS_0018;en;5-option multiple choice;function(x) x;"Confusion-Bewilderment; General";vertical
+TPMS_0018;it;5-option multiple choice;function(x) x;"Confusion-Bewilderment; General";vertical
+TPMS_0019;en;5-option multiple choice;function(x) x;"Fatigue-Inertia; General";vertical
+TPMS_0019;it;5-option multiple choice;function(x) x;"Fatigue-Inertia; General";vertical
+TPMS_0020;en;5-option multiple choice;function(x) x;"Esteem; General";vertical
+TPMS_0020;it;5-option multiple choice;function(x) x;"Esteem; General";vertical
+TPMS_0021;en;5-option multiple choice;function(x) x;"Anger-Hostility; General";vertical
+TPMS_0021;it;5-option multiple choice;function(x) x;"Anger-Hostility; General";vertical
+TPMS_0022;en;5-option multiple choice;function(x) x;"Depression-Dejection; General";vertical
+TPMS_0022;it;5-option multiple choice;function(x) x;"Depression-Dejection; General";vertical
+TPMS_0023;en;5-option multiple choice;function(x) x;"Anger-Hostility; General";vertical
+TPMS_0023;it;5-option multiple choice;function(x) x;"Anger-Hostility; General";vertical
+TPMS_0024;en;5-option multiple choice;function(x) x;"Tension- Anxiety; General";vertical
+TPMS_0024;it;5-option multiple choice;function(x) x;"Tension- Anxiety; General";vertical
+TPMS_0025;en;5-option multiple choice;function(x) x;"Depression-Dejection; General";vertical
+TPMS_0025;it;5-option multiple choice;function(x) x;"Depression-Dejection; General";vertical
+TPMS_0026;en;5-option multiple choice;function(x) x;"Esteem; General";vertical
+TPMS_0026;it;5-option multiple choice;function(x) x;"Esteem; General";vertical
+TPMS_0027;en;5-option multiple choice;function(x) x;"Anger-Hostility; General";vertical
+TPMS_0027;it;5-option multiple choice;function(x) x;"Anger-Hostility; General";vertical
+TPMS_0028;en;5-option multiple choice;function(x) x;"Fatigue-Inertia; General";vertical
+TPMS_0028;it;5-option multiple choice;function(x) x;"Fatigue-Inertia; General";vertical
+TPMS_0029;en;5-option multiple choice;function(x) x;"Tension- Anxiety; General";vertical
+TPMS_0029;it;5-option multiple choice;function(x) x;"Tension- Anxiety; General";vertical
+TPMS_0030;en;5-option multiple choice;function(x) x;"Depression-Dejection; General";vertical
+TPMS_0030;it;5-option multiple choice;function(x) x;"Depression-Dejection; General";vertical
+TPMS_0031;en;5-option multiple choice;function(x) x;"Fatigue-Inertia; General";vertical
+TPMS_0031;it;5-option multiple choice;function(x) x;"Fatigue-Inertia; General";vertical
+TPMS_0032;en;5-option multiple choice;function(x) x;"Esteem; General";vertical
+TPMS_0032;it;5-option multiple choice;function(x) x;"Esteem; General";vertical
+TPMS_0033;en;5-option multiple choice;function(x) x;"Confusion-Bewilderment; General";vertical
+TPMS_0033;it;5-option multiple choice;function(x) x;"Confusion-Bewilderment; General";vertical
+TPMS_0034;en;5-option multiple choice;function(x) x;"Anger-Hostility; General";vertical
+TPMS_0034;it;5-option multiple choice;function(x) x;"Anger-Hostility; General";vertical
+TPMS_0035;en;5-option multiple choice;function(x) x;"Vigour-Activity; General";vertical
+TPMS_0035;it;5-option multiple choice;function(x) x;"Vigour-Activity; General";vertical
+TPMS_0036;en;5-option multiple choice;function(x) x;"Depression-Dejection; General";vertical
+TPMS_0036;it;5-option multiple choice;function(x) x;"Depression-Dejection; General";vertical
+TPMS_0037;en;5-option multiple choice;function(x) x;"Confusion-Bewilderment; General";vertical
+TPMS_0037;it;5-option multiple choice;function(x) x;"Confusion-Bewilderment; General";vertical
+TPMS_0038;en;5-option multiple choice;function(x) x;"Vigour-Activity; General";vertical
+TPMS_0038;it;5-option multiple choice;function(x) x;"Vigour-Activity; General";vertical
+TPMS_0039;en;5-option multiple choice;function(x) x;"Confusion-Bewilderment; General";vertical
+TPMS_0039;it;5-option multiple choice;function(x) x;"Confusion-Bewilderment; General";vertical
+TPMS_0040;en;5-option multiple choice;function(x) x;"Fatigue-Inertia; General";vertical
+TPMS_0040;it;5-option multiple choice;function(x) x;"Fatigue-Inertia; General";vertical
+TPMS_0041;en;5-option multiple choice;function(x) x;"Esteem; General";vertical
+TPMS_0041;it;5-option multiple choice;function(x) x;"Esteem; General";vertical

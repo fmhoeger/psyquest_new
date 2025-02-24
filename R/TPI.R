@@ -31,6 +31,7 @@ TPI <- function(label = "TPI",
     subscales = subscales,
     offset = 1,
     arrange_vertically = TRUE,
-    button_style = "min-width: 284px"
+    button_style = "min-width: 284px",
+    dict = dict
   )
 }

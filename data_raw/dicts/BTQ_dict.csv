@@ -1,0 +1,55 @@
+key;de;en 
+TBTQ_0000_PROMPT;Schlafrituale;Bedtime Rituals for Infants and Children 
+TBTQ_0001_CHOICE1;Ich brauche es nicht zu unterstützen.;I don't need to help my child fall asleep. 
+TBTQ_0001_CHOICE2;Mit White Noise (z.B. Föhn, Abzugshaube etc.);Noise (e.g. hairdryer, extractor hood, vacuum cleaner) 
+TBTQ_0001_CHOICE3;Spazierengehen/Autofahren;Going for a walk/for a drive 
+TBTQ_0001_CHOICE4;Herumtragen;Carrying around 
+TBTQ_0001_CHOICE5;Vorsingen;Singing 
+TBTQ_0001_CHOICE6;Hörbuch;Audiobook 
+TBTQ_0001_CHOICE7;Schlafmusik;Sleep music 
+TBTQ_0001_CHOICE8;Beten;Praying 
+TBTQ_0001_CHOICE9;Gespräch;Talking 
+TBTQ_0001_CHOICE10;Vorlesen;Reading aloud 
+TBTQ_0001_CHOICE11;Wärmeflasche;Hot water bottle 
+TBTQ_0001_CHOICE12;Kuscheltier/-decke;Cuddly toy / blanket 
+TBTQ_0001_CHOICE13;Schlaf-/Nachtlicht;Sleep/mood light 
+TBTQ_0001_CHOICE14;Sonstiges;Other 
+TBTQ_0001_PROMPT;Was gehört alles zum Schlafritual für Ihr Kind?;What goes into the bedtime ritual you create for your child? 
+TBTQ_0002_CHOICE1;Mein Kind schläft ohne Unterstützung ein;My child falls asleep without assistance 
+TBTQ_0002_CHOICE2;White Noise (z.B. Föhn, Abzugshaube etc.);Noise (e.g., hairdryer, extractor hood, vacuum cleaner) 
+TBTQ_0002_CHOICE3;Spazierengehen/Autofahren;Going for a walk/for a drive 
+TBTQ_0002_CHOICE4;Herumtragen;Carrying around 
+TBTQ_0002_CHOICE5;Vorsingen;Singing 
+TBTQ_0002_CHOICE6;Hörbuch;Audiobook 
+TBTQ_0002_CHOICE7;Schlafmusik;Sleep music 
+TBTQ_0002_CHOICE8;Beten;Praying 
+TBTQ_0002_CHOICE9;Gespräch;Talking 
+TBTQ_0002_CHOICE10;Vorlesen;Reading aloud 
+TBTQ_0002_CHOICE11;Wärmeflasche;Hot water bottle 
+TBTQ_0002_CHOICE12;Kuscheltier/-decke;Cuddly toy/blanket 
+TBTQ_0002_CHOICE13;Schlaf-/Nachtlicht;Sleep/mood light 
+TBTQ_0002_CHOICE14;Sonstiges;Other 
+TBTQ_0002_PROMPT;Wobei schläft Ihr Kind normalerweise ein?;What does your child usually fall asleep to? 
+TBTQ_0003_CHOICE1;Ja;Yes
+TBTQ_0003_CHOICE2;Nein;No 
+TBTQ_0003_PROMPT;Singen Sie für Ihr Kind, um es beim Einschlafen zu unterstützen?;Do you sing for your child in order to help it fall asleep? 
+TBTQ_0004_CHOICE1;Kinderlieder;Children's songs 
+TBTQ_0004_CHOICE2;Schlaflieder/Wiegenlieder;Lullabies 
+TBTQ_0004_CHOICE3;Popsongs;Pop songs 
+TBTQ_0004_CHOICE4;Rocksongs;Rock songs 
+TBTQ_0004_CHOICE5;Countrysongs;Country songs 
+TBTQ_0004_CHOICE6;Volkslieder;Folk songs 
+TBTQ_0004_CHOICE7;Jazz/Bluessongs;Jazz/Blues songs 
+TBTQ_0004_CHOICE8;Rap/Hip-Hop;Rap/Hip-Hop
+TBTQ_0004_CHOICE9;Soul/Funk;Soul/Funk 
+TBTQ_0004_CHOICE10;Klassische Lieder (z.B. Opernarien);Classical songs (e.g., operatic aria) 
+TBTQ_0004_CHOICE11;Schlager;Chansons
+TBTQ_0004_CHOICE12;Kirchenlieder;Church songs 
+TBTQ_0004_CHOICE13;Selbst ausgedachte Lieder;Self-made songs
+TBTQ_0004_CHOICE14;Kein bestimmes Lied, ich improvisiere;No specific song, I improvise 
+TBTQ_0004_CHOICE15;Sonstiges;Other
+TBTQ_0004_PROMPT;Wenn ja, was?;If yes, what? 
+TBTQ_0005_PROMPT;Was ist ein Wiegenlied für Sie?;What is a lullaby to you? 
+TBTQ_0006_CHOICE1;Ja;Yes
+TBTQ_0006_CHOICE2;Nein;No
+TBTQ_0006_PROMPT;"Generell können Wiegenlieder als Lieder definiert werden, um Kinder zu beruhigen und ihnen das Einschlafen zu erleichtern. Sie kennen möglicherweise Johannes Brahms' Wiegenlied.  Nutzen Sie Wiegenlieder im gerade definierten Sinne, um Ihr Kind beim Einschlafen zu unterstützen?";"In general, lullabies can be defined as songs that are intended to calm children and make it easier for them to fall asleep. You may know Johannes Brahm's Lullaby or Rockabye, baby. Do you use lullabies in the sense just defined to help your children fall asleep?"

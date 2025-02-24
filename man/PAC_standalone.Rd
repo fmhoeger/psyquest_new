@@ -4,7 +4,7 @@
 \alias{PAC_standalone}
 \title{PAC Standalone}
 \usage{
-PAC_standalone(languages = psyquest::languages(), ...)
+PAC_standalone(languages = psyquest::languages(), exclude_dance = FALSE, ...)
 }
 \arguments{
 \item{languages}{(Character vector)
@@ -12,7 +12,7 @@ Determines the languages available to participants.
 Possible languages include \code{"en"} (English), and \code{"de"} (German).
 The first language is selected by default.}
 
-\item{...}{Further arguments to be passed to \code{\link{PAC_standalone}()}.}
+\item{...}{Further arguments to be passed to \code{\link{standalone}()}.}
 }
 \description{
 This function launches a standalone testing session for the PAC questionnaire.

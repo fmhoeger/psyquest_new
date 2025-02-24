@@ -1,0 +1,109 @@
+main_id;language;template;score_func;subscales;layout
+TCBQ_0001;de;8-option multiple choice;function(x) x+0;Surgency;vertical
+TCBQ_0001;en;8-option multiple choice;function(x) x+0;Surgency;vertical
+TCBQ_0001;ar;8-option multiple choice;NA;Surgency;vertical
+TCBQ_0002;de;8-option multiple choice;function(x) x+0;Negative Affect;vertical
+TCBQ_0002;en;8-option multiple choice;function(x) x+0;Negative Affect;vertical
+TCBQ_0002;ar;8-option multiple choice;NA;Negative Affect;vertical
+TCBQ_0003;de;8-option multiple choice;function(x) x+0;Effortful Control;vertical
+TCBQ_0003;en;8-option multiple choice;function(x) x+0;Effortful Control;vertical
+TCBQ_0003;ar;8-option multiple choice;NA;Effortful Control;vertical
+TCBQ_0004;de;8-option multiple choice;function(x) x+0;Surgency;vertical
+TCBQ_0004;en;8-option multiple choice;function(x) x+0;Surgency;vertical
+TCBQ_0004;ar;8-option multiple choice;NA;Surgency;vertical
+TCBQ_0005;de;8-option multiple choice;function(x) x+0;Negative Affect;vertical
+TCBQ_0005;en;8-option multiple choice;function(x) x+0;Negative Affect;vertical
+TCBQ_0005;ar;8-option multiple choice;NA;Negative Affect;vertical
+TCBQ_0006;de;8-option multiple choice;function(x) x+0;Effortful Control;vertical
+TCBQ_0006;en;8-option multiple choice;function(x) x+0;Effortful Control;vertical
+TCBQ_0006;ar;8-option multiple choice;NA;Effortful Control;vertical
+TCBQ_0007;de;8-option multiple choice;function(x) x+0;Surgency;vertical
+TCBQ_0007;en;8-option multiple choice;function(x) x+0;Surgency;vertical
+TCBQ_0007;ar;8-option multiple choice;NA;Surgency;vertical
+TCBQ_0008;de;8-option multiple choice;function(x) x+0;Negative Affect;vertical
+TCBQ_0008;en;8-option multiple choice;function(x) x+0;Negative Affect;vertical
+TCBQ_0008;ar;8-option multiple choice;NA;Negative Affect;vertical
+TCBQ_0009;de;8-option multiple choice;function(x) x+0;Effortful Control;vertical
+TCBQ_0009;en;8-option multiple choice;function(x) x+0;Effortful Control;vertical
+TCBQ_0009;ar;8-option multiple choice;NA;Effortful Control;vertical
+TCBQ_0010;de;8-option multiple choice;function(x) x+0;Surgency;vertical
+TCBQ_0010;en;8-option multiple choice;function(x) x+0;Surgency;vertical
+TCBQ_0010;ar;8-option multiple choice;NA;Surgency;vertical
+TCBQ_0011;de;8-option multiple choice;function(x) x+0;Negative Affect;vertical
+TCBQ_0011;en;8-option multiple choice;function(x) x+0;Negative Affect;vertical
+TCBQ_0011;ar;8-option multiple choice;NA;Negative Affect;vertical
+TCBQ_0012;de;8-option multiple choice;function(x) x+0;Effortful Control;vertical
+TCBQ_0012;en;8-option multiple choice;function(x) x+0;Effortful Control;vertical
+TCBQ_0012;ar;8-option multiple choice;NA;Effortful Control;vertical
+TCBQ_0013;de;8-option multiple choice;function(x) 8-(x+0)+0;Surgency;vertical
+TCBQ_0013;en;8-option multiple choice;function(x) 8-(x+0)+0;Surgency;vertical
+TCBQ_0013;ar;8-option multiple choice;NA;Surgency;vertical
+TCBQ_0014;de;8-option multiple choice;function(x) x+0;Negative Affect;vertical
+TCBQ_0014;en;8-option multiple choice;function(x) x+0;Negative Affect;vertical
+TCBQ_0014;ar;8-option multiple choice;NA;Negative Affect;vertical
+TCBQ_0015;de;8-option multiple choice;function(x) x+0;Effortful Control;vertical
+TCBQ_0015;en;8-option multiple choice;function(x) x+0;Effortful Control;vertical
+TCBQ_0015;ar;8-option multiple choice;NA;Effortful Control;vertical
+TCBQ_0016;de;8-option multiple choice;function(x) x+0;Surgency;vertical
+TCBQ_0016;en;8-option multiple choice;function(x) x+0;Surgency;vertical
+TCBQ_0016;ar;8-option multiple choice;NA;Surgency;vertical
+TCBQ_0017;de;8-option multiple choice;function(x) x+0;Negative Affect;vertical
+TCBQ_0017;en;8-option multiple choice;function(x) x+0;Negative Affect;vertical
+TCBQ_0017;ar;8-option multiple choice;NA;Negative Affect;vertical
+TCBQ_0018;de;8-option multiple choice;function(x) x+0;Effortful Control;vertical
+TCBQ_0018;en;8-option multiple choice;function(x) x+0;Effortful Control;vertical
+TCBQ_0018;ar;8-option multiple choice;NA;Effortful Control;vertical
+TCBQ_0019;de;8-option multiple choice;function(x) 8-(x+0)+0;Surgency;vertical
+TCBQ_0019;en;8-option multiple choice;function(x) 8-(x+0)+0;Surgency;vertical
+TCBQ_0019;ar;8-option multiple choice;NA;Surgency;vertical
+TCBQ_0020;de;8-option multiple choice;function(x) 8-(x+0)+0;Negative Affect;vertical
+TCBQ_0020;en;8-option multiple choice;function(x) 8-(x+0)+0;Negative Affect;vertical
+TCBQ_0020;ar;8-option multiple choice;NA;Negative Affect;vertical
+TCBQ_0021;de;8-option multiple choice;function(x) x+0;Effortful Control;vertical
+TCBQ_0021;en;8-option multiple choice;function(x) x+0;Effortful Control;vertical
+TCBQ_0021;ar;8-option multiple choice;NA;Effortful Control;vertical
+TCBQ_0022;de;8-option multiple choice;function(x) 8-(x+0)+0;Surgency;vertical
+TCBQ_0022;en;8-option multiple choice;function(x) 8-(x+0)+0;Surgency;vertical
+TCBQ_0022;ar;8-option multiple choice;NA;Surgency;vertical
+TCBQ_0023;de;8-option multiple choice;function(x) x+0;Negative Affect;vertical
+TCBQ_0023;en;8-option multiple choice;function(x) x+0;Negative Affect;vertical
+TCBQ_0023;ar;8-option multiple choice;NA;Negative Affect;vertical
+TCBQ_0024;de;8-option multiple choice;function(x) x+0;Effortful Control;vertical
+TCBQ_0024;en;8-option multiple choice;function(x) x+0;Effortful Control;vertical
+TCBQ_0024;ar;8-option multiple choice;NA;Effortful Control;vertical
+TCBQ_0025;de;8-option multiple choice;function(x) x+0;Surgency;vertical
+TCBQ_0025;en;8-option multiple choice;function(x) x+0;Surgency;vertical
+TCBQ_0025;ar;8-option multiple choice;NA;Surgency;vertical
+TCBQ_0026;de;8-option multiple choice;function(x) 8-(x+0)+0;Negative Affect;vertical
+TCBQ_0026;en;8-option multiple choice;function(x) 8-(x+0)+0;Negative Affect;vertical
+TCBQ_0026;ar;8-option multiple choice;NA;Negative Affect;vertical
+TCBQ_0027;de;8-option multiple choice;function(x) x+0;Effortful Control;vertical
+TCBQ_0027;en;8-option multiple choice;function(x) x+0;Effortful Control;vertical
+TCBQ_0027;ar;8-option multiple choice;NA;Effortful Control;vertical
+TCBQ_0028;de;8-option multiple choice;function(x) x+0;Surgency;vertical
+TCBQ_0028;en;8-option multiple choice;function(x) x+0;Surgency;vertical
+TCBQ_0028;ar;8-option multiple choice;NA;Surgency;vertical
+TCBQ_0029;de;8-option multiple choice;function(x) 8-(x+0)+0;Negative Affect;vertical
+TCBQ_0029;en;8-option multiple choice;function(x) 8-(x+0)+0;Negative Affect;vertical
+TCBQ_0029;ar;8-option multiple choice;NA;Negative Affect;vertical
+TCBQ_0030;de;8-option multiple choice;function(x) x+0;Effortful Control;vertical
+TCBQ_0030;en;8-option multiple choice;function(x) x+0;Effortful Control;vertical
+TCBQ_0030;ar;8-option multiple choice;NA;Effortful Control;vertical
+TCBQ_0031;de;8-option multiple choice;function(x) 8-(x+0)+0;Surgency;vertical
+TCBQ_0031;en;8-option multiple choice;function(x) 8-(x+0)+0;Surgency;vertical
+TCBQ_0031;ar;8-option multiple choice;NA;Surgency;vertical
+TCBQ_0032;de;8-option multiple choice;function(x) x+0;Negative Affect;vertical
+TCBQ_0032;en;8-option multiple choice;function(x) x+0;Negative Affect;vertical
+TCBQ_0032;ar;8-option multiple choice;NA;Negative Affect;vertical
+TCBQ_0033;de;8-option multiple choice;function(x) x+0;Effortful Control;vertical
+TCBQ_0033;en;8-option multiple choice;function(x) x+0;Effortful Control;vertical
+TCBQ_0033;ar;8-option multiple choice;NA;Effortful Control;vertical
+TCBQ_0034;de;8-option multiple choice;function(x) 8-(x+0)+0;Surgency;vertical
+TCBQ_0034;en;8-option multiple choice;function(x) 8-(x+0)+0;Surgency;vertical
+TCBQ_0034;ar;8-option multiple choice;NA;Surgency;vertical
+TCBQ_0035;de;8-option multiple choice;function(x) x+0;Negative Affect;vertical
+TCBQ_0035;en;8-option multiple choice;function(x) x+0;Negative Affect;vertical
+TCBQ_0035;ar;8-option multiple choice;NA;Negative Affect;vertical
+TCBQ_0036;de;8-option multiple choice;function(x) x+0;Effortful Control;vertical
+TCBQ_0036;en;8-option multiple choice;function(x) x+0;Effortful Control;vertical
+TCBQ_0036;ar;8-option multiple choice;NA;Effortful Control;vertical

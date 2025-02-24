@@ -1,44 +1,44 @@
-"key";"de";"en"
-"TMHE_0000_PROMPT";"Fragebogen zur musikalischen Aktivität im Elternhaus";"Musical Home Environment Questionnaire"
-"TMHE_0001_PROMPT";"Bitte gib für die folgenden Familienmitglieder an, welche musikalischen Aktivitäten sie in letzter Zeit ausgeführt haben. (Klicke alles Zutreffende an oder keine der Boxen, falls nichts zutrifft.)";"Please indicate the degree of current musical activities for the following members of your family. (Tick all that apply.)"
-"TMHE_0002_CHOICE1";"… spielt ein Instrument.";"… is playing an instrument."
-"TMHE_0002_CHOICE2";"… singt in einem Chor.";"… is singing in a choir."
-"TMHE_0002_PROMPT";"Meine Mutter";"My mother"
-"TMHE_0003_CHOICE1";"… spielt ein Instrument.";"… is playing an instrument."
-"TMHE_0003_CHOICE2";"… singt in einem Chor.";"… is singing in a choir."
-"TMHE_0003_PROMPT";"Mein Vater";"My father"
-"TMHE_0004_PROMPT";"Wie oft unternehmen deine Eltern oder jemand anderes mit dir zu Hause, während der Ferien oder am Wochenende die folgenden Aktivitäten?";"During holiday times and weekends, how often do your parents or someone else at home do the following activities with you?"
-"TMHE_0005_CHOICE1";"Täglich oder fast jeden Tag";"Every day or nearly every day"
-"TMHE_0005_CHOICE2";"Einmal oder zweimal pro Woche";"Once or twice per week"
-"TMHE_0005_CHOICE3";"Einmal oder zweimal pro Monat";"Once or twice per month"
-"TMHE_0005_CHOICE4";"Selten oder nie";"Never or hardly ever"
-"TMHE_0005_PROMPT";"Helfen mir bei meinen Hausaufgaben";"Help me with my homework"
-"TMHE_0006_CHOICE1";"Täglich oder fast jeden Tag";"Every day or nearly every day"
-"TMHE_0006_CHOICE2";"Einmal oder zweimal pro Woche";"Once or twice per week"
-"TMHE_0006_CHOICE3";"Einmal oder zweimal pro Monat";"Once or twice per month"
-"TMHE_0006_CHOICE4";"Selten oder nie";"Never or hardly ever"
-"TMHE_0006_PROMPT";"Reden mit mir über ein Thema, das wir in der Schule gelernt haben";"Talk with me about a topic we've learned about in school"
-"TMHE_0007_CHOICE1";"Täglich oder fast jeden Tag";"Every day or nearly every day"
-"TMHE_0007_CHOICE2";"Einmal oder zweimal pro Woche";"Once or twice per week"
-"TMHE_0007_CHOICE3";"Einmal oder zweimal pro Monat";"Once or twice per month"
-"TMHE_0007_CHOICE4";"Selten oder nie";"Never or hardly ever"
-"TMHE_0007_PROMPT";"Reden über Probleme in der Schule";"Talk about school related problems"
-"TMHE_0008_CHOICE1";"Täglich oder fast jeden Tag";"Every day or nearly every day"
-"TMHE_0008_CHOICE2";"Einmal oder zweimal pro Woche";"Once or twice per week"
-"TMHE_0008_CHOICE3";"Einmal oder zweimal pro Monat";"Once or twice per month"
-"TMHE_0008_CHOICE4";"Selten oder nie";"Never or hardly ever"
-"TMHE_0008_PROMPT";"Motivieren mich, Musik zu machen";"Encourage me to make music"
-"TMHE_0009_CHOICE1";"Täglich oder fast jeden Tag";"Every day or nearly every day"
-"TMHE_0009_CHOICE2";"Einmal oder zweimal pro Woche";"Once or twice per week"
-"TMHE_0009_CHOICE3";"Einmal oder zweimal pro Monat";"Once or twice per month"
-"TMHE_0009_CHOICE4";"Selten oder nie";"Never or hardly ever"
-"TMHE_0009_PROMPT";"Helfen mir, mein Instrument zu üben";"Support me with practicing my instrument"
-"TMHE_0010_CHOICE1";"Hausaufgaben";"Homework"
-"TMHE_0010_CHOICE2";"Fähigkeiten/technische Projekte (wie Videos machen/Computer/Programmieren)";"Skills / technology projects (such as video creation / computer / programming)"
-"TMHE_0010_CHOICE3";"Musik";"Music"
-"TMHE_0010_CHOICE4";"Andere kreative Aktivitäten (Theater, Handwerken, Basteln etc.)";"Other performing creative arts (theatre,crafts, etc.)"
-"TMHE_0010_CHOICE5";"Sport";"Sports / physical education"
-"TMHE_0010_CHOICE6";"Drinnen spielen";"Indoor play / free time"
-"TMHE_0010_CHOICE7";"Eine Fremdsprache lernen";"Learning a language other than English"
-"TMHE_0010_CHOICE8";"Fernsehen/Radio/Internet/Gaming";"Television / radio / internet / Gaming"
-"TMHE_0010_PROMPT";"Womit verbringst du die meiste Zeit während der Ferien? Sortiere die folgenden Aktivitäten von 8 (am wenigsten Zeit) bis 1 (am meisten Zeit).";"What do you spend most of your time doing during holidays? Rank the following activities from 8 (least time spent on this activity) to 1 (most time spent on this activity)."
+key;de;en;de_f;it;es;lv
+TMHE_0000_PROMPT;Fragebogen zur musikalischen Aktivität im Elternhaus;Musical Home Environment Questionnaire;Fragebogen zur musikalischen Aktivität im Elternhaus;Questionario sull’ambiente musicale domestico;Cuestionario sobre el ambiente doméstico musical;Aptauja par mūzikas vidi mājās
+TMHE_0001_PROMPT;Bitte gib für die folgenden Familienmitglieder an, welche musikalischen Aktivitäten sie in letzter Zeit ausgeführt haben. (Klicke alles Zutreffende an oder keine der Boxen, falls nichts zutrifft.);Please indicate the degree of current musical activities for the following members of your family. (Tick all that apply.);Bitte gib für die folgenden Familienmitglieder an, welche musikalischen Aktivitäten sie in letzter Zeit ausgeführt haben. (Klicke alles Zutreffende an oder keine der Boxen, falls nichts zutrifft.);Per favore, indica il grado di ricorrenza delle seguenti attività musicali per i membri della tua famiglia (segna tutte le risposte pertinenti):;Por favor, indica la frecuencia de las siguientes actividades musicales realizadas por los miembros de tu familia. (Marca todas aquellas que se cumplan).;"Lūdzu, norādi mūzikas aktivitātes, ar kurām pašreiz nodarbojas Tavi ģimenes locekļi (atzīmē visu, kas der, ja ne ar ko nenodarbojas, tad spied 'Turpināt')."
+TMHE_0002_CHOICE1;… spielt ein Instrument.;… is playing an instrument.;… spielt ein Instrument.;…suona uno strumento;…toca un instrumento;.. spēlē kādu mūzikas instrumentu
+TMHE_0002_CHOICE2;… singt in einem Chor.;… is singing in a choir.;… singt in einem Chor.;…canta in un coro;…canta en un coro;.. dzied korī
+TMHE_0002_PROMPT;Meine Mutter;My mother;Meine Mutter;Mia madre;Mi madre;Māte
+TMHE_0003_CHOICE1;… spielt ein Instrument.;… is playing an instrument.;… spielt ein Instrument.;…suona uno strumento;…toca un instrumento;.. spēlē kādu mūzikas instrumentu
+TMHE_0003_CHOICE2;… singt in einem Chor.;… is singing in a choir.;… singt in einem Chor.;…canta in un coro;…canta en un coro;.. dzied korī
+TMHE_0003_PROMPT;Mein Vater;My father;Mein Vater;Mio padre;Mi padre;Tēvs
+TMHE_0004_PROMPT;Wie oft unternehmen deine Eltern oder jemand anderes mit dir zu Hause, während der Ferien oder am Wochenende die folgenden Aktivitäten?;During holiday times and weekends, how often do your parents or someone else at home do the following activities with you?;Wie oft unternehmen deine Eltern oder jemand anderes mit dir zu Hause, während der Ferien oder am Wochenende die folgenden Aktivitäten?;Durante le vacanze e i weekend, con che frequenza i tuoi genitori o qualcun altro a casa tua svolge con te le seguenti attività?;Durante las vacaciones y los fines de semana, con qué frecuencia tus padres u otra persona en tu casa realiza contigo las siguientes actividades?;Cik bieži tavi vecāki vai kāds cits mājās brīvlaikā vai brīvdienās veic ar tevi šādas darbības?
+TMHE_0005_CHOICE1;Täglich oder fast jeden Tag;Every day or nearly every day;Täglich oder fast jeden Tag;Ogni giorno o quasi ogni giorno;Cada día o casi cada día;Katru dienu vai gandrīz katru dienu
+TMHE_0005_CHOICE2;Einmal oder zweimal pro Woche;Once or twice per week;Einmal oder zweimal pro Woche;Una o due volte a settimana;Una o dos veces por semana;Reizi vai divas reizes nedēļā
+TMHE_0005_CHOICE3;Einmal oder zweimal pro Monat;Once or twice per month;Einmal oder zweimal pro Monat;Una o due volte al mese;Una o dos veces al mes;Reizi vai divas reizes mēnesī
+TMHE_0005_CHOICE4;Selten oder nie;Never or hardly ever;Selten oder nie;Mai o quasi mai;Nunca o casi nunca;Nekad vai gandrīz nekad
+TMHE_0005_PROMPT;Helfen mir bei meinen Hausaufgaben;Help me with my homework;Helfen mir bei meinen Hausaufgaben;Aiutarmi con i compiti;Ayudarme con los deberes;Palīdz man mājasdarbos
+TMHE_0006_CHOICE1;Täglich oder fast jeden Tag;Every day or nearly every day;Täglich oder fast jeden Tag;Ogni giorno o quasi ogni giorno;Cada día o casi cada día;Katru dienu vai gandrīz katru dienu
+TMHE_0006_CHOICE2;Einmal oder zweimal pro Woche;Once or twice per week;Einmal oder zweimal pro Woche;Una o due volte a settimana;Una o dos veces por semana;Reizi vai divas reizes nedēļā
+TMHE_0006_CHOICE3;Einmal oder zweimal pro Monat;Once or twice per month;Einmal oder zweimal pro Monat;Una o due volte al mese;Una o dos veces al mes;Reizi vai divas reizes mēnesī
+TMHE_0006_CHOICE4;Selten oder nie;Never or hardly ever;Selten oder nie;Mai o quasi mai;Nunca o casi nunca;Nekad vai gandrīz nekad
+TMHE_0006_PROMPT;Reden mit mir über ein Thema, das wir in der Schule gelernt haben;Talk with me about a topic we've learned about in school;Reden mit mir über ein Thema, das wir in der Schule gelernt haben;Parlare con me di un argomento che abbiamo imparato a scuola;Hablar conmigo de un tema que hemos aprendido en el colegio;Runā ar mani par tēmām, kuras esmu mācījies skolā
+TMHE_0007_CHOICE1;Täglich oder fast jeden Tag;Every day or nearly every day;Täglich oder fast jeden Tag;Ogni giorno o quasi ogni giorno;Cada día o casi cada día;Katru dienu vai gandrīz katru dienu
+TMHE_0007_CHOICE2;Einmal oder zweimal pro Woche;Once or twice per week;Einmal oder zweimal pro Woche;Una o due volte a settimana;Una o dos veces por semana;Reizi vai divas reizes nedēļā
+TMHE_0007_CHOICE3;Einmal oder zweimal pro Monat;Once or twice per month;Einmal oder zweimal pro Monat;Una o due volte al mese;Una o dos veces al mes;Reizi vai divas reizes mēnesī
+TMHE_0007_CHOICE4;Selten oder nie;Never or hardly ever;Selten oder nie;Mai o quasi mai;Nunca o casi nunca;Nekad vai gandrīz nekad
+TMHE_0007_PROMPT;Reden über Probleme in der Schule;Talk about school related problems;Reden über Probleme in der Schule;Parlare dei problemi relativi alla scuola;Hablar de los problemas relacionados con la escuela;Runā par problēmām skolā
+TMHE_0008_CHOICE1;Täglich oder fast jeden Tag;Every day or nearly every day;Täglich oder fast jeden Tag;Ogni giorno o quasi ogni giorno;Cada día o casi cada día;Katru dienu vai gandrīz katru dienu
+TMHE_0008_CHOICE2;Einmal oder zweimal pro Woche;Once or twice per week;Einmal oder zweimal pro Woche;Una o due volte a settimana;Una o dos veces por semana;Reizi vai divas reizes nedēļā
+TMHE_0008_CHOICE3;Einmal oder zweimal pro Monat;Once or twice per month;Einmal oder zweimal pro Monat;Una o due volte al mese;Una o dos veces al mes;Reizi vai divas reizes mēnesī
+TMHE_0008_CHOICE4;Selten oder nie;Never or hardly ever;Selten oder nie;Mai o quasi mai;Nunca o casi nunca;Nekad vai gandrīz nekad
+TMHE_0008_PROMPT;Motivieren mich, Musik zu machen;Encourage me to make music;Motivieren mich, Musik zu machen;Incoraggiarmi a fare musica;Animarme a ensayar;Iedrošina mani nodarboties ar mūziku
+TMHE_0009_CHOICE1;Täglich oder fast jeden Tag;Every day or nearly every day;Täglich oder fast jeden Tag;Ogni giorno o quasi ogni giorno;Cada día o casi cada día;Katru dienu vai gandrīz katru dienu
+TMHE_0009_CHOICE2;Einmal oder zweimal pro Woche;Once or twice per week;Einmal oder zweimal pro Woche;Una o due volte a settimana;Una o dos veces por semana;Reizi vai divas reizes nedēļā
+TMHE_0009_CHOICE3;Einmal oder zweimal pro Monat;Once or twice per month;Einmal oder zweimal pro Monat;Una o due volte al mese;Una o dos veces al mes;Reizi vai divas reizes mēnesī
+TMHE_0009_CHOICE4;Selten oder nie;Never or hardly ever;Selten oder nie;Mai o quasi mai;Nunca o casi nunca;Nekad vai gandrīz nekad
+TMHE_0009_PROMPT;Helfen mir, mein Instrument zu üben;Support me with practicing my instrument;Helfen mir, mein Instrument zu üben;Sostenermi quando mi esercito con il mio strumento;Soportarme cuando practico mi instrumento;Atbalsta mani instrumenta spēles vingrināšanās procesā.
+TMHE_0010_CHOICE1;Hausaufgaben;Homework;Hausaufgaben;Compiti;Deberes;mājasdarbi
+TMHE_0010_CHOICE2;Fähigkeiten/technische Projekte (wie Videos machen/Computer/Programmieren);Skills / technology projects (such as video creation / computer / programming);Fähigkeiten/technische Projekte (wie Videos machen/Computer/Programmieren);Abilità/ progetti tecnologici (creazione di video, computer, programmazione);Proyectos de habilidades / tecnología (creación de videos / ordenador / programación);tehnoloģiju projekti (video veidošana, datorprasmes, programmēšana)
+TMHE_0010_CHOICE3;Musik;Music;Musik;Musica;Música;mūzika
+TMHE_0010_CHOICE4;Andere kreative Aktivitäten (Theater, Handwerken, Basteln etc.);Other performing creative arts (theatre,crafts, etc.);Andere kreative Aktivitäten (Theater, Handwerken, Basteln etc.);Altre attività artistiche (teatro, creazioni fatte a mano ecc.);Otras actividades artísticas (teatro, artesanía etc);citi mākslas veidi (teātris, amatniecība u.c.)
+TMHE_0010_CHOICE5;Sport;Sports / physical education;Sport;Sport/ educazione fisica;Deporte / educación física;sports / fiziskā audzināšana
+TMHE_0010_CHOICE6;Drinnen spielen;Indoor play / free time;Drinnen spielen;Giochi al chiuso/tempo libero;Juegos de interior / Tiempo libre;iekštelpu aktivitātes / brīvais laiks
+TMHE_0010_CHOICE7;Eine Fremdsprache lernen;Learning a language other than English;Eine Fremdsprache lernen;Imparare una lingua straniera;Aprender otro idioma además del español;citas svešvalodas apguve
+TMHE_0010_CHOICE8;Fernsehen/Radio/Internet/Gaming;Television / radio / internet / Gaming;Fernsehen/Radio/Internet/Gaming;TV/radio/internet/videogiochi;Televisión/Radio/Internet/Videojuegos;televīzija / radio / internets / datorspēles
+TMHE_0010_PROMPT;Womit verbringst du die meiste Zeit während der Ferien? Sortiere die folgenden Aktivitäten von 8 (am wenigsten Zeit) bis 1 (am meisten Zeit).;What do you spend most of your time doing during holidays? Rank the following activities from 8 (least time spent on this activity) to 1 (most time spent on this activity).;Womit verbringst du die meiste Zeit während der Ferien? Sortiere die folgenden Aktivitäten von 8 (am wenigsten Zeit) bis 1 (am meisten Zeit).;In cosa hai impiegato la maggior parte del tuo tempo libero durante le vacanze? Classifica le seguenti attività a partire da 8 (meno tempo impiegato in questa attività) a 1 (più tempo impiegato in questa attività);En qué has empleado la mayor parte de tu tiempo libre durante las vacaciones? Clasifica las siguientes actividades a partir de 8 (menos tiempo empleado en esta actividad) hacia 1 (más tiempo empleado en esta actividad).;Kam tu visvairāk velti laiku brīvdienās? Sarindo piedāvātās aktivitātes no 8 līdz 1,  (8 - vismazāk veltīts laiks un 1 - visvairāk veltīts laiks)

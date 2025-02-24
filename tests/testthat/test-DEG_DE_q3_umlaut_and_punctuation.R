@@ -17,7 +17,7 @@ app$expect_ui_text("Wenn ja, welche? Weiter")
 app$setInputs(text_input = "Ähm, hab ich mich verklickt?!")
 app$click_next()
 
-app$expect_ui_text("Ich bin weiblich männlich anderes möchte ich nicht sagen")
+app$expect_ui_text("Ich bin weiblich männlich divers möchte ich nicht sagen")
 app$click("btn1_text")
 
 app$expect_ui_text("Was ist deine Nationalität/Staatsangehörigkeit? (In welchem Land hast du deinen Pass?) Deutsch Afghanisch Algerisch Amerikanisch Britisch Bulgarisch Chinesisch Französisch Griechisch Irakisch Iranisch Italienisch Kanadisch Kosovarisch Kroatisch Polnisch Portugiesisch Rumänisch Russisch Senegalesisch Serbisch Spanisch Syrisch Türkisch Weißrussisch Andere Nationalität Weiter")

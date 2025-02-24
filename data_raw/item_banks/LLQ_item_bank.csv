@@ -1,0 +1,25 @@
+main_id;language ;template;score_func;subscales ;layout 
+TLLQ_0001;de;9-option checkbox;function(x) x+0;"Feeling Listening";vertical
+TLLQ_0001;en;9-option checkbox;function(x) x+0;"Feeling Listening";vertical
+TLLQ_0002;de;11-option checkbox;function(x) x+0;"Feeling Singing";vertical
+TLLQ_0002;en;11-option checkbox;function(x) x+0;"Feeling Singing";vertical
+TLLQ_0003;de;10-option checkbox;function(x) x+0;"Sleeping Aids";vertical
+TLLQ_0003;en;10-option checkbox;function(x) x+0;"Sleeping Aids";vertical
+TLLQ_0004;de;2-option multiple choice;function(x) x+0;"Calmness";vertical
+TLLQ_0004;en;2-option multiple choice;function(x) x+0;"Calmness";vertical
+TLLQ_0005;de;2-option multiple choice;function(x) x+0;"Rocking Rhythm";vertical
+TLLQ_0005;en;2-option multiple choice;function(x) x+0;"Rocking Rhythm";vertical
+TLLQ_0006;de;11-option checkbox;function(x) x+0;"Lullaby Themes";vertical
+TLLQ_0006;en;11-option checkbox;function(x) x+0;"Lullaby Themes";vertical
+TLLQ_0007;de;2-option multiple choice;function(x) x+0;"Transmission";vertical
+TLLQ_0007;en;2-option multiple choice;function(x) x+0;"Transmission";vertical
+TLLQ_0008;de;3-option multiple choice;function(x) x+0;"Lullabies Childhood";vertical
+TLLQ_0008;en;3-option multiple choice;function(x) x+0;"Lullabies Childhood";vertical
+TLLQ_0009;de;6-option checkbox;function(x) x+0;"Lullaby Singer";vertical
+TLLQ_0009;en;6-option checkbox;function(x) x+0;"Lullaby Singer";vertical
+TLLQ_0010;de;2-option multiple choice;function(x) x+0;"Tradition Importance";vertical
+TLLQ_0010;en;2-option multiple choice;function(x) x+0;"Tradition Importance";vertical
+TLLQ_0011;de;2-option multiple choice;function(x) x+0;"Same Lullabies";vertical
+TLLQ_0011;en;2-option multiple choice;function(x) x+0;"Same Lullabies";vertical
+TLLQ_0012;de;text input;function(x) x+0;"Lullabies";vertical
+TLLQ_0012;en;text input;function(x) x+0;"Lullabies";vertical

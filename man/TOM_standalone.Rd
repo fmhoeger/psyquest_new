@@ -16,7 +16,7 @@ The first language is selected by default.}
 Possible subscales are \code{"Entity"}, \code{"Gift"}, \code{"Improvement"}, \code{"Incremental"}, \code{"Learning"}, and \code{"Stable"}.
 If no subscales are provided all subscales for the questionnaire are selected.}
 
-\item{...}{Further arguments to be passed to \code{\link{TOM_standalone}()}.}
+\item{...}{Further arguments to be passed to \code{\link{standalone}()}.}
 }
 \description{
 This function launches a standalone testing session for the TOM questionnaire.

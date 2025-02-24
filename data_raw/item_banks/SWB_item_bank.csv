@@ -1,0 +1,9 @@
+main_id;language;template;score_func;subscales;layout 
+TSWB_0001;de;11-option multiple choice;function(x) x+0;"Life Satisfaction;Total";horizontal
+TSWB_0001;en;11-option multiple choice;function(x) x+0;"Life Satisfaction;Total";horizontal
+TSWB_0002;de;11-option multiple choice;function(x) x+0;"Worthwhile;Total";horizontal
+TSWB_0002;en;11-option multiple choice;function(x) x+0;"Worthwhile;Total";horizontal
+TSWB_0003;de;11-option multiple choice;function(x) x+0;"Happiness;Total";horizontal
+TSWB_0003;en;11-option multiple choice;function(x) x+0;"Happiness;Total";horizontal
+TSWB_0004;de;11-option multiple choice;function(x) 12-x+0;"Anxiety;Total";horizontal
+TSWB_0004;en;11-option multiple choice;function(x) 12-x+0;"Anxiety;Total";horizontal

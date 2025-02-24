@@ -15,7 +15,7 @@ Possible languages only includes \code{"en"} (English).}
 Possible subscales are \code{"Body Awareness"}, \code{"Social Dancing"}, \code{"Urge to Dance"}, \code{"Dance Training"}, \code{"General"}, and \code{"Observational Dance Experience"}.
 If no subscales are provided all subscales for the questionnaire are selected.}
 
-\item{...}{Further arguments to be passed to \code{\link{GDS_standalone}()}.}
+\item{...}{Further arguments to be passed to \code{\link{standalone}()}.}
 }
 \description{
 This function launches a standalone testing session for the GDS questionnaire.
